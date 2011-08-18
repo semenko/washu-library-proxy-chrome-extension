@@ -1,0 +1,4 @@
+A Chrome extension that automatically rewrites journal URLs to
+use the WashU Becker Proxy
+
+e.g. nature.com --> nature.com.beckerproxy.wustl.edu
