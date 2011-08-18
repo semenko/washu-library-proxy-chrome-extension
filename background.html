@@ -1,0 +1,13 @@
+<html>
+<head>
+<script src="./parseuri.js" type="text/javascript"></script>
+<script>
+  chrome.browserAction.onClicked.addListener(function (tab) {
+  var parsedUrl = parseUri(tab.url)
+  var beckerUrl =  parsedUrl.protocol + "://" + parsedUrl.host + ".beckerproxy.wustl.edu" + parsedUrl.relative;
+  chrome.tabs.update(tab.id, {url: beckerUrl});
+});
+
+</script>
+</head>
+</html>
