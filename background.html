@@ -2,10 +2,41 @@
 <head>
 <script src="./parseuri.js" type="text/javascript"></script>
 <script>
+  var onNetwork = false;
+  var proxyURL = '.beckerproxy.wustl.edu';
+
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "https://becker.wustl.edu/sites/all/themes/bml_theme2/js/network-indicator-script3.php", true);
+  xhr.onreadystatechange = function() {
+  if (xhr.readyState == 4) {
+    // alert(xhr.responseText);
+    var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
+    if (resp.networkTag == "WUSTL") {
+      onNetwork = true;
+    } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH") {
+      onNetwork = true;
+      proxyURL = '.beckerproxy2a.wucon.wustl.edu';
+    };
+   }
+  }
+  xhr.send();
+
+  function uploadJournalToDatabase(theUrl) {
+  alert('uploading' + theUrl);
+  };
+
   chrome.browserAction.onClicked.addListener(function (tab) {
   var parsedUrl = parseUri(tab.url)
   var beckerUrl =  parsedUrl.protocol + "://" + parsedUrl.host + ".beckerproxy.wustl.edu" + parsedUrl.relative;
   chrome.tabs.update(tab.id, {url: beckerUrl});
+
+  // If we've been manually clicked (and auto-triggering is enabled), then
+  // this journal is missing from our list. Let's send the journal URL to the cloud logger.
+  //
+  // If incognito, don't log the journal, just to be extra privacy conscious.
+  if (!tab.incognito) {
+  uploadJournalToDatabase(parsedUrl.host);
+  }
 });
 
 </script>
