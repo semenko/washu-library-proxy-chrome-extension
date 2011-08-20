@@ -1,8 +1,8 @@
 {
 "update_url":"http://clients2.google.com/service/update2/crx",
 	"name": "WUMS Becker Proxy Access",
-	"version": "0.1",
-	"description": "Automatically load journals with Becker Proxy access.",
+	"version": "0.2",
+	"description": "Automatically load journal websites through the WashU Becker Proxy",
 	"background_page": "background.html",
 	"icons": {
 		"16":"wucrest16.png",
@@ -10,7 +10,7 @@
 		"128":"wucrest128.png"
 	},
 	"permissions": [
-		"tabs", "http://*/*", "https://*/*"
+		"tabs", "http://*/*", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*"
 	],
 	"browser_action": {
 		"default_icon": "wucrest19.png",

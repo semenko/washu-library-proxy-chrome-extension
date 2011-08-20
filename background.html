@@ -5,6 +5,8 @@
   var onNetwork = false;
   var proxyURL = '.beckerproxy.wustl.edu';
 
+  // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
+  // can contact me or block the extension if it causes any problems.
   var xhr = new XMLHttpRequest();
   xhr.open("GET", "https://becker.wustl.edu/sites/all/themes/bml_theme2/js/network-indicator-script3.php", true);
   xhr.onreadystatechange = function() {
@@ -21,13 +23,17 @@
   }
   xhr.send();
 
+  // If users have manually clicked on the icon, we've failed.
+  // Submit the journal TLD to a logger so we can update our database.
   function uploadJournalToDatabase(theUrl) {
-  alert('uploading' + theUrl);
+    var uploader = new XMLHttpRequest();
+    uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + encodeURIComponent(theUrl), true);
+    uploader.send();
   };
 
   chrome.browserAction.onClicked.addListener(function (tab) {
   var parsedUrl = parseUri(tab.url)
-  var beckerUrl =  parsedUrl.protocol + "://" + parsedUrl.host + ".beckerproxy.wustl.edu" + parsedUrl.relative;
+  var beckerUrl =  parsedUrl.protocol + "://" + parsedUrl.host + proxyURL + parsedUrl.relative;
   chrome.tabs.update(tab.id, {url: beckerUrl});
 
   // If we've been manually clicked (and auto-triggering is enabled), then
@@ -35,7 +41,7 @@
   //
   // If incognito, don't log the journal, just to be extra privacy conscious.
   if (!tab.incognito) {
-  uploadJournalToDatabase(parsedUrl.host);
+    uploadJournalToDatabase(parsedUrl.host);
   }
 });
 
