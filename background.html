@@ -2,6 +2,7 @@
 <head>
 <script src="./parseuri.js" type="text/javascript"></script>
 <script>
+  // Figure out if we're @ WU/BJC/SLCH or off-campus.
   var onNetwork = false;
   var proxyURL = '.beckerproxy.wustl.edu';
 
@@ -23,26 +24,47 @@
   }
   xhr.send();
 
+
+
+  // Perform URL parsing and redirection
+  function checkURLforRedirection(tab) {
+  }
+
+  // Redirect the page using the auto-determined proxy URL
+  // Modularize so we only parse the URL once (parsing is expensive!)
+  function doRedirectToTheProxy(tab, parsed) {
+    var beckerURL =  parsed.protocol + "://" + parsedUrl.host + proxyURL + parsedUrl.relative;
+    chrome.tabs.update(tab.id, {url: beckerURL});
+  }
+
   // If users have manually clicked on the icon, we've failed.
   // Submit the journal TLD to a logger so we can update our database.
   function uploadJournalToDatabase(theUrl) {
     var uploader = new XMLHttpRequest();
-    uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + encodeURIComponent(theUrl), true);
-    uploader.send();
+      uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + encodeURIComponent(theUrl), true);
+      uploader.send();
   };
 
-  chrome.browserAction.onClicked.addListener(function (tab) {
-  var parsedUrl = parseUri(tab.url)
-  var beckerUrl =  parsedUrl.protocol + "://" + parsedUrl.host + proxyURL + parsedUrl.relative;
-  chrome.tabs.update(tab.id, {url: beckerUrl});
 
-  // If we've been manually clicked (and auto-triggering is enabled), then
-  // this journal is missing from our list. Let's send the journal URL to the cloud logger.
-  //
-  // If incognito, don't log the journal, just to be extra privacy conscious.
-  if (!tab.incognito) {
-    uploadJournalToDatabase(parsedUrl.host);
-  }
+  // Listen for tab url changes
+  chrome.tabs.onUpdated.addListener(function(tabid, changeinfo, tab) {
+    // If users refresh, changeinfo.url is null (don't trigger)
+    if (changeinfo.status == "loading" && changeinfo.url != null) {
+	alert(changeinfo.url + "------" + tab.url);
+    };
+  });
+
+  // Listen to clicking on our button.
+  chrome.browserAction.onClicked.addListener(function (tab) {
+    // Parse and redirect.
+    var parsedURL = parseUri(tab.url);
+    doRedirectToProxy(tab, parsedURL);
+
+    // If we've been manually clicked (and auto-triggering is enabled), the journal
+    // is missing from our list. Let's send the journal URL to the cloud logger.
+    if (!tab.incognito) {
+      uploadJournalToDatabase(parsedUrl.host);
+    };
 });
 
 </script>
