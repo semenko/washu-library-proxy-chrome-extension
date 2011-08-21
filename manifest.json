@@ -10,7 +10,7 @@
 		"128":"wucrest128.png"
 	},
 	"permissions": [
-		"tabs", "http://*/*", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*"
+		"tabs", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*"
 	],
 	"browser_action": {
 		"default_icon": "wucrest19.png",
