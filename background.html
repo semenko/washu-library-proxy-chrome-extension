@@ -26,8 +26,11 @@
 
 
 
-  // Perform URL parsing and redirection
+  // Perform URL parsing and (maybe) redirection
   function checkURLforRedirection(tab) {
+    var parsedURL = parseUri(tab.url);
+    // add some logic here
+    // doRedirectToProxy(tab, parsedURL);
   }
 
   // Redirect the page using the auto-determined proxy URL
@@ -49,8 +52,9 @@
   // Listen for tab url changes
   chrome.tabs.onUpdated.addListener(function(tabid, changeinfo, tab) {
     // If users refresh, changeinfo.url is null (don't trigger)
+    // Should we check for redirect loops, like with web.mit.edu?
     if (changeinfo.status == "loading" && changeinfo.url != null) {
-	// alert(changeinfo.url + "------" + tab.url);
+      // checkURLforRedirection(tab);
     };
   });
 

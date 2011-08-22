@@ -1,8 +1,8 @@
 {
 "update_url":"http://clients2.google.com/service/update2/crx",
-	"name": "WUMS Becker Proxy Access",
+	"name": "WashU Becker Proxy Access",
 	"version": "0.2",
-	"description": "Automatically load journal websites through the WashU Becker Proxy",
+	"description": "Automatically load journal websites through the WashU Becker Proxy (BETA)",
 	"background_page": "background.html",
 	"icons": {
 		"16":"wucrest16.png",
