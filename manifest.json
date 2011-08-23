@@ -9,6 +9,7 @@
 		"48":"wucrest48.png",
 		"128":"wucrest128.png"
 	},
+	"options_page": "options.html",
 	"permissions": [
 		"tabs", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*"
 	],

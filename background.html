@@ -1,6 +1,7 @@
 <html>
 <head>
 <script src="./parseuri.js" type="text/javascript"></script>
+<script src="./journals.js" type="text/javascript"></script>
 <script>
   // Figure out if we're @ WU/BJC/SLCH or off-campus.
   var onNetwork = false;
@@ -29,8 +30,9 @@
   // Perform URL parsing and (maybe) redirection
   function checkURLforRedirection(tab) {
     var parsedURL = parseUri(tab.url);
-    // add some logic here
-    // doRedirectToProxy(tab, parsedURL);
+    if (journals.list.indexOf(parsedURL.host) !== -1) {
+      doRedirectToProxy(tab, parsedURL);
+    }
   }
 
   // Redirect the page using the auto-determined proxy URL
@@ -54,7 +56,7 @@
     // If users refresh, changeinfo.url is null (don't trigger)
     // Should we check for redirect loops, like with web.mit.edu?
     if (changeinfo.status == "loading" && changeinfo.url != null) {
-      // checkURLforRedirection(tab);
+      checkURLforRedirection(tab);
     };
   });
 
