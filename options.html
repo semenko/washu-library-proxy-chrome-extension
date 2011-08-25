@@ -10,7 +10,6 @@
 <head>
   <title>WashU Library Proxy Options</title>
   <script src="./options.js"></script>
-  <script src="./util.js"></script>
   <style>
     #content {
       background-color: white;
@@ -63,51 +62,85 @@
       <div>
         <table cellpadding=1 width=100%>
           <tr>
-            <td width="15%">
+            <td width="20%">
               &nbsp;
             </td>
             <td width="5%">
               <input type="checkbox" id="autoRedirect" name="autoRedirect" onclick="save()" title="">
             </td>
-            <td width="45%" align="left">
+            <td width="60%" align="left">
               <span id="autoRedirectText" title="">Auto-redirect common journals</span>
             </td>
-            <td width="30%">
-              <label id="status"></label>
-            </td>
-            <td width="5%">
-              &nbsp;
-            </td>
-          </tr>
-          <tr>
-            <td width="15%">
-              &nbsp;
-            </td>
-            <td width="5%">
-              <input type="checkbox" id="multiCalendar" name="multiCalendar" onclick="save()" title="">
-            </td>
-            <td width="45%" align="left">
-              <span id="multiCalendarText" title="">Use Danforth Campus proxy (libproxy.wustl.edu) instead of Becker</span>
-            </td>
-            <td width="30%">
-              <label id="status"></label>
+            <td width="10%">
+              <label id="autoRedirectStatus"></label>
             </td>
             <td width="5%">
               &nbsp;
             </td>
           </tr><tr><td colspan="5"><hr></td></tr>
           <tr>
-            <td width="15%">
+            <td width="20%">
               &nbsp;
             </td>
             <td width="5%">
-              <input type="checkbox" id="multiCalendar" name="multiCalendar" onclick="save()" title="">
+              <input type="checkbox" id="enableDanforth" name="enableDanforth" onclick="save()" title="">
             </td>
-            <td width="45%" align="left">
-              <span id="multiCalendarText" title="">Opt-out of anonymous usage statistics</span>
+            <td width="60%" align="left">
+              <span id="enableDanforthText" title="">Enable Danforth proxy (libproxy.wustl.edu)</span>
             </td>
-            <td width="30%">
-              <label id="status"></label>
+            <td width="10%">
+              <label id="enableDanforthStatus"></label>
+            </td>
+            <td width="5%">
+              &nbsp;
+            </td>
+          </tr>
+          <tr>
+            <td width="20%">
+              &nbsp;
+            </td>
+            <td width="5%">
+              <input type="checkbox" id="enableBecker" name="enableBecker" onclick="save()" title="">
+            </td>
+            <td width="60%" align="left">
+              <span id="enableBeckerText" title="">Enable medical proxy (beckerproxy.wustl.edu)</span>
+            </td>
+            <td width="10%">
+              <label id="enableBeckerStatus"></label>
+            </td>
+            <td width="5%">
+              &nbsp;
+            </td>
+          </tr>
+          <tr>
+            <td width="20%">
+              &nbsp;
+            </td>
+            <td width="5%">
+              <input type="checkbox" id="preferDanforth" name="preferDanforth" onclick="save()" title="">
+            </td>
+            <td width="60%" align="left">
+              <span id="preferDanforthText" title="">When the same journal is accessible via either<br> proxy, use the Danforth proxy instead of Becker.</span>
+            </td>
+            <td width="10%">
+              <label id="preferDanforthStatus"></label>
+            </td>
+            <td width="5%">
+              &nbsp;
+            </td>
+          </tr><tr><td colspan="5"><hr></td></tr>
+          <tr>
+            <td width="20%">
+              &nbsp;
+            </td>
+            <td width="5%">
+              <input type="checkbox" id="usageOptOut" name="usageOptOut" onclick="save()" title="">
+            </td>
+            <td width="60%" align="left">
+              <span id="usageOptOut" title="">Opt-out of anonymous usage statistics</span>
+            </td>
+            <td width="10%">
+              <label id="usageOptOutStatus"></label>
             </td>
             <td width="5%">
               &nbsp;

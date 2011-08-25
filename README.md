@@ -1,14 +1,19 @@
-[Becker Chrome Extension](https://chrome.google.com/webstore/detail/glnjooalejjodiocededgemeacnfhcnp) -- for WashU
-==================================================================================================================
+[WashU Library Chrome Extension](https://chrome.google.com/webstore/detail/glnjooalejjodiocededgemeacnfhcnp)
+============================================================================================================
 
 Overview
 --------
-This is a Chrome extension to ease rewriting of journal URLs to include the WashU Becker Library proxy.
+This is a Chrome extension that automatically rewrites journal URLs to include
+the WashU library proxies (both Danforth and Becker proxies).
+
+These proxies are
+https://beckerproxy.wustl.edu
+https://login.libproxy.wustl.edu
 
 e.g. nature.com --> nature.com.beckerproxy.wustl.edu
 
 
-AUTHORS
+Authors
 -------
 **Nick Semenkovich**
 
