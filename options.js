@@ -6,11 +6,11 @@
  * http://code.google.com/google_bsd_license.html
  */
 
-var isMultiCalendar;
-
 var optAutoRedirect;
-var optUseBecker;
-var optNoUsage;
+var optEnableDanforth;
+var optEnableBecker;
+var optPreferDanforth;
+var optUsageOptOut;
 
 /**
  * Alias for document.getElementById.
@@ -26,56 +26,29 @@ window.addEventListener('load', init, false);
 
 // Set values based on localStorage
 function init() {
-  optAutoRedirect = JSON.parse(localStorage.autoRedirect || false);
-  $('autoRedirect').checked = isMultiCalendar;
-//  $('autoRedirectText').innerHTML =
-//      chrome.i18n.getMessage('autoRedirectText');
-//  $('optionsTitle').innerHTML = chrome.i18n.getMessage('optionsTitle');
-//  $('imageTooltip').title = chrome.i18n.getMessage('imageTooltip');
-//  $('imageTooltip').alt = chrome.i18n.getMessage('imageTooltip');
-//  $('autoRedirectText').title = chrome.i18n.getMessage('autoRedirectToolTip');
-//  $('autoRedirect').title = chrome.i18n.getMessage('autoRedirectToolTip');
-//  $('extensionName').innerHTML = chrome.i18n.getMessage('extensionName');
+    optAutoRedirect = JSON.parse(localStorage.autoRedirect || true);
+    optEnableDanforth = JSON.parse(localStorage.enableDanforth || true);
+    optEnableBecker = JSON.parse(localStorage.enableBecker || true);
+    optPreferDanforth = JSON.parse(localStorage.preferDanforth || false);
+    optUsageOptOut = JSON.parse(localStorage.usageOptOut || false);
+    $('autoRedirect').checked = optAutoRedirect;
+    $('enableDanforth').checked = optEnableDanforth;
+    $('enableBecker').checked = optEnableBecker;
+    $('preferDanforth').checked = optPreferDanforth;
+    $('usageOptOut').checked = optUsageOptOut;
 };
 
 /**
  * Saves the value of the checkbox into local storage.
  */
-function save() {
-  var autoRedirectId = $('autoRedirect');
-  localStorage.autoRedirect = autoRedirectId.checked;
-//  if (autoRedirectId) {
-//    autoRedirect.disabled = true;
-//  }
-  $('status').innerHTML = 'Saving ...';
-  $('status').style.display = 'block';
-//  chrome.extension.getBackgroundPage().onSettingsChange();
+function save(input) {
+    localStorage.autoRedirect = $('autoRedirect').checked;
+    localStorage.enableDanforth = $('enableDanforth').checked;
+    localStorage.enableBecker = $('enableBecker').checked;
+    localStorage.preferDanforth = $('preferDanforth').checked;
+    localStorage.usageOptOut = $('usageOptOut').checked;
+    $('autoRedirectStatus').innerHTML = 'Saved.';
+    $('autoRedirectStatus').style.display = 'block';
+    setTimeout("$('autoRedirectStatus').style.display = 'none'", 1500);
 };
 
-/**
- * Fired when a request is sent from either an extension process or a content
- * script. Add Listener to enable the save checkbox button on server response.
- * @param {String} request Request sent by the calling script.
- * @param {Object} sender Information about the script that sent a message or
- *     request.
- * @param {Function} sendResponse Function to call when there is a response.
- *     The argument should be any JSON-ifiable object, or undefined if there
- *     is no response.
- */
-chrome.extension.onRequest.addListener(function(request, sender, sendResponse) {
-  if (!request.message)
-    return;
-  switch (request.message) {
-    case 'enableSave':
-      if ($('autoRedirect')) {
-        if ($('autoRedirect').disabled) {
-            $('status').innerHTML = 'OMGSAVED';
-          $('status').style.display = 'block';
-          setTimeout("$('status').style.display = 'none'", 1500);
-        }
-        $('autoRedirect').disabled = false;
-      }
-      sendResponse();
-      break;
-  }
-});
