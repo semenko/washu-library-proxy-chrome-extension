@@ -10,4 +10,4 @@ function parseLocalStorage() {
     optEnableBecker = JSON.parse(localStorage.enableBecker || true);
     optPreferDanforth = JSON.parse(localStorage.preferDanforth || false);
     optUsageOptOut = JSON.parse(localStorage.usageOptOut || false);
-};
+}

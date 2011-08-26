@@ -14,7 +14,7 @@
  */
 function $(id) {
     return document.getElementById(id);
-};
+}
 
 //adding listener when body is loaded to call init function.
 window.addEventListener('load', init, false);
@@ -27,7 +27,7 @@ function init() {
     $('enableBecker').checked = optEnableBecker;
     $('preferDanforth').checked = optPreferDanforth;
     $('usageOptOut').checked = optUsageOptOut;
-};
+}
 
 /**
  * Saves the value of the checkbox into local storage.
@@ -43,5 +43,4 @@ function save(input) {
     $('autoRedirectStatus').innerHTML = 'Saved.';
     $('autoRedirectStatus').style.display = 'block';
     setTimeout("$('autoRedirectStatus').style.display = 'none'", 1500);
-};
-
+}
