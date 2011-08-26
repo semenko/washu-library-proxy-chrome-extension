@@ -6,11 +6,6 @@
  * http://code.google.com/google_bsd_license.html
  */
 
-var optAutoRedirect;
-var optEnableDanforth;
-var optEnableBecker;
-var optPreferDanforth;
-var optUsageOptOut;
 
 /**
  * Alias for document.getElementById.
@@ -26,11 +21,7 @@ window.addEventListener('load', init, false);
 
 // Set values based on localStorage
 function init() {
-    optAutoRedirect = JSON.parse(localStorage.autoRedirect || true);
-    optEnableDanforth = JSON.parse(localStorage.enableDanforth || true);
-    optEnableBecker = JSON.parse(localStorage.enableBecker || true);
-    optPreferDanforth = JSON.parse(localStorage.preferDanforth || false);
-    optUsageOptOut = JSON.parse(localStorage.usageOptOut || false);
+    parseLocalStorage();
     $('autoRedirect').checked = optAutoRedirect;
     $('enableDanforth').checked = optEnableDanforth;
     $('enableBecker').checked = optEnableBecker;
@@ -47,6 +38,8 @@ function save(input) {
     localStorage.enableBecker = $('enableBecker').checked;
     localStorage.preferDanforth = $('preferDanforth').checked;
     localStorage.usageOptOut = $('usageOptOut').checked;
+    // Make sure the background page sees the changes!
+    chrome.extension.getBackgroundPage().parseLocalStorage();
     $('autoRedirectStatus').innerHTML = 'Saved.';
     $('autoRedirectStatus').style.display = 'block';
     setTimeout("$('autoRedirectStatus').style.display = 'none'", 1500);
