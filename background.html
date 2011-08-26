@@ -18,7 +18,6 @@
   xhr.open("GET", "https://becker.wustl.edu/sites/all/themes/bml_theme2/js/network-indicator-script3.php", true);
   xhr.onreadystatechange = function() {
   if (xhr.readyState == 4) {
-    // alert(xhr.responseText);
     var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
     if (resp.networkTag == "WUSTL") {
       onNetwork = true;
@@ -31,10 +30,11 @@
   xhr.send();
 
   // Perform URL parsing and (maybe) redirection
+  // TODO: Move logic to the listener and blow away this function
   function checkURLforRedirection(tab) {
-      if (optAutoRedirect == true) {
+      if (optAutoRedirect == true && onNetwork == false) {
         var parsedURL = parseUri(tab.url);
-        if (journals.list.indexOf(parsedURL.host) !== -1) {
+        if (becker_journals.list.indexOf(parsedURL.host) !== -1) {
             doRedirectToProxy(tab, parsedURL);
         }
       }
@@ -68,6 +68,8 @@
   // Listen to clicking on our button.
   chrome.browserAction.onClicked.addListener(function (tab) {
     // Parse and redirect.
+    // TODO: Add logic to prevent non-http/https redirects.
+    // TODO: Consider rewriting https since the Becker people don't understand SSL certs.
     var parsedURL = parseUri(tab.url);
     doRedirectToProxy(tab, parsedURL);
 
