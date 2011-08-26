@@ -13,6 +13,15 @@ https://login.libproxy.wustl.edu
 e.g. nature.com --> nature.com.beckerproxy.wustl.edu
 
 
+Options
+-------
+Auto Redirect (default: true)
+
+Enable Danforth Proxy (default: true)
+Enable Becker Proxy (default: true)
+Prefer Danforth Proxy (default: false)
+
+
 Authors
 -------
 **Nick Semenkovich**
