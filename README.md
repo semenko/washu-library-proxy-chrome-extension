@@ -7,8 +7,9 @@ This is a Chrome extension that automatically rewrites journal URLs to include
 the WashU library proxies (both Danforth and Becker proxies).
 
 These proxies are
-https://beckerproxy.wustl.edu
-https://login.libproxy.wustl.edu
+
++ https://beckerproxy.wustl.edu
++ https://login.libproxy.wustl.edu
 
 e.g. nature.com --> nature.com.beckerproxy.wustl.edu
 
