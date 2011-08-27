@@ -33,6 +33,10 @@ function init() {
  * Saves the value of the checkbox into local storage.
  */
 function save(input) {
+    // Simple logic to force at least one proxy to be enabled
+    if (!$('enableDanforth').checked && !$('enableBecker').checked) {
+        $('enableDanforth').checked = true;
+    }
     localStorage.autoRedirect = $('autoRedirect').checked;
     localStorage.enableDanforth = $('enableDanforth').checked;
     localStorage.enableBecker = $('enableBecker').checked;
