@@ -10,7 +10,9 @@
         parseLocalStorage();
         // Figure out if we're @ WU/BJC/SLCH/Danforth or off-campus.
         var onNetwork = false;
-        var proxyURL = '.beckerproxy.wustl.edu';
+        // TODO: Consider redirect with /?url= parameter instead if not logged in.
+        var danforthProxyURL = '.libproxy.wustl.edu';
+        var beckerProxyURL = '.beckerproxy.wustl.edu';
 
         // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
         // can contact me or block the extension if it causes any problems.
@@ -23,16 +25,16 @@
                     onNetwork = true;
                 } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH") {
                     onNetwork = true;
-                    proxyURL = '.beckerproxy2a.wucon.wustl.edu';
+                    beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
                 }
             }
         };
         xhr.send();
 
         // Perform URL parsing and (maybe) redirection
-        // TODO: Move logic to the listener and blow away this function
+        // TODO: Move logic to the listener and blow away this function?
         function checkURLforRedirection(tab) {
-            if (optAutoRedirect == true && onNetwork == false) {
+            if (optAutoRedirect && !onNetwork) {
                 var parsedURL = parseUri(tab.url);
                 if (becker_journals.list.indexOf(parsedURL.host) !== -1) {
                     doRedirectToProxy(tab, parsedURL);
@@ -43,18 +45,17 @@
         // Redirect the page using the auto-determined proxy URL
         // Modularize so we only parse the URL once (parsing is expensive!)
         function doRedirectToProxy(tab, parsed) {
-            var beckerURL =  parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative;
-            chrome.tabs.update(tab.id, {url: beckerURL});
+            var proxifiedURL =  parsed.protocol + "://" + parsed.host + beckerProxyURL + parsed.relative;
+            chrome.tabs.update(tab.id, {url: proxifiedURL});
         }
 
         // If users have manually clicked on the icon, we've failed.
-        // Submit the journal TLD to a logger so we can update our database.
+        // Submit the journal domain to a logger so we can update our database.
         function uploadJournalToDatabase(theUrl) {
             var uploader = new XMLHttpRequest();
             uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + encodeURIComponent(theUrl), true);
             uploader.send();
         }
-
 
         // Listen for tab url changes
         chrome.tabs.onUpdated.addListener(function(tabid, changeinfo, tab) {
@@ -75,7 +76,7 @@
 
             // If we've been manually clicked (and auto-triggering is enabled), the journal
             // is missing from our list. Let's send the journal URL to the cloud logger.
-            if (!tab.incognito) {
+            if (!tab.incognito && !optUsageOptOut) {
                 uploadJournalToDatabase(parsedURL.host);
             }
         });

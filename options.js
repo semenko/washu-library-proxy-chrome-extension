@@ -1,7 +1,7 @@
 /**
  * Derived from the Google Calendar Checker available at:
  * http://code.google.com/chrome/extensions/samples.html
- * 
+ *
  * Licensed under the Google 3-Clause BSD:
  * http://code.google.com/google_bsd_license.html
  */
