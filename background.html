@@ -31,21 +31,40 @@
         };
         xhr.send();
 
-        // Perform URL parsing and (maybe) redirection
-        // TODO: Move logic to the listener and blow away this function?
+        // The user wants auto-redirection and is off-network,
+        // so we perform URL parsing and (maybe) redirection
         function checkURLforRedirection(tab) {
-            if (optAutoRedirect && !onNetwork) {
-                var parsedURL = parseUri(tab.url);
-                if (becker_journals.list.indexOf(parsedURL.host) !== -1) {
-                    doRedirectToProxy(tab, parsedURL);
+            var parsedURL = parseUri(tab.url);
+            if (intersect_journals.list.indexOf(parsedURL.host) !== -1) {
+                if (optPreferDanforth || (optEnableDanforth && !optEnableBecker)) {
+                    doRedirectToProxy(tab, parsedURL, danforthProxyURL);
+                    return true;
+                } else {
+                    doRedirectToProxy(tab, parsedURL, beckerProxyURL);
+                    return true;
                 }
             }
+
+            // We're still here, so the journal is not in intersect_journals.
+            if (optEnableDanforth) {
+                if (danforth_journals.list.indexOf(parsedURL.host) !== -1) {
+                    doRedirectToProxy(tab, parsedURL, danforthProxyURL);
+                    return true;
+                }
+            }
+            if (optEnableBecker) {
+                if (becker_journals.list.indexOf(parsedURL.host) !== -1) {
+                    doRedirectToProxy(tab, parsedURL, beckerProxyURL);
+                    return true;
+                }
+            }
+            return false;
         }
 
         // Redirect the page using the auto-determined proxy URL
         // Modularize so we only parse the URL once (parsing is expensive!)
-        function doRedirectToProxy(tab, parsed) {
-            var proxifiedURL =  parsed.protocol + "://" + parsed.host + beckerProxyURL + parsed.relative;
+        function doRedirectToProxy(tab, parsed, proxyURL) {
+            var proxifiedURL =  parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative;
             chrome.tabs.update(tab.id, {url: proxifiedURL});
         }
 
@@ -61,7 +80,7 @@
         chrome.tabs.onUpdated.addListener(function(tabid, changeinfo, tab) {
             // If users refresh, changeinfo.url is null (don't trigger)
             // Should we check for redirect loops, like with web.mit.edu?
-            if (changeinfo.status == "loading" && changeinfo.url != null) {
+            if (optAutoRedirect && !onNetwork && changeinfo.status == "loading" && changeinfo.url != null) {
                 checkURLforRedirection(tab);
             }
         });
@@ -72,7 +91,8 @@
             // TODO: Add logic to prevent non-http/https redirects.
             // TODO: Consider rewriting https since the Becker people don't understand SSL certs.
             var parsedURL = parseUri(tab.url);
-            doRedirectToProxy(tab, parsedURL);
+            // TODO: Modularize for becker
+            doRedirectToProxy(tab, parsedURL, beckerProxyURL);
 
             // If we've been manually clicked (and auto-triggering is enabled), the journal
             // is missing from our list. Let's send the journal URL to the cloud logger.
