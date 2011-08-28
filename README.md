@@ -17,10 +17,17 @@ e.g. nature.com --> nature.com.beckerproxy.wustl.edu
 Options
 -------
 Auto Redirect (default: true)
+* Should we automatically redirect the page if it's in a database of known journals ([LIB]-journals.js)?
 
 Enable Danforth Proxy (default: true)
+* Should we use libproxy.wustl.edu?
+
 Enable Becker Proxy (default: true)
+* Should we use beckerproxy.wustl.edu (or beckerproxy2a.wucon.wustl.edu)?
+
 Prefer Danforth Proxy (default: false)
+* If a journal is in both proxies (e.g. Nature) and both are enabled, should we prefer Danforth?
+
 
 
 Authors

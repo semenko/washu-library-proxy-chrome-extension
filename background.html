@@ -6,6 +6,8 @@
     <script src="./danforth-journals.js" type="text/javascript"></script>
     <script src="./intersect-journals.js" type="text/javascript"></script>
     <script>
+        // chrome.browserAction.setBadgeBackgroundColor({color: [0, 110, 81, 255]});
+        // chrome.browserAction.setBadgeText({text: "ON"});
         // Parse some local storage objects!
         parseLocalStorage();
         // Figure out if we're @ WU/BJC/SLCH/Danforth or off-campus.
@@ -70,6 +72,7 @@
 
         // If users have manually clicked on the icon, we've failed.
         // Submit the journal domain to a logger so we can update our database.
+        // TODO: Add addtl. log data (version, on-network detection, etc.)
         function uploadJournalToDatabase(theUrl) {
             var uploader = new XMLHttpRequest();
             uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + encodeURIComponent(theUrl), true);
@@ -88,14 +91,20 @@
         // Listen to clicking on our button.
         chrome.browserAction.onClicked.addListener(function (tab) {
             // Parse and redirect.
-            // TODO: Add logic to prevent non-http/https redirects.
-            // TODO: Consider rewriting https since the Becker people don't understand SSL certs.
+            // TODO: Consider rewriting https for becker since the Becker people don't understand SSL certs.
             var parsedURL = parseUri(tab.url);
-            // TODO: Modularize for becker
-            doRedirectToProxy(tab, parsedURL, beckerProxyURL);
+            
+            if (parsedURL.protocol == ('http' || 'https')) {
+                if (optPreferDanforth || (!optEnableBecker && optEnableDanforth)) {
+                    doRedirectToProxy(tab, parsedURL, danforthProxyURL);
+                } else {
+                    doRedirectToProxy(tab, parsedURL, beckerProxyURL);
+                }
+            }
 
             // If we've been manually clicked (and auto-triggering is enabled), the journal
             // is missing from our list. Let's send the journal URL to the cloud logger.
+            // We log non-http/https here in case we're missing something (ftp sites for journal data?)
             if (!tab.incognito && !optUsageOptOut) {
                 uploadJournalToDatabase(parsedURL.host);
             }
