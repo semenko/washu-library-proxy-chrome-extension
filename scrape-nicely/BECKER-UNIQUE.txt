@@ -806,9 +806,7 @@ www.neuralsystemsandcircuits.com
 www.neurologyindia.com
 www.neurology.org
 www.newslettersonline.com
-www.niaaa.nih.gov
 www.nih.go.jp
-www.nlm.nih.gov
 www.nmanet.org
 www.noiseandhealth.org
 www.nonlinearbiomedphys.com
@@ -847,13 +845,6 @@ www.phac-aspc.gc.ca
 www.phcogres.com
 www.physiologyonline.org
 www.plantmethods.com
-www.plosbiology.org
-www.ploscompbiol.org
-www.plosgenetics.org
-www.plosmedicine.org
-www.plosntds.org
-www.plosone.org
-www.plospathogens.org
 www.pnas.org
 www.polymersdatabase.com
 www.pophealthmetrics.com

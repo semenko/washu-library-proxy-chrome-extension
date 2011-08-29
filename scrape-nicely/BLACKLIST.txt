@@ -1,2 +1,11 @@
 www.cdc.gov
 www.ncbi.nlm.nih.gov
+www.niaaa.nih.gov
+www.nlm.nih.gov
+www.plosbiology.org
+www.ploscompbiol.org
+www.plosgenetics.org
+www.plosmedicine.org
+www.plosntds.org
+www.plosone.org
+www.plospathogens.org
