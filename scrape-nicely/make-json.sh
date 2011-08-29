@@ -4,9 +4,9 @@
 #  Intermediates: BECKER-UNIQUE.txt, INTERSECT.txt, DANFORTH-UNIQUE.txt
 # Output: becker-journals.js, intersect-journals.js, danforth-journals.js
 
-grep -Fx -f DANFORTH.txt BECKER.txt | grep -v BLACKLIST.txt > INTERSECT.txt
-grep -Fxv -f DANFORTH.txt BECKER.txt | grep -v BLACKLIST.txt > BECKER-UNIQUE.txt
-grep -Fxv -f BECKER.txt DANFORTH.txt | grep -v BLACKLIST.txt > DANFORTH-UNIQUE.txt
+grep -Fx -f DANFORTH.txt BECKER.txt | grep -v -f BLACKLIST.txt > INTERSECT.txt
+grep -Fxv -f DANFORTH.txt BECKER.txt | grep -v -f BLACKLIST.txt > BECKER-UNIQUE.txt
+grep -Fxv -f BECKER.txt DANFORTH.txt | grep -v -f BLACKLIST.txt > DANFORTH-UNIQUE.txt
 
 echo -n "var intersect_journals = {
     \"list\": ['" > intersect-journals.js

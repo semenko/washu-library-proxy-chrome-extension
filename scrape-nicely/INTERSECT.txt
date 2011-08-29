@@ -7,7 +7,6 @@ thejns.org
 www.arl.org
 www.biomedcentral.com
 www.biotechnologyforbiofuels.com
-www.cdc.gov
 www.clockss.org
 www.expert-reviews.com
 www.futuremedicine.com
@@ -19,7 +18,6 @@ www.journalarchive.jst.go.jp
 www.jstage.jst.go.jp
 www.nap.edu
 www.nature.com
-www.ncbi.nlm.nih.gov
 www.rsc.org
 www.sage-hindawi.com
 www.schattauer.de
