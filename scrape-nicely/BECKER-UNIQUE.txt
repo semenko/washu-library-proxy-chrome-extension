@@ -399,7 +399,7 @@ www.aidsrestherapy.com
 www.aidsreviews.com
 www.aite.wroclaw.pl
 www.ajcn.org
-www.AJHPContents.com
+www.ajhpcontents.com
 www.ajhp.org
 www.ajnr.org
 www.ajronline.org
@@ -860,7 +860,7 @@ www.publichealthreports.org
 www.publish.csiro.au
 www.pulsus.com
 www.pvrireview.org
-www.R2Library.com
+www.r2library.com
 www.rbej.com
 www.rcjournal.com
 www.rcsed.ac.uk
