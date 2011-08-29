@@ -4,7 +4,6 @@ aapredbook.aappublications.org
 acb.rsmjournals.com
 acn.oxfordjournals.org
 adc.bmj.com
-adisonline.com
 advan.physiology.org
 adv.medicaljournals.se
 aem.asm.org
@@ -74,7 +73,6 @@ breast-cancer-research.com
 bsb.eurasipjournals.com
 cancerdiscovery.aacrjournals.org
 cancerpreventionresearch.aacrjournals.org
-cancerres.aacrjournals.org
 canreviews.aacrjournals.org
 caonline.amcancersoc.org
 carbo.chemnetbase.com
@@ -108,7 +106,6 @@ clinical.diabetesjournals.org
 clinicalevidence.bmj.com
 cmr.asm.org
 content.healthaffairs.org
-content.karger.com
 cshperspectives.cshlp.org
 cshprotocols.cshlp.org
 cvi.asm.org
@@ -173,7 +170,6 @@ gerontologist.oxfordjournals.org
 glycob.oxfordjournals.org
 gut.bmj.com
 heart.bmj.com
-heinonline.org
 hmg.oxfordjournals.org
 hormones.gr
 humrep.oxfordjournals.org
@@ -181,13 +177,11 @@ humupd.oxfordjournals.org
 hyper.ahajournals.org
 iai.asm.org
 icvts.ctsnetjournals.org
-ieeexplore.ieee.org
 ije.oxfordjournals.org
 ijs.sgmjournals.org
 ijtmb.com
 imaging.birjournals.org
 info.k4health.org
-informahealthcare.com
 intimm.oxfordjournals.org
 intqhc.oxfordjournals.org
 iopscience.iop.org
@@ -239,7 +233,6 @@ jn.physiology.org
 joe.endocrinology-journals.org
 jopm.org
 jorthod.maneyjournals.org
-journals.iucr.org
 jpet.aspetjournals.org
 jp.physoc.org
 jppr.psychiatryonline.org
@@ -274,7 +267,6 @@ molehr.oxfordjournals.org
 molpharm.aspetjournals.org
 monographs.iarc.fr
 mp.bmj.com
-muse.jhu.edu
 mutage.oxfordjournals.org
 name.umdl.umich.edu
 nar.oxfordjournals.org
@@ -290,7 +282,6 @@ ntr.oxfordjournals.org
 nursingstandard.rcnpublishing.co.uk
 oem.bmj.com
 ohr.oxfordjournals.org
-online.sagepub.com
 online.statref.com
 ousar.lib.okayama-u.ac.jp
 ovidsp.ovid.com
@@ -318,7 +309,6 @@ psy.psychiatryonline.org
 ptjournal.apta.org
 publications.cpa-apc.org
 pubs.acs.org
-pubs.amstat.org
 purl.access.gpo.gov
 qjmed.oxfordjournals.org
 qualitysafety.bmj.com
@@ -346,7 +336,6 @@ secure.medicalletter.org
 sgo.sagepub.com
 shm.oxfordjournals.org
 shortreports.rsmjournals.com
-site.ebrary.com
 smj.rsmjournals.com
 spectrum.diabetesjournals.org
 stemcellres.com
@@ -381,7 +370,6 @@ www.aaem.pl
 www.aafp.org
 www.aasmnet.org
 www.abmsdirectory.com
-www.accessmedicine.com
 www.acpjc.org
 www.actabiomedica.it
 www.acta-cytol.com
@@ -423,7 +411,6 @@ www.annalspc.com
 www.annclinlabsci.org
 www.ann-clinmicrob.com
 www.annfammed.org
-www.annualreviews.org
 www.anzhealthpolicy.com
 www.aott.org.tr
 www.apfmj-archive.com
@@ -436,10 +423,8 @@ www.asir-journal.com
 www.asis.org
 www.asnneuro.org
 www.astmh.org
-www.atypon-link.com
 www.audiologyresearch.org
 www.behavioralandbrainfunctions.com
-www.bepress.com
 www.biij.org
 www.biochemj.org
 www.biochempress.com
@@ -456,7 +441,6 @@ www.biolreprod.org
 www.biolsci.org
 www.biomagres.com
 www.biomedical-engineering-online.com
-www.bioone.org
 www.bioscience.org
 www.biosciencetrends.com
 www.bioscirep.org
@@ -650,7 +634,6 @@ www.indianjurol.com
 www.indianpediatrics.net
 www.infectagentscancer.com
 www.infectionecologyandepidemiology.net
-www.informaworld.com
 www.intarchmed.com
 www.internationalbreastfeedingjournal.com
 www.internationaldiabetesmonitor.com
@@ -735,7 +718,6 @@ www.journaloforalmicrobiology.net
 www.journalofparasitology.org
 www.journalofvision.org
 www.journalsleep.org
-www.jove.com
 www.jpalliativecare.com
 www.jpands.org
 www.jpbsonline.org
@@ -744,17 +726,13 @@ www.jpp.krakow.pl
 www.jrheum.org
 www.jsad.com
 www.jsnm.org
-www.jstor.org
 www.jsystchem.com
 www.jultrasoundmed.org
-www.karger.com
 www.kinetoplastids.com
 www.kjronline.org
-www.landesbioscience.com
 www.la-press.com
 www.libraryjournal.com
 www.libyanjournalofmedicine.net
-www.liebertonline.com
 www.lifescied.org
 www.lipidworld.com
 www.lungindia.com
@@ -767,16 +745,13 @@ www.mdconsult.com
 www.meajo.org
 www.mechanicalcirculatorysupport.net
 www.medicalgasresearch.com
-www.medicaljournals.se
 www.medimmunol.com
 www.med.kobe-u.ac.jp
 www.medsci.org
-www.metapress.com
 www.mf.uni-lj.si
 www.microbialcellfactories.com
 www.microbialinformaticsj.com
 www.minervamedica.it
-www.mitpressjournals.org
 www.mja.com.au
 www.mlanet.org
 www.mobilednajournal.com
@@ -804,7 +779,6 @@ www.nih.go.jp
 www.nmanet.org
 www.noiseandhealth.org
 www.nonlinearbiomedphys.com
-www.nrcresearchpress.com
 www.nuclear-receptor.com
 www.nutritionandmetabolism.com
 www.nutritionj.com
@@ -842,7 +816,6 @@ www.plantmethods.com
 www.pnas.org
 www.polymersdatabase.com
 www.pophealthmetrics.com
-www.portico.org
 www.primarypsychiatry.com
 www.proteomesci.com
 www.pssjournal.com
@@ -851,14 +824,11 @@ www.psychiatryonline.com
 www.psychiatry.org.il
 www.psychosomaticmedicine.org
 www.publichealthreports.org
-www.publish.csiro.au
 www.pulsus.com
 www.pvrireview.org
-www.r2library.com
 www.rbej.com
 www.rcjournal.com
 www.rcsed.ac.uk
-www.reference-global.com
 www.reproduction-online.org
 www.reproductive-health-journal.com
 www.reproductivemedicine.com
@@ -884,17 +854,13 @@ www.sma.org.sg
 www.smarttjournal.com
 www.smw.ch
 www.socioaffectiveneuroscipsychol.net
-www.springerlink.com
-www.springerprotocols.com
 www.studiesinmycology.org
 www.substanceabusepolicy.com
 www.tbiomed.com
 www.tcrt.org
 www.theannals.com
-www.the-aps.org
 www.thepermanentejournal.org
 www.the-scientist.com
-www.thieme-connect.com
 www.thno.org
 www.thoracicmedicine.org
 www.thrombosisjournal.com
@@ -917,5 +883,4 @@ www.virologyj.com
 www.wjes.org
 www.wjgnet.com
 www.wjso.com
-www.worldscinet.com
 xlink.rsc.org
