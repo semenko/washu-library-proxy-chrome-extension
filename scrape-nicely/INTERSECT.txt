@@ -7,6 +7,7 @@ informahealthcare.com
 journals.bcdecker.com
 journals.cambridge.org
 journals.iucr.org
+lib.myilibrary.com
 muse.jhu.edu
 onlinelibrary.wiley.com
 online.sagepub.com
@@ -21,11 +22,9 @@ www.atypon-link.com
 www.bepress.com
 www.biomedcentral.com
 www.bioone.org
-www.biotechnologyforbiofuels.com
 www.clockss.org
 www.expert-reviews.com
 www.futuremedicine.com
-www.ias.ac.in
 www.informaworld.com
 www.ingentaconnect.com
 www.journalarchive.jst.go.jp
@@ -48,7 +47,6 @@ www.reference-global.com
 www.rsc.org
 www.sage-hindawi.com
 www.schattauer.de
-www.scielo.br
 www.sciencedirect.com
 www.springerlink.com
 www.springerprotocols.com

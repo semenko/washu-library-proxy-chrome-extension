@@ -5,12 +5,14 @@ lcweb2.loc.gov
 libproxy.wustl.edu
 nnlm.gov
 www2a.cdc.gov
+www.biotechnologyforbiofuels.com
 www.cdc.gov
 www.census.gov
 www.down-syndrome.org
 www.drugabuse.gov
 www.gpoaccess.gov
 www.hindawi.com
+www.ias.ac.in
 www.lib.noaa.gov
 www.loc.gov
 www.ncbi.nlm.nih.gov
@@ -27,5 +29,6 @@ www.plosone.org
 www.plospathogens.org
 www.pubmedcentral.nih.gov
 www.rehab.research.va.gov
+www.scielo.br
 www.statistics.gov.uk
 www.who.int

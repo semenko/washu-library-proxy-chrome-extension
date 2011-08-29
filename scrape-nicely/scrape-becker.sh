@@ -15,7 +15,7 @@ do
 done
 
 
-grep -oE "U=http[^\"]+" becker-raw.html | grep -oE "%3A%2F%2F.*" | grep -oE "^%3A%2F%2F[^%]+" | cut -b10- > becker-pre-unique.txt
+grep -v "Open" becker-raw.html | grep -oE "U=http[^\"]+" | grep -oE "%3A%2F%2F.*" | grep -oE "^%3A%2F%2F[^%]+" | cut -b10- > becker-pre-unique.txt
 wc -l becker-pre-unique.txt
 sort becker-pre-unique.txt | tr "[A-Z]" "[a-z]" | uniq > BECKER.txt
 wc -l BECKER.txt
