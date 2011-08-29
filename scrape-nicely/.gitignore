@@ -1,7 +1,7 @@
+*.txt
+*.html
+*.js
 !DANFORTH-UNIQUE.txt
 !BECKER-UNIQUE.txt
 !INTERSECT.txt
 !BLACKLIST.txt
-*.txt
-*.html
-*.js
