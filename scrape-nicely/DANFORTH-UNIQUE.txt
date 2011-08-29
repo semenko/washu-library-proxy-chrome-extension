@@ -13,7 +13,6 @@ ascelibrary.org
 aslo.org
 asmedl.aip.org
 asp6new.alexanderstreet.com
-bentham.org
 cancernetwork.com
 cco.cambridge.org
 chla.library.cornell.edu
@@ -31,7 +30,6 @@ dsal.uchicago.edu
 dukejournals.org
 ec.europa.eu
 ecsdl.org
-ejour-fup.unifi.it
 elibrary.unm.edu
 epubs.siam.org
 etext.lib.virginia.edu
@@ -63,8 +61,6 @@ ncse-viewpoint.cch.kcl.ac.uk
 npg.nature.com
 ojps.aip.org
 omicsonline.org
-openhumanitiespress.org
-pkp.sfu.ca
 poj.peeters-leuven.be
 portal.acm.org
 portal.sciencesocieties.org
@@ -73,7 +69,6 @@ prola.aps.org
 proquest.safaribooksonline.com
 proquest.umi.com
 psychonomic.org
-publications.copernicus.org
 publish.aps.org
 publishing.cdlib.org
 pubs.ama-assn.org
@@ -96,7 +91,6 @@ solomon.bldr.alexanderstreet.com
 solomon.nadr.alexanderstreet.com
 solomon.nwld.alexanderstreet.com
 solomon.wodr.alexanderstreet.com
-spiedigitallibrary.aip.org
 spiedigitallibrary.org
 sunzi1.lib.hku.hk
 unstats.un.org
@@ -149,7 +143,6 @@ www.degruyter.de
 www.digitalhimalaya.com
 www.digizeitschriften.de
 www.disa.ukzn.ac.za
-www.doaj.org
 www.dovepress.com
 www.edpsciences.org
 www.emani.org
@@ -191,13 +184,10 @@ www.mlajournals.org
 www.nber.org
 www.ncte.org
 www.nowpublishers.com
-www.numdam.org
 www.oah.org
 www.oecd-ilibrary.org
-www.ojs.unisa.edu.au
 www.oldcitypublishing.com
 www.oldenbourg-link.com
-www.openj-gate.com
 www.opticsinfobase.org
 www.oxfordartonline.com
 www.oxfordislamicstudies.com
@@ -218,8 +208,6 @@ www.psychiatryonline.org
 www.raco.cat
 www.redalyc.com
 www.research-design.co.uk
-www.revicien.net
-www.royalsociety.org.nz
 www.sabinet.co.za
 www.scholarlyexchange.org
 www.scielo.cl
@@ -245,4 +233,3 @@ www.ucm.es
 www.unicef.org
 www.uwpress.org
 www.v-r.de
-www.waset.org
