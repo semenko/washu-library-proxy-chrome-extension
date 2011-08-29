@@ -18,13 +18,10 @@ ejour-fup.unifi.it
 elibrary.unm.edu
 etext.lib.virginia.edu
 exnoraresearch.com
-fraser.stlouisfed.org
 gallica.bnf.fr
 hearth.library.cornell.edu
 highwire.stanford.edu
 jpress.tau.ac.il
-lcweb2.loc.gov
-libproxy.wustl.edu
 matwbn.icm.edu.pl
 medind.nic.in
 ncse-viewpoint.cch.kcl.ac.uk
@@ -81,12 +78,9 @@ www.huduser.org
 www.imf.org
 www.int-res.com
 www.kms.or.kr
-www.lib.noaa.gov
-www.loc.gov
 www.lwwonline.com
 www.marquettejournals.org
 www.mathnet.ru
-www.nist.gov
 www.numdam.org
 www.oah.org
 www.ojs.unisa.edu.au
@@ -94,9 +88,7 @@ www.openj-gate.com
 www.persee.fr
 www.perspectivia.net
 www.physmathcentral.com
-www.plosjournals.org
 www.prb.org
-www.pubmedcentral.nih.gov
 www.raco.cat
 www.redalyc.com
 www.revicien.net

@@ -55,7 +55,6 @@ ar.rsmjournals.com
 arthritis-research.com
 atvb.ahajournals.org
 baywood.metapress.com
-beckercat.wustl.edu
 bfg.oxfordjournals.org
 bib.oxfordjournals.org
 bioinformatics.oxfordjournals.org
@@ -287,7 +286,6 @@ neoreviews.aappublications.org
 neuro-oncology.oxfordjournals.org
 neuro.psychiatryonline.org
 news.sciencemag.org
-nnlm.gov
 ntr.oxfordjournals.org
 nursingstandard.rcnpublishing.co.uk
 oem.bmj.com
@@ -376,7 +374,6 @@ web.jbjs.org.uk
 web.squ.edu.om
 wires.wiley.com
 wustl.library.ingentaconnect.com
-www2a.cdc.gov
 www.aacijournal.com
 www.aacp.com
 www.aacr.org
@@ -490,7 +487,6 @@ www.cellbiolint.org
 www.cellbiolintrep.org
 www.celldiv.com
 www.cellmolbiol.com
-www.census.gov
 www.chausa.org
 www.chemsources.com
 www.chiromt.com
@@ -523,8 +519,6 @@ www.diagnosticpathology.org
 www.djo.harvard.edu
 www.dmphp.org
 www.dmsjournal.com
-www.down-syndrome.org
-www.drugabuse.gov
 www.dustri.com
 www.dynamic-med.com
 www.ecmjournal.org
@@ -865,7 +859,6 @@ www.rbej.com
 www.rcjournal.com
 www.rcsed.ac.uk
 www.reference-global.com
-www.rehab.research.va.gov
 www.reproduction-online.org
 www.reproductive-health-journal.com
 www.reproductivemedicine.com
@@ -893,7 +886,6 @@ www.smw.ch
 www.socioaffectiveneuroscipsychol.net
 www.springerlink.com
 www.springerprotocols.com
-www.statistics.gov.uk
 www.studiesinmycology.org
 www.substanceabusepolicy.com
 www.tbiomed.com
