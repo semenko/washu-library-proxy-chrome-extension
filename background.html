@@ -14,6 +14,8 @@
         var danforthProxyURL = '.libproxy.wustl.edu';
         var beckerProxyURL = '.beckerproxy.wustl.edu';
 
+        // TODO: Once per session, append "?holding=wustlmlib" to PubMed.
+
         // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
         // can contact me or block the extension if it causes any problems.
         var xhr = new XMLHttpRequest();
