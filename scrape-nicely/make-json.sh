@@ -20,24 +20,24 @@ grep -Fxv -f BECKER.txt DANFORTH.txt | grep -v -f BLACKLIST.txt | uniq > DANFORT
 
 
 echo -n "var intersect_journals = {
-    \"list\": ['" > ../journals.js
-cat INTERSECT.txt | sort | uniq | tr "\n" "," | sed "s/,/','/g" | head -c-2 >> ../journals.js
+    \"list\": ['" > ../javascript/journals.js
+cat INTERSECT.txt | sort | uniq | tr "\n" "," | sed "s/,/','/g" | head -c-2 >> ../javascript/journals.js
 echo "]
-};" >> ../journals.js
+};" >> ../javascript/journals.js
 
 
 echo -n "var becker_journals = {
-    \"list\": ['" >> ../journals.js
-cat BECKER-UNIQUE.txt | sort | uniq | tr "\n" "," | sed "s/,/','/g" | head -c-2 >> ../journals.js
+    \"list\": ['" >> ../javascript/journals.js
+cat BECKER-UNIQUE.txt | sort | uniq | tr "\n" "," | sed "s/,/','/g" | head -c-2 >> ../javascript/journals.js
 echo "]
-};" >> ../journals.js
+};" >> ../javascript/journals.js
 
 
 echo -n "var danforth_journals = {
-    \"list\": ['" >> ../journals.js
-cat DANFORTH-UNIQUE.txt | sort | uniq | tr "\n" "," | sed "s/,/','/g" | head -c-2 >> ../journals.js
+    \"list\": ['" >> ../javascript/journals.js
+cat DANFORTH-UNIQUE.txt | sort | uniq | tr "\n" "," | sed "s/,/','/g" | head -c-2 >> ../javascript/journals.js
 echo "]
-};" >> ../journals.js
+};" >> ../javascript/journals.js
 
 
 # Final structure should look like:
