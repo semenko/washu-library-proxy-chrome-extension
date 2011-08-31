@@ -93,8 +93,13 @@
             // Parse and redirect.
             // TODO: Consider rewriting https for becker since the Becker people don't understand SSL certs.
             var parsedURL = parseUri(tab.url);
-            
-            if (parsedURL.protocol == ('http' || 'https')) {
+
+            if (parsedURL.protocol == 'http' || parsedURL.protocol == 'https') {
+                // TODO: Handle Danforth differently, since they don't seem to like SSL as much.
+                // TODO: Consider dropping HTTPS support? Is this useful?
+                if (parsedURL.protocol == 'https') {
+                    parsedURL.host = parsedURL.host.replace(/\./g, '-');
+                }
                 if (optPreferDanforth || (!optEnableBecker && optEnableDanforth)) {
                     doRedirectToProxy(tab, parsedURL, danforthProxyURL);
                 } else {
