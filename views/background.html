@@ -23,7 +23,7 @@
         xhr.onreadystatechange = function() {
             if (xhr.readyState == 4) {
                 var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
-                if (resp.networkTag == "WUSTL") {
+                if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
                     onNetwork = true;
                 } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH") {
                     onNetwork = true;
