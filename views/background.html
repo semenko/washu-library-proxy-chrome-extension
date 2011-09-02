@@ -15,6 +15,7 @@
         var beckerProxyURL = '.beckerproxy.wustl.edu';
 
         // TODO: Once per session, append "?holding=wustlmlib" to PubMed.
+        var rewrotePubMedThisSession = false;
 
         // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
         // can contact me or block the extension if it causes any problems.
@@ -58,6 +59,14 @@
                 if (becker_journals.list.indexOf(parsedURL.host) !== -1) {
                     doRedirectToProxy(tab, parsedURL, beckerProxyURL);
                     return true;
+                } else if (!rewrotePubMedThisSession && parsedURL.host == "www.ncbi.nlm.nih.gov") {
+                    // TODO: Expand this. This is just PoC code.
+                    if (parsedURL.relative == "/pubmed/") {
+                        // Redirect with no proxy url, but an appendString
+                        doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
+                        rewrotePubMedThisSession = true;
+                        return true;
+                    }
                 }
             }
             return false;
@@ -65,8 +74,9 @@
 
         // Redirect the page using the auto-determined proxy URL
         // Modularize so we only parse the URL once (parsing is expensive!)
-        function doRedirectToProxy(tab, parsed, proxyURL) {
-            var proxifiedURL =  parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative;
+        function doRedirectToProxy(tab, parsed, proxyURL, appendString) {
+            if (!appendString) { appendString = ""; }
+            var proxifiedURL =  parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative + appendString;
             chrome.tabs.update(tab.id, {url: proxifiedURL});
         }
 
@@ -91,7 +101,6 @@
         // Listen to clicking on our button.
         chrome.browserAction.onClicked.addListener(function (tab) {
             // Parse and redirect.
-            // TODO: Consider rewriting https for becker since the Becker people don't understand SSL certs.
             var parsedURL = parseUri(tab.url);
 
             if (parsedURL.protocol == 'http' || parsedURL.protocol == 'https') {
