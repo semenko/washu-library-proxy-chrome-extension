@@ -111,7 +111,10 @@
             // Parse and redirect.
             var parsedURL = parseUri(tab.url);
 
-            if (parsedURL.protocol == 'http' || parsedURL.protocol == 'https') {
+            // We check for HTTP/HTTPS only (no chrome://), and that "proxy.wustl.edu" isn't at the end of the
+            // string, otherwise we're probably already at [becker|lib]proxy.wustl.edu.
+            if ((parsedURL.protocol == 'http' || parsedURL.protocol == 'https')
+                    && parsedURL.host.substring(parsedURL.host.length-15) != 'proxy.wustl.edu') {
                 // TODO: Handle Danforth differently, since they don't seem to like SSL as much.
                 // TODO: Consider dropping HTTPS support? Is this useful?
                 if (parsedURL.protocol == 'https') {
