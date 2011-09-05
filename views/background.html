@@ -20,23 +20,43 @@
         // For debugging
         var networkTag = '';
 
-        // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
-        // can contact me or block the extension if it causes any problems.
-        var xhr = new XMLHttpRequest();
-        xhr.open("GET", "https://becker.wustl.edu/sites/all/themes/bml_theme2/js/network-indicator-script3.php", true);
-        xhr.onreadystatechange = function() {
-            if (xhr.readyState == 4) {
-                var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
-                if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
-                    onNetwork = true;
-                } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH") {
-                    onNetwork = true;
-                    beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
+        // Are we at WashU? SLCH? WUSM? Off campus!?!
+        function detectNetworkState() {
+            // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
+            // can contact me or block the extension if it causes any problems.
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "https://becker.wustl.edu/sites/all/themes/bml_theme2/js/network-indicator-script3.php", true);
+            xhr.onreadystatechange = function() {
+                // TODO: Better error handling
+                if (xhr.readyState == 4) {
+                    var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
+                    if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
+                        onNetwork = true;
+                    } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH") {
+                        onNetwork = true;
+                        beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
+                    }
+                    networkTag = resp.networkTag;
                 }
-                networkTag = resp.networkTag;
-            }
-        };
-        xhr.send();
+            };
+            xhr.send();
+        }
+        detectNetworkState();
+
+        // Listener for the options page
+        chrome.extension.onRequest.addListener(
+                function(request, sender, sendResponse) {
+                    if (request.operation == 'getstate') {
+                        sendResponse({networkTag: networkTag});
+                    } else if (request.operation == 'redetect') {
+                        // TODO: Rate limit this?
+                        detectNetworkState();
+                        sendResponse({networkTag: networkTag});
+                    } else {
+                        sendResponse({});
+                    }
+                });
+
 
         // The user wants auto-redirection and is off-network,
         // so we perform URL parsing and (maybe) redirection

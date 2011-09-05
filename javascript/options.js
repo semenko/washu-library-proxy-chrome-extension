@@ -19,6 +19,19 @@ function $(id) {
 //adding listener when body is loaded to call init function.
 window.addEventListener('load', init, false);
 
+function updateStatusBar() {
+    // Update the status bar with the current network
+    chrome.extension.sendRequest({operation: "getstate"}, function(response) {
+        if (response.networkTag == "OFF") {
+            $('statusBar').innerText = '(Current network: Off-Campus';
+            $('statusBar').innerHTML += ' - <a href="javascript:detectNow();" style="color:#888">Redetect Now</a> )';
+        } else {
+            $('statusBar').innerText = '(Current network: ' + response.networkTag;
+            $('statusBar').innerHTML += ' - <a href="javascript:detectNow();" style="color:#888">Redetect Now</a> )';
+        }
+    });
+}
+
 // Set values based on localStorage
 function init() {
     parseLocalStorage();
@@ -28,6 +41,20 @@ function init() {
     $('preferDanforth').checked = optPreferDanforth;
     $('usageOptOut').checked = optUsageOptOut;
     buttonLogic();
+    // Show user their detected network
+    updateStatusBar();
+}
+
+function detectNow() {
+    // Redetect network
+    chrome.extension.sendRequest({operation: "redetect"}, function(response) {});
+    // The network state request is async, and sometimes returns in a few seconds.
+    // TODO: Clean this up by making the request optionally synchronous.
+    updateStatusBar();
+    setTimeout("updateStatusBar();", 1000);
+    setTimeout("updateStatusBar();", 2000);
+    setTimeout("updateStatusBar();", 3000);
+    setTimeout("updateStatusBar();", 5000);
 }
 
 function buttonLogic() {
@@ -65,7 +92,7 @@ function buttonLogic() {
 /**
  * Saves the value of the checkbox into local storage.
  */
-function save(input) {
+function save() {
     buttonLogic();
     localStorage.autoRedirect = $('autoRedirect').checked;
     localStorage.enableDanforth = $('enableDanforth').checked;
