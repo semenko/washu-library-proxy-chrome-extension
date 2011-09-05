@@ -17,6 +17,9 @@
         // TODO: Once per session, append "?holding=wustlmlib" to PubMed.
         var rewrotePubMedThisSession = false;
 
+        // For debugging
+        var networkTag = '';
+
         // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
         // can contact me or block the extension if it causes any problems.
         var xhr = new XMLHttpRequest();
@@ -30,6 +33,7 @@
                     onNetwork = true;
                     beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
                 }
+                networkTag = resp.networkTag;
             }
         };
         xhr.send();
@@ -77,7 +81,7 @@
         // Redirect the page using the auto-determined proxy URL
         // Modularize so we only parse the URL once (parsing is expensive!)
         function doRedirectToProxy(tab, parsed, proxyURL, appendString) {
-            if (!appendString) { appendString = ""; }
+            if (!appendString) { appendString = ''; }
             var proxifiedURL =  parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative + appendString;
             chrome.tabs.update(tab.id, {url: proxifiedURL});
         }
@@ -86,8 +90,10 @@
         // Submit the journal domain to a logger so we can update our database.
         // TODO: Add addtl. log data (version, on-network detection, etc.)
         function uploadJournalToDatabase(theUrl) {
-            var uploader = new XMLHttpRequest();
-            uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + encodeURIComponent(theUrl), true);
+            var uploader  = new XMLHttpRequest();
+            var logString = "url:" + encodeURIComponent(theUrl) + ",auto:"+ optAutoRedirect +
+                    ",onNet:" + onNetwork + ",tag:" + networkTag;
+            uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + logString, true);
             uploader.send();
         }
 
