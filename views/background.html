@@ -60,8 +60,10 @@
                     doRedirectToProxy(tab, parsedURL, beckerProxyURL);
                     return true;
                 } else if (!rewrotePubMedThisSession && parsedURL.host == "www.ncbi.nlm.nih.gov") {
-                    // TODO: Expand this. This is just PoC code.
-                    if (parsedURL.relative == "/pubmed/") {
+                    // Redirect PubMed journals to add ?holding flag.
+                    // TODO: Redirect for PMC articles, too?
+                    if (parsedURL.relative == "/pubmed/" || parsedURL.relative == "/pubmed"
+                            || parsedURL.relative == "/pmc/" || parsedURL.relative.match(/^\/pubmed\/\d{6,}$/)) {
                         // Redirect with no proxy url, but an appendString
                         doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
                         rewrotePubMedThisSession = true;
