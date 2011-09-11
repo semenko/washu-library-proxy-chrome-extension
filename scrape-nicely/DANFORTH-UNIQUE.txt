@@ -15,6 +15,7 @@ asmedl.aip.org
 asp6new.alexanderstreet.com
 cancernetwork.com
 cco.cambridge.org
+ceramics.org
 chla.library.cornell.edu
 cnki.en.eastview.com
 cnki.zh.eastview.com
@@ -169,7 +170,6 @@ www.int-res.com
 www.iop.org
 www.journals.asm.org
 www.kms.or.kr
-www.knovel.com
 www.lexis-nexis.com
 www.lexisnexis.com
 www.lwwonline.com

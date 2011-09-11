@@ -1,5 +1,6 @@
 beckercat.wustl.edu
 cancercontrol.cancer.gov
+chronicle.com
 fraser.stlouisfed.org
 lcweb2.loc.gov
 libproxy.wustl.edu

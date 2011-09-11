@@ -85,7 +85,6 @@ cercor.oxfordjournals.org
 cgd.aacrjournals.org
 chemse.oxfordjournals.org
 chestjournal.chestpubs.org
-chronicle.com
 cid.oxfordjournals.org
 cigjournals.metapress.com
 cimonline.ca
@@ -318,6 +317,7 @@ rstb.royalsocietypublishing.org
 sage-ereference.com
 sageke.sciencemag.org
 schizophreniabulletin.oxfordjournals.org
+search.marquiswhoswho.com
 secure.medicalletter.org
 sgo.sagepub.com
 shm.oxfordjournals.org
@@ -389,7 +389,6 @@ www.apocp.org
 www.archivesofpathology.org
 www.artificial-organs.com
 www.asiapharmaceutics.info
-www.asis.org
 www.asnneuro.org
 www.astmh.org
 www.audiologyresearch.org
@@ -549,7 +548,6 @@ www.jmir.org
 www.jmp.org.in
 www.jnccn.org
 www.jneurosci.org
-www.joacp.org
 www.jomfp.in
 www.joplink.net
 www.joponline.org
@@ -606,8 +604,8 @@ www.pa2online.org
 www.pagepress.org
 www.painphysicianjournal.com
 www.pdiconnect.com
-www.pediatricannalsonline.com
 www.pediatricneurosciences.com
+www.pediatricsupersite.com
 www.pedpath.org
 www.perceptionweb.com
 www.phac-aspc.gc.ca
@@ -636,6 +634,7 @@ www.sjweh.fi
 www.skintherapyletter.com
 www.slackjournals.com
 www.smw.ch
+www.srm-ejournal.com
 www.studiesinmycology.org
 www.tcrt.org
 www.theannals.com
