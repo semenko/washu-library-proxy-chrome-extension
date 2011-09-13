@@ -425,6 +425,7 @@ www.cmj.org
 www.cpb.ouhsc.edu
 www.cpcjournal.org
 www.credoreference.com
+www.cshlpress.com
 www.cutis.com
 www.cytojournal.com
 www.dmphp.org
@@ -567,12 +568,14 @@ www.kjronline.org
 www.libraryjournal.com
 www.lifescied.org
 www.lungindia.com
+www.maney.co.uk
 www.mayoclinicproceedings.com
 www.mcmla.org
 www.mcponline.org
 www.mdconsult.com
 www.meajo.org
 www.med.kobe-u.ac.jp
+www.merckhomeedition.com
 www.mf.uni-lj.si
 www.minervamedica.it
 www.mja.com.au
@@ -632,6 +635,7 @@ www.schattauer.de
 www.sciencemag.org
 www.sjweh.fi
 www.skintherapyletter.com
+www.slackinc.com
 www.slackjournals.com
 www.smw.ch
 www.srm-ejournal.com
@@ -639,6 +643,7 @@ www.studiesinmycology.org
 www.tcrt.org
 www.theannals.com
 www.the-scientist.com
+www.thieme.de
 www.thoracicmedicine.org
 www.tinnitusjournal.com
 www.toxicologyinternational.com

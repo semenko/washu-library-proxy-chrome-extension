@@ -11,7 +11,6 @@ asp6new.alexanderstreet.com
 carbo.chemnetbase.com
 ccd.chemnetbase.com
 cco.cambridge.org
-ceramics.org
 cnki.en.eastview.com
 cnki.zh.eastview.com
 dccc.chemnetbase.com
@@ -32,12 +31,10 @@ hw.oeaw.ac.at
 iimp.chadwyck.com
 iipaft.chadwyck.com
 info.sciencedirect.com
-info.sciverse.com
 infotrac.galegroup.com
 infoweb.newsbank.com
 journals.impan.gov.pl
 journalsip.astm.org
-librarians.scitation.org
 library.cqpress.com
 library.pressdisplay.com
 link.springer-ny.com
@@ -49,7 +46,6 @@ ojps.aip.org
 poc.chemnetbase.com
 poj.peeters-leuven.be
 portal.acm.org
-portal.sciencesocieties.org
 projecteuclid.org
 prola.aps.org
 proquest.safaribooksonline.com
@@ -69,7 +65,6 @@ solomon.wodr.alexanderstreet.com
 spiedigitallibrary.org
 vnweb.hwwilsonweb.com
 wass.alexanderstreet.com
-www.18thcjournals2.amdigital.co.uk
 www3.interscience.wiley.com
 www.aaiddjournals.org
 www.accessible.com
@@ -90,7 +85,6 @@ www.chemnetbase.com
 www.ciaonet.org
 www.cms.math.ca
 www.crcnetbase.com
-www.cshlpress.com
 www.cshprotocols.org
 www.dbpia.co.kr
 www.degruyter.de
@@ -98,22 +92,18 @@ www.emeraldinsight.com
 www.ems-ph.org
 www.equinoxpub.com
 www.esajournals.org
-www.eupjournals.com
 www.geoscienceworld.org
 www.heinonline.org
 www.historycooperative.org
 www.humanitiesebook.org
 www.humankinetics.com
 www.ieee.org
-www.indianfolklore.org
-www.info.sciverse.com
 www.intlpress.com
 www.intphycsoc.org
 www.iop.org
 www.journals.asm.org
 www.lexis-nexis.com
 www.lexisnexis.com
-www.maney.co.uk
 www.mathjournals.org
 www.mathscipub.org
 www.merckhomeedition.com
