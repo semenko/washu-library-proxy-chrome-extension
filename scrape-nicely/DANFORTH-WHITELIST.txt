@@ -1,0 +1,10 @@
+carbo.chemnetbase.com
+ccd.chemnetbase.com
+dccc.chemnetbase.com
+dfc.chemnetbase.com
+dioc.chemnetbase.com
+dmnp.chemnetbase.com
+dnp.chemnetbase.com
+doc.chemnetbase.com
+dod.chemnetbase.com
+poc.chemnetbase.com
