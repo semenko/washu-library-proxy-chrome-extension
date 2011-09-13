@@ -222,6 +222,7 @@ jn.physiology.org
 joe.endocrinology-journals.org
 jopm.org
 jorthod.maneyjournals.org
+journals.bcdecker.com
 jpet.aspetjournals.org
 jp.physoc.org
 jppr.psychiatryonline.org
@@ -333,6 +334,7 @@ symposia.biochemistry.org
 symposium.cshlp.org
 tde.sagepub.com
 thecarlatreport.com
+thejns.org
 theoncologist.alphamedpress.org
 thomasland.metapress.com
 thorax.bmj.com
@@ -387,6 +389,7 @@ www.annfammed.org
 www.apfmj-archive.com
 www.apocp.org
 www.archivesofpathology.org
+www.arl.org
 www.artificial-organs.com
 www.asiapharmaceutics.info
 www.asnneuro.org
@@ -423,6 +426,7 @@ www.clinexprheumatol.org
 www.clinicalethics.com
 www.clinmedres.org
 www.clinsci.org
+www.clockss.org
 www.cma.ca
 www.cmaj.ca
 www.cmbl.org.pl
@@ -445,6 +449,7 @@ www.elis.sk
 www.endocrine-abstracts.org
 www.eubios.info
 www.eur-j-ophthalmol.com
+www.expert-reviews.com
 www.exp-oncology.com.ua
 www.eyesite.ca
 www.facs.org
@@ -452,6 +457,7 @@ www.fah.org
 www.fasebj.org
 www.foodandnutritionresearch.net
 www.freemedicaljournals.com
+www.futuremedicine.com
 www.future-science.com
 www.g3journal.org
 www.genetics.org
@@ -554,6 +560,7 @@ www.joponline.org
 www.jos.edu.au
 www.josonline.org
 www.jospt.org
+www.journalarchive.jst.go.jp
 www.journalofmas.com
 www.journalofparasitology.org
 www.journalofvision.org
@@ -584,6 +591,7 @@ www.moffitt.org
 www.molbiolcell.org
 www.mrcindia.org
 www.myilibrary.com
+www.nap.edu
 www.nejm.org
 www.netlibrary.com
 www.neurologyindia.com
@@ -626,9 +634,11 @@ www.rcsed.ac.uk
 www.reproduction-online.org
 www.reproductivemedicine.com
 www.ruralneuropractice.com
+www.sage-hindawi.com
 www.saudiannals.net
 www.saudija.org
 www.saudijgastro.com
+www.schattauer.de
 www.sciencemag.org
 www.sjweh.fi
 www.skintherapyletter.com
