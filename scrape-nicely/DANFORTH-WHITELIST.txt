@@ -7,4 +7,12 @@ dmnp.chemnetbase.com
 dnp.chemnetbase.com
 doc.chemnetbase.com
 dod.chemnetbase.com
+ecosal.org
 poc.chemnetbase.com
+rspa.royalsocietypublishing.org
+rsta.royalsocietypublishing.org
+sage-ereference.com
+search.marquiswhoswho.com
+www.ajhpcontents.com
+www.hbcpnetbase.com
+www.polymersdatabase.com
