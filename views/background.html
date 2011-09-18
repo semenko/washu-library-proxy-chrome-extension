@@ -43,9 +43,12 @@
                             // Something weird happened. We don't write networkTag, since this could be
                             // a timed redetection that failed, so we'll preserve the previous state.
                             console.warn('Error: Unknown response from Becker:' + resp.networkTag);
-                            ("detectNetworkState();", 15000);
-                        } 
+                            setTimeout("detectNetworkState();", 15000);
+                        }
                         console.info('Detection event: onNetwork: ' + onNetwork + ', networkTag: ' + resp.networkTag);
+                        // Redetect in 30 minutes.
+                        // TODO: Better way to detect network state changes? Is there an API for this?
+                        setTimeout("detectNetworkState();", 1800000);
                     } else {
                         // Becker XHR returned status != 200. Maybe a network error?
                         console.warn('Error from Becker: Retrying in 15s.');
