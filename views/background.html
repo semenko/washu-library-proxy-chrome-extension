@@ -27,16 +27,30 @@
             var xhr = new XMLHttpRequest();
             xhr.open("GET", "https://becker.wustl.edu/sites/all/themes/bml_theme2/js/network-indicator-script3.php", true);
             xhr.onreadystatechange = function() {
-                // TODO: Better error handling
                 if (xhr.readyState == 4) {
-                    var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
-                    if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
-                        onNetwork = true;
-                    } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH") {
-                        onNetwork = true;
-                        beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
+                    if (xhr.status == 200) {
+                        var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
+                        if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
+                            onNetwork = true;
+                            networkTag = resp.networkTag;
+                        } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH") {
+                            onNetwork = true;
+                            beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
+                            networkTag = resp.networkTag;
+                        } else if (resp.networkTag == "OFF") {
+                            networkTag = resp.networkTag;
+                        } else {
+                            // Something weird happened. We don't write networkTag, since this could be
+                            // a timed redetection that failed, so we'll preserve the previous state.
+                            console.warn('Error: Unknown response from Becker:' + resp.networkTag);
+                            ("detectNetworkState();", 15000);
+                        } 
+                        console.info('Detection event: onNetwork: ' + onNetwork + ', networkTag: ' + resp.networkTag);
+                    } else {
+                        // Becker XHR returned status != 200. Maybe a network error?
+                        console.warn('Error from Becker: Retrying in 15s.');
+                        setTimeout("detectNetworkState();", 15000);
                     }
-                    networkTag = resp.networkTag;
                 }
             };
             xhr.send();
@@ -50,9 +64,11 @@
                         sendResponse({networkTag: networkTag});
                     } else if (request.operation == 'redetect') {
                         // TODO: Rate limit this?
+                        console.info('Manual network redetection.');
                         detectNetworkState();
                         sendResponse({networkTag: networkTag});
                     } else {
+                        console.warn('Unknown background listener request.');
                         sendResponse({});
                     }
                 });
