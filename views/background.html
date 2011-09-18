@@ -14,11 +14,15 @@
         var danforthProxyURL = '.libproxy.wustl.edu';
         var beckerProxyURL = '.beckerproxy.wustl.edu';
 
-        // TODO: Once per session, append "?holding=wustlmlib" to PubMed.
+        // Once per session, append "?holding=wustlmlib" to PubMed.
         var rewrotePubMedThisSession = false;
 
-        // For debugging
+        // For debugging & options page
         var networkTag = '';
+
+        // Set a 30-minute timeout interval to redetect the network status.
+        var refreshTimeoutHandle;
+        var refreshTimeoutMilliseconds = 1800000;
 
         // Are we at WashU? SLCH? WUSM? Off campus!?!
         function detectNetworkState() {
@@ -43,12 +47,13 @@
                             // Something weird happened. We don't write networkTag, since this could be
                             // a timed redetection that failed, so we'll preserve the previous state.
                             console.warn('Error: Unknown response from Becker:' + resp.networkTag);
+                            writeToRemoteLog('Becker-Unknown-Response_' + resp.networkTag);
                             setTimeout("detectNetworkState();", 15000);
                         }
                         console.info('Detection event: onNetwork: ' + onNetwork + ', networkTag: ' + resp.networkTag);
-                        // Redetect in 30 minutes.
                         // TODO: Better way to detect network state changes? Is there an API for this?
-                        setTimeout("detectNetworkState();", 1800000);
+                        clearTimeout(refreshTimeoutHandle);
+                        refreshTimeoutHandle = setTimeout("detectNetworkState();", refreshTimeoutMilliseconds);
                     } else {
                         // Becker XHR returned status != 200. Maybe a network error?
                         console.warn('Error from Becker: Retrying in 15s.');
@@ -125,12 +130,11 @@
             chrome.tabs.update(tab.id, {url: proxifiedURL});
         }
 
-        // If users have manually clicked on the icon, we've failed.
-        // Submit the journal domain to a logger so we can update our database.
-        // TODO: Add addtl. log data (version, on-network detection, etc.)
-        function uploadJournalToDatabase(theUrl) {
+        // Send log data if there's a missed URL (someone had to manually click)
+        // or there's a Becker network detection error.
+        function writeToRemoteLog(theData) {
             var uploader  = new XMLHttpRequest();
-            var logString = "url:" + encodeURIComponent(theUrl) + ",auto:"+ optAutoRedirect +
+            var logString = "url:" + encodeURIComponent(theData) + ",auto:"+ optAutoRedirect +
                     ",onNet:" + onNetwork + ",tag:" + networkTag;
             uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + logString, true);
             uploader.send();
@@ -170,7 +174,7 @@
             // is missing from our list. Let's send the journal URL to the cloud logger.
             // We log non-http/https here in case we're missing something (ftp sites for journal data?)
             if (!tab.incognito && !optUsageOptOut) {
-                uploadJournalToDatabase(parsedURL.host);
+                writeToRemoteLog(parsedURL.host);
             }
         });
 
