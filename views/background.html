@@ -42,9 +42,10 @@
                             beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
                             networkTag = resp.networkTag;
                         } else if (resp.networkTag == "OFF") {
+                            onNetwork = false;
                             networkTag = resp.networkTag;
                         } else {
-                            // Something weird happened. We don't write networkTag, since this could be
+                            // Something weird happened. We don't update onNetwork, since this could be
                             // a timed redetection that failed, so we'll preserve the previous state.
                             console.warn('Error: Unknown response from Becker:' + resp.networkTag);
                             writeToRemoteLog('Becker-Unknown-Response_' + resp.networkTag);
