@@ -139,6 +139,7 @@ gerontologist.oxfordjournals.org
 glycob.oxfordjournals.org
 gut.bmj.com
 heart.bmj.com
+hea.sagepub.com
 heinonline.org
 highwire.stanford.edu
 hmg.oxfordjournals.org

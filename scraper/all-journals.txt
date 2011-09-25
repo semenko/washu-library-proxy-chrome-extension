@@ -65,6 +65,7 @@ atvb.ahajournals.org
 baywood.metapress.com
 bfg.oxfordjournals.org
 bib.oxfordjournals.org
+bio.biologists.org
 bioinformatics.oxfordjournals.org
 biomedgerontology.oxfordjournals.org
 biomet.oxfordjournals.org
@@ -98,6 +99,7 @@ cercor.oxfordjournals.org
 cgd.aacrjournals.org
 chemse.oxfordjournals.org
 chestjournal.chestpubs.org
+chiromt.com
 cid.oxfordjournals.org
 cigjournals.metapress.com
 cimonline.ca
@@ -184,6 +186,7 @@ gerontologist.oxfordjournals.org
 glycob.oxfordjournals.org
 gut.bmj.com
 heart.bmj.com
+hea.sagepub.com
 heinonline.org
 highwire.stanford.edu
 hmg.oxfordjournals.org
@@ -258,6 +261,7 @@ journals.cambridge.org
 journals.impan.gov.pl
 journalsip.astm.org
 journals.iucr.org
+journals.lww.com
 jpet.aspetjournals.org
 jp.physoc.org
 jppr.psychiatryonline.org
@@ -304,6 +308,7 @@ nass.oxfordjournals.org
 nationaljournal.com
 ndt.oxfordjournals.org
 ndtplus.oxfordjournals.org
+neonatalnetwork.metapress.com
 neoreviews.aappublications.org
 neuro-oncology.oxfordjournals.org
 neuro.psychiatryonline.org
@@ -399,6 +404,7 @@ sti.bmj.com
 stke.sciencemag.org
 stm.sciencemag.org
 stroke.ahajournals.org
+studiesinmycology.org
 symposia.biochemistry.org
 symposium.cshlp.org
 tde.sagepub.com
@@ -686,6 +692,7 @@ www.jsnm.org
 www.jstage.jst.go.jp
 www.jstor.org
 www.jultrasoundmed.org
+www.jurology.com
 www.karger.com
 www.kjronline.org
 www.landesbioscience.com
@@ -732,6 +739,7 @@ www.nrcresearchpress.com
 www.nyuhjdbulletin.org
 www.nzma.org.nz
 www.oecd-ilibrary.org
+www.oed.com
 www.ojoonline.org
 www.oldcitypublishing.com
 www.oldenbourg-link.com
@@ -763,6 +771,7 @@ www.portico.org
 www.portlandpress.com
 www.press.uillinois.edu
 www.primarypsychiatry.com
+www.psocommons.org
 www.psychiatrist.com
 www.psychiatryonline.com
 www.psychiatryonline.org
@@ -787,6 +796,7 @@ www.saudijgastro.com
 www.schattauer.de
 www.sciencedirect.com
 www.sciencemag.org
+www.scopus.com
 www.sif.it
 www.sjweh.fi
 www.skintherapyletter.com
@@ -807,7 +817,6 @@ www.thoracicmedicine.org
 www.tinnitusjournal.com
 www.toxicologyinternational.com
 www.tumorionline.it
-www.ualberta.ca
 www.urologyannals.com
 www.uwpress.org
 www.v-r.de

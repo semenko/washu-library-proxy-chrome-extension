@@ -5,6 +5,7 @@ artfl-project.uchicago.edu
 ascelibrary.org
 aslo.org
 asp6new.alexanderstreet.com
+bio.biologists.org
 carbo.chemnetbase.com
 ccd.chemnetbase.com
 cnki.en.eastview.com
@@ -86,6 +87,7 @@ www.nber.org
 www.ncte.org
 www.nowpublishers.com
 www.oecd-ilibrary.org
+www.oed.com
 www.oldcitypublishing.com
 www.oldenbourg-link.com
 www.oxfordartonline.com
