@@ -87,7 +87,7 @@
         // so we perform URL parsing and (maybe) redirection
         function checkURLforRedirection(tab) {
             var parsedURL = parseUri(tab.url);
-            if (intersect_journals.list.indexOf(parsedURL.host) !== -1) {
+            if (intersect_journals.hasOwnProperty(parsedURL.host)) {
                 if (optPreferDanforth || (optEnableDanforth && !optEnableBecker)) {
                     doRedirectToProxy(tab, parsedURL, danforthProxyURL);
                     return true;
@@ -99,13 +99,13 @@
 
             // We're still here, so the journal is not in intersect_journals.
             if (optEnableDanforth) {
-                if (danforth_journals.list.indexOf(parsedURL.host) !== -1) {
+                if (danforth_journals.hasOwnProperty(parsedURL.host)) {
                     doRedirectToProxy(tab, parsedURL, danforthProxyURL);
                     return true;
                 }
             }
             if (optEnableBecker) {
-                if (becker_journals.list.indexOf(parsedURL.host) !== -1) {
+                if (becker_journals.hasOwnProperty(parsedURL.host)) {
                     doRedirectToProxy(tab, parsedURL, beckerProxyURL);
                     return true;
                 } else if (!rewrotePubMedThisSession && parsedURL.host == "www.ncbi.nlm.nih.gov") {
