@@ -324,7 +324,6 @@ ojps.aip.org
 onlinelibrary.wiley.com
 online.sagepub.com
 online.statref.com
-online.wsj.com
 ousar.lib.okayama-u.ac.jp
 ovidsp.ovid.com
 pats.atsjournals.org
