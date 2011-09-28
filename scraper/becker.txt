@@ -26,6 +26,7 @@ hormones.gr
 info.k4health.org
 journals.lww.com
 jrm.medicaljournals.se
+jvir.org
 koha.wustl.edu
 memo.cgu.edu.tw
 mj.med.u-tokai.ac.jp
@@ -33,6 +34,7 @@ molcells.inforang.com
 monographs.iarc.fr
 neonatalnetwork.metapress.com
 nursingstandard.rcnpublishing.co.uk
+online.wsj.com
 ousar.lib.okayama-u.ac.jp
 pharmacotherapyjournal.org
 psychiatryinvestigation.org
@@ -216,6 +218,7 @@ www.jpgmonline.com
 www.jrheum.org
 www.jsnm.org
 www.jurology.com
+www.jvir.org
 www.kjronline.org
 www.libraryjournal.com
 www.lifescied.org

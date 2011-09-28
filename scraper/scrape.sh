@@ -5,7 +5,7 @@
 for x in {A..Z}
 do
     curl "http://fq5np7af6j.search.serialssolutions.com/?L=FQ5NP7AF6J&V=1.0&tab=ALL&N=1000&S=T_AZ&C=$x" >> becker-raw.html
-    sleep 5
+    sleep 3
 done
 
 # Get the "Next" page too.
@@ -13,7 +13,15 @@ done
 for x in {A..Z}
 do
     curl "http://fq5np7af6j.search.serialssolutions.com/?V=1.0&L=FQ5NP7AF6J&S=T_AZ&C=$x&tab=ALL&N=1000&B=1000" >> becker-raw.html
-    sleep 5
+    sleep 3
+done
+
+# Rarely, there are 3 pages of results. So, let's get them too.
+
+for x in {A..Z}
+do
+    curl "http://fq5np7af6j.search.serialssolutions.com/?V=1.0&L=FQ5NP7AF6J&S=T_AZ&C=$x&tab=ALL&N=1000&B=2000" >> becker-raw.html
+    sleep 3
 done
 
 

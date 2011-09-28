@@ -131,6 +131,7 @@ diabetes.diabetesjournals.org
 digital.casalini.it
 digital.library.pitt.edu
 dioc.chemnetbase.com
+div9perspectives.asha.org
 dmd.aspetjournals.org
 dmfr.birjournals.org
 dmm.biologists.org
@@ -273,6 +274,7 @@ jshd.asha.org
 jslhr.asha.org
 jtt.rsmjournals.com
 jvi.asm.org
+jvir.org
 koha.wustl.edu
 learnmem.cshlp.org
 lib.myilibrary.com
@@ -322,6 +324,7 @@ ojps.aip.org
 onlinelibrary.wiley.com
 online.sagepub.com
 online.statref.com
+online.wsj.com
 ousar.lib.okayama-u.ac.jp
 ovidsp.ovid.com
 pats.atsjournals.org
@@ -693,6 +696,7 @@ www.jstage.jst.go.jp
 www.jstor.org
 www.jultrasoundmed.org
 www.jurology.com
+www.jvir.org
 www.karger.com
 www.kjronline.org
 www.landesbioscience.com
@@ -806,6 +810,7 @@ www.springerlink.com
 www.springerprotocols.com
 www.srm-ejournal.com
 www.studiesinmycology.org
+www.tandfonline.com
 www.tcrt.org
 www.theannals.com
 www.the-aps.org

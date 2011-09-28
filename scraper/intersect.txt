@@ -98,6 +98,7 @@ cvi.asm.org
 dev.biologists.org
 diabetes.diabetesjournals.org
 digital.library.pitt.edu
+div9perspectives.asha.org
 dmd.aspetjournals.org
 dmfr.birjournals.org
 dmm.biologists.org
@@ -434,6 +435,7 @@ www.sciencemag.org
 www.sjweh.fi
 www.springerlink.com
 www.springerprotocols.com
+www.tandfonline.com
 www.theannals.com
 www.the-aps.org
 www.thecochranelibrary.com

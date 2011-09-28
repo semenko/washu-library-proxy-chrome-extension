@@ -1,6 +1,9 @@
+caonline.amcancersoc.org
 journals.lww.com
+jvir.org
 lib.myilibrary.com
 neonatalnetwork.metapress.com
+online.wsj.com
 www.acpjc.org
 www.ajts.org
 www.altmedrev.com
@@ -17,8 +20,11 @@ www.ecv.de
 www.horizonpress.com
 www.joacp.org
 www.jopm.org
+www.jos.edu.au
 www.jurology.com
+www.jvir.org
 www.mdconsult.com
 www.netlibrary.com
 www.oed.com
 www.scopus.com
+www.studiesinmycology.org
