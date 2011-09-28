@@ -9,17 +9,11 @@ function parseUri (str) {
 		i   = 10;
 
 	while (i--) uri[o.key[i]] = m[i] || "";
-	uri[o.q.name] = {};
-
 	return uri;
 }
 
 parseUri.options = {
 	key: ["source","protocol","authority","userInfo","user","password","host","port","relative","path"],
-	q:   {
-		name:   "queryKey",
-		parser: /(?:^|&)([^&=]*)=?([^&]*)/g
-	},
 	parser: {
 		strict: /^(?:([^:\/?#]+):)?(?:\/\/((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?))?((((?:[^?#\/]*\/)*)([^?#]*)))/
 	}
