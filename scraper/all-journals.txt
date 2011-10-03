@@ -330,6 +330,7 @@ pats.atsjournals.org
 pediatrics.aappublications.org
 pedsinreview.aappublications.org
 peds.oxfordjournals.org
+pen.sagepub.com
 pharmacotherapyjournal.org
 pharmrev.aspetjournals.org
 physiolgenomics.physiology.org
@@ -552,6 +553,7 @@ www.e-emm.org
 www.e-ijd.org
 www.eje-online.org
 www.elis.sk
+www.embase.com
 www.emeraldinsight.com
 www.ems-ph.org
 www.endocrine-abstracts.org

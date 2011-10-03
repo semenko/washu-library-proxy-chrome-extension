@@ -261,6 +261,7 @@ pats.atsjournals.org
 pediatrics.aappublications.org
 pedsinreview.aappublications.org
 peds.oxfordjournals.org
+pen.sagepub.com
 pharmrev.aspetjournals.org
 physiolgenomics.physiology.org
 physiologyonline.physiology.org

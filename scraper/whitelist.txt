@@ -1,8 +1,10 @@
 caonline.amcancersoc.org
+div9perspectives.asha.org
 journals.lww.com
 jvir.org
 lib.myilibrary.com
 neonatalnetwork.metapress.com
+pen.sagepub.com
 www.acpjc.org
 www.ajts.org
 www.altmedrev.com
@@ -16,6 +18,7 @@ www.cmj.hr
 www.cutis.com
 www.cytojournal.com
 www.ecv.de
+www.embase.com
 www.horizonpress.com
 www.joacp.org
 www.jopm.org
