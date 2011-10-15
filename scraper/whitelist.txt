@@ -1,10 +1,16 @@
 caonline.amcancersoc.org
 div9perspectives.asha.org
+en.diagnosispro.com
+journalacs.org
 journals.lww.com
 jvir.org
 lib.myilibrary.com
 neonatalnetwork.metapress.com
+ovidsp.tx.ovid.com
 pen.sagepub.com
+qhr.sagepub.com
+rstl.royalsocietypublishing.org
+www.accesssurgery.com
 www.acpjc.org
 www.ajts.org
 www.altmedrev.com
@@ -23,6 +29,7 @@ www.horizonpress.com
 www.joacp.org
 www.jopm.org
 www.jos.edu.au
+www.journalacs.org
 www.jurology.com
 www.jvir.org
 www.mdconsult.com

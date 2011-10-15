@@ -25,6 +25,7 @@ genomemedicine.com
 hormones.gr
 info.k4health.org
 journals.lww.com
+journals.mui.ac.ir
 jrm.medicaljournals.se
 jvir.org
 koha.wustl.edu
@@ -78,6 +79,7 @@ www.asiapharmaceutics.info
 www.asnneuro.org
 www.astmh.org
 www.audiologyresearch.org
+www.beilstein-journals.org
 www.biodiversitylibrary.org
 www.biosciencetrends.com
 www.biotechnologyhealthcare.com
@@ -213,6 +215,7 @@ www.journalofvision.org
 www.journalsleep.org
 www.jpalliativecare.com
 www.jpands.org
+www.jpathinformatics.org
 www.jpbsonline.org
 www.jpgmonline.com
 www.jrheum.org
@@ -261,11 +264,13 @@ www.saudija.org
 www.saudijgastro.com
 www.schattauer.de
 www.scopus.com
+www.sjkdt.org
 www.skintherapyletter.com
 www.slackjournals.com
 www.smw.ch
 www.srm-ejournal.com
 www.studiesinmycology.org
+www.surgicalneurologyint.com
 www.tcrt.org
 www.thieme.de
 www.thoracicmedicine.org

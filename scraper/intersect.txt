@@ -129,6 +129,7 @@ europace.oxfordjournals.org
 f1000.com
 fampra.oxfordjournals.org
 fg.bmj.com
+find.galegroup.com
 firstsearch.oclc.org
 fn.bmj.com
 focus.psychiatryonline.org
@@ -257,6 +258,7 @@ onlinelibrary.wiley.com
 online.sagepub.com
 online.statref.com
 ovidsp.ovid.com
+ovidsp.tx.ovid.com
 pats.atsjournals.org
 pediatrics.aappublications.org
 pedsinreview.aappublications.org
@@ -281,6 +283,7 @@ publish.aps.org
 pubs.acs.org
 pubs.ama-assn.org
 pubs.amstat.org
+qhr.sagepub.com
 qjmed.oxfordjournals.org
 qualitysafety.bmj.com
 radiographics.rsna.org

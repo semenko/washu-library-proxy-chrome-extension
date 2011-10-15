@@ -33,10 +33,13 @@ nationaljournal.com
 poc.chemnetbase.com
 poj.peeters-leuven.be
 portal.acm.org
+products.asminternational.org
 projecteuclid.org
+rotunda.upress.virginia.edu
 royalsocietypublishing.org
 rspa.royalsocietypublishing.org
 rsta.royalsocietypublishing.org
+rstl.royalsocietypublishing.org
 sage-ereference.com
 seab.envmed.rochester.edu
 search.marquiswhoswho.com

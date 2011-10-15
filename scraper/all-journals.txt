@@ -153,6 +153,7 @@ ejechocard.oxfordjournals.org
 ejo.oxfordjournals.org
 ejournals.library.ualberta.ca
 emj.bmj.com
+en.diagnosispro.com
 endo.endojournals.org
 enterprise.astm.org
 ep.bmj.com
@@ -173,6 +174,7 @@ f1000.com
 fampra.oxfordjournals.org
 fb.cuni.cz
 fg.bmj.com
+find.galegroup.com
 firstsearch.oclc.org
 fn.bmj.com
 focus.psychiatryonline.org
@@ -257,12 +259,14 @@ jn.nutrition.org
 jn.physiology.org
 joe.endocrinology-journals.org
 jorthod.maneyjournals.org
+journalacs.org
 journals.bcdecker.com
 journals.cambridge.org
 journals.impan.gov.pl
 journalsip.astm.org
 journals.iucr.org
 journals.lww.com
+journals.mui.ac.ir
 jpet.aspetjournals.org
 jp.physoc.org
 jppr.psychiatryonline.org
@@ -326,6 +330,7 @@ online.sagepub.com
 online.statref.com
 ousar.lib.okayama-u.ac.jp
 ovidsp.ovid.com
+ovidsp.tx.ovid.com
 pats.atsjournals.org
 pediatrics.aappublications.org
 pedsinreview.aappublications.org
@@ -344,6 +349,7 @@ poj.peeters-leuven.be
 portal.acm.org
 preventionportal.aacrjournals.org
 proceedings.jbjs.org.uk
+products.asminternational.org
 projecteuclid.org
 prola.aps.org
 proquest.safaribooksonline.com
@@ -361,6 +367,7 @@ pubs.acs.org
 pubs.ama-assn.org
 pubs.amstat.org
 purl.access.gpo.gov
+qhr.sagepub.com
 qjmed.oxfordjournals.org
 qualitysafety.bmj.com
 radiographics.rsna.org
@@ -370,6 +377,7 @@ resources.tandfonline.com
 rheumatology.oxfordjournals.org
 rnajournal.cshlp.org
 ror.reproduction-online.org
+rotunda.upress.virginia.edu
 royalsocietypublishing.org
 rphr.endojournals.org
 rsbl.royalsocietypublishing.org
@@ -380,6 +388,7 @@ rspa.royalsocietypublishing.org
 rspb.royalsocietypublishing.org
 rsta.royalsocietypublishing.org
 rstb.royalsocietypublishing.org
+rstl.royalsocietypublishing.org
 sage-ereference.com
 sageke.sciencemag.org
 schizophreniabulletin.oxfordjournals.org
@@ -437,6 +446,7 @@ www.aaiddjournals.org
 www.aasmnet.org
 www.accessible.com
 www.accessmedicine.com
+www.accesssurgery.com
 www.acm.org
 www.acpjc.org
 www.actabiomedica.it
@@ -445,6 +455,7 @@ www.actapress.com
 www.advancesinpd.com
 www.aeaweb.org
 www.aepress.sk
+www.aeronline.org
 www.afb.org
 www.afrjpaedsurg.org
 www.agu.org
@@ -466,8 +477,10 @@ www.amamanualofstyle.com
 www.amdigital.co.uk
 www.amjorthopedics.com
 www.amsciepub.com
+www.amsjournal.com
 www.ams.org
 www.anesthesia-analgesia.org
+www.anmjournal.com
 www.annalsafrmed.org
 www.annals.com
 www.annals.in
@@ -484,13 +497,16 @@ www.aps.org
 www.archivesofpathology.org
 www.arl.org
 www.artificial-organs.com
+www.asianjns.org
 www.asiapharmaceutics.info
 www.asnneuro.org
 www.aspb.org
 www.astmh.org
+www.atmph.org
 www.atypon-link.com
 www.audiologyresearch.org
 www.basarchive.org
+www.beilstein-journals.org
 www.bepress.com
 www.biochemj.org
 www.biochemsoctrans.org
@@ -527,6 +543,8 @@ www.cjem-online.ca
 www.clinchem.org
 www.clinexprheumatol.org
 www.clinicalethics.com
+www.clinicalimagingscience.org
+www.clinicsandpractice.org
 www.clinmedres.org
 www.clinsci.org
 www.cma.ca
@@ -597,13 +615,16 @@ www.icddrb.org
 www.icmpe.org
 www.icmr.nic.in
 www.icr-heart.com
+www.idoj.in
 www.ieee.org
 www.ietdl.org
 www.ifo.it
+www.ijabmr.org
 www.ijaronline.com
 www.ijaweb.org
 www.ijccm.org
 www.ijch.fi
+www.ijciis.org
 www.ijcm.org.in
 www.ijdb.ehu.es
 www.ijdvl.com
@@ -612,9 +633,11 @@ www.ijhg.com
 www.ijmm.org
 www.ijmpo.org
 www.ijnm.in
+www.ijnpnd.com
 www.ijoem.com
 www.ijo.in
 www.ijoonline.com
+www.ijph.in
 www.ijpm.info
 www.ijpmonline.org
 www.ijp-online.com
@@ -634,6 +657,7 @@ www.indianjnephrol.org
 www.indianjpsychiatry.org
 www.indianjurol.com
 www.indianpediatrics.net
+www.industrialpsychiatry.org
 www.informaworld.com
 www.ingentaconnect.com
 www.internationalshoulderjournal.org
@@ -652,6 +676,7 @@ www.jacn.org
 www.jaim.in
 www.jaoa.org
 www.japmaonline.org
+www.japtr.org
 www.jbc.org
 www.jbjs.org
 www.jcasonline.com
@@ -660,6 +685,7 @@ www.jci.org
 www.jcvjs.com
 www.jcytol.org
 www.jendocrinolinvest.it
+www.jfcmonline.com
 www.jfponline.com
 www.jgid.org
 www.jgld.ro
@@ -670,8 +696,10 @@ www.jlponline.org
 www.jlr.org
 www.jmir.org
 www.jmp.org.in
+www.jnatpharm.org
 www.jnccn.org
 www.jneurosci.org
+www.jnsbm.org
 www.joacp.org
 www.jomfp.in
 www.joplink.net
@@ -679,6 +707,7 @@ www.joponline.org
 www.jos.edu.au
 www.josonline.org
 www.jospt.org
+www.journalacs.org
 www.journalarchive.jst.go.jp
 www.journalofmas.com
 www.journalofparasitology.org
@@ -688,12 +717,17 @@ www.journalsleep.org
 www.jove.com
 www.jpalliativecare.com
 www.jpands.org
+www.jpathinformatics.org
 www.jpbsonline.org
+www.jpdt.org
 www.jpgmonline.com
+www.jpharmacol.com
+www.jpionline.org
 www.jrheum.org
 www.jsad.com
 www.jsnm.org
 www.jstage.jst.go.jp
+www.jstcr.org
 www.jstor.org
 www.jultrasoundmed.org
 www.jurology.com
@@ -701,6 +735,7 @@ www.jvir.org
 www.karger.com
 www.kjronline.org
 www.landesbioscience.com
+www.laryngologyandvoice.org
 www.lexis-nexis.com
 www.lexisnexis.com
 www.libraryjournal.com
@@ -728,6 +763,7 @@ www.moffitt.org
 www.molbiolcell.org
 www.mrcindia.org
 www.myilibrary.com
+www.najms.org
 www.nap.edu
 www.nature.com
 www.nber.org
@@ -736,7 +772,10 @@ www.nejm.org
 www.netlibrary.com
 www.neurologyindia.com
 www.neurology.org
+www.nigeriamedj.com
 www.nih.go.jp
+www.njcponline.com
+www.njms.in
 www.nmanet.org
 www.noiseandhealth.org
 www.nowpublishers.com
@@ -770,7 +809,11 @@ www.pediatricneurosciences.com
 www.pedpath.org
 www.perceptionweb.com
 www.phac-aspc.gc.ca
+www.phcogrev.com
+www.phmethods.org
+www.picronline.org
 www.pnas.org
+www.pnrjournal.com
 www.polymersdatabase.com
 www.portico.org
 www.portlandpress.com
@@ -784,6 +827,7 @@ www.psychiatry.org.il
 www.psychosomaticmedicine.org
 www.publichealthreports.org
 www.publish.csiro.au
+www.pulmonarycirculation.org
 www.pulsus.com
 www.pvrireview.org
 www.r2library.com
@@ -793,6 +837,7 @@ www.reference-global.com
 www.reproduction-online.org
 www.reproductivemedicine.com
 www.research-design.co.uk
+www.rljae.org
 www.rsc.org
 www.sage-hindawi.com
 www.saudiannals.net
@@ -803,6 +848,7 @@ www.sciencedirect.com
 www.sciencemag.org
 www.scopus.com
 www.sif.it
+www.sjkdt.org
 www.sjweh.fi
 www.skintherapyletter.com
 www.slackjournals.com
@@ -811,6 +857,8 @@ www.springerlink.com
 www.springerprotocols.com
 www.srm-ejournal.com
 www.studiesinmycology.org
+www.surgicalneurologyint.com
+www.sysrevpharm.org
 www.tandfonline.com
 www.tcrt.org
 www.theannals.com
@@ -822,9 +870,12 @@ www.thieme.de
 www.thoracicmedicine.org
 www.tinnitusjournal.com
 www.toxicologyinternational.com
+www.tropicalparasitology.org
 www.tumorionline.it
+www.urogynaecologia.it
 www.urologyannals.com
 www.uwpress.org
 www.v-r.de
+www.wjnm.org
 www.worldscinet.com
 xlink.rsc.org
