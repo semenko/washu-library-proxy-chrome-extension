@@ -43,6 +43,7 @@
                             networkTag = resp.networkTag;
                         } else if (resp.networkTag == "OFF") {
                             onNetwork = false;
+                            beckerProxyURL = '.beckerproxy.wustl.edu';
                             networkTag = resp.networkTag;
                         } else {
                             // Something weird happened. We don't update onNetwork, since this could be
