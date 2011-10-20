@@ -36,6 +36,7 @@
                         var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
                         if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
                             onNetwork = true;
+                            beckerProxyURL = '.beckerproxy.wustl.edu';
                             networkTag = resp.networkTag;
                         } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH" || resp.networkTag == "BJC") {
                             onNetwork = true;
