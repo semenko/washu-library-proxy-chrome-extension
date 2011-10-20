@@ -87,7 +87,7 @@
 
         // The user wants auto-redirection and is off-network,
         // so we perform URL parsing and (maybe) redirection
-        function checkURLforRedirection(parsedURL) {
+        function checkURLforRedirection(tab, parsedURL) {
             if (intersect_journals.hasOwnProperty(parsedURL.host)) {
                 if (optPreferDanforth || (optEnableDanforth && !optEnableBecker)) {
                     doRedirectToProxy(tab, parsedURL, danforthProxyURL);
@@ -151,7 +151,7 @@
                         }
                     }
                 } else if (!onNetwork) {
-                    checkURLforRedirection(parsedURL);
+                    checkURLforRedirection(tab, parsedURL);
                 }
             }
         });
