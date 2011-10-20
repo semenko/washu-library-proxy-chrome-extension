@@ -39,7 +39,7 @@
                             beckerProxyURL = '.beckerproxy.wustl.edu';
                             networkTag = resp.networkTag;
                         } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH" || resp.networkTag == "BJC") {
-                            onNetwork = true;
+                            onNetwork = true; // TODO: Switch to false after excluding the short list of open journals at Becker.
                             beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
                             networkTag = resp.networkTag;
                         } else if (resp.networkTag == "OFF") {
@@ -87,8 +87,7 @@
 
         // The user wants auto-redirection and is off-network,
         // so we perform URL parsing and (maybe) redirection
-        function checkURLforRedirection(tab) {
-            var parsedURL = parseUri(tab.url);
+        function checkURLforRedirection(parsedURL) {
             if (intersect_journals.hasOwnProperty(parsedURL.host)) {
                 if (optPreferDanforth || (optEnableDanforth && !optEnableBecker)) {
                     doRedirectToProxy(tab, parsedURL, danforthProxyURL);
@@ -110,16 +109,6 @@
                 if (becker_journals.hasOwnProperty(parsedURL.host)) {
                     doRedirectToProxy(tab, parsedURL, beckerProxyURL);
                     return true;
-                } else if (!rewrotePubMedThisSession && parsedURL.host == "www.ncbi.nlm.nih.gov") {
-                    // Redirect PubMed journals to add ?holding flag.
-                    // TODO: Redirect for PMC articles, too?
-                    if (parsedURL.relative == "/pubmed/" || parsedURL.relative == "/pubmed"
-                            || parsedURL.relative == "/pmc/" || parsedURL.relative.match(/^\/pubmed\/\d{6,}$/)) {
-                        // Redirect with no proxy url, but an appendString
-                        doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
-                        rewrotePubMedThisSession = true;
-                        return true;
-                    }
                 }
             }
             return false;
@@ -147,8 +136,23 @@
         chrome.tabs.onUpdated.addListener(function(tabid, changeinfo, tab) {
             // If users refresh, changeinfo.url is null (don't trigger)
             // Should we check for redirect loops, like with web.mit.edu?
-            if (optAutoRedirect && !onNetwork && changeinfo.status == "loading" && changeinfo.url != null) {
-                checkURLforRedirection(tab);
+            if (optAutoRedirect && changeinfo.status == "loading" && changeinfo.url != null) {
+                var parsedURL = parseUri(tab.url);
+                if (optEnableBecker && parsedURL.host == "www.ncbi.nlm.nih.gov") {
+                    // Redirect PubMed journals to add ?holding flag.
+                    // This is useful whether we are on or off network.
+                    // TODO: Redirect for PMC articles, too?
+                    if (!rewrotePubMedThisSession) {
+                        if (parsedURL.relative == "/pubmed/" || parsedURL.relative == "/pubmed"
+                            || parsedURL.relative == "/pmc/" || parsedURL.relative.match(/^\/pubmed\/\d{6,}$/)) {
+                            // Redirect with no proxy url, but an appendString
+                            doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
+                            rewrotePubMedThisSession = true;
+                        }
+                    }
+                } else if (!onNetwork) {
+                    checkURLforRedirection(parsedURL);
+                }
             }
         });
 
