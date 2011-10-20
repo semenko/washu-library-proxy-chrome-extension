@@ -179,6 +179,7 @@ firstsearch.oclc.org
 fn.bmj.com
 focus.psychiatryonline.org
 funpecrp.com.br
+gastrojournal.org
 gateway.ovid.com
 general-medicine.jwatch.org
 genesdev.cshlp.org
@@ -589,6 +590,7 @@ www.foodandnutritionresearch.net
 www.freemedicaljournals.com
 www.futuremedicine.com
 www.future-science.com
+www.gastrojournal.org
 www.genetics.org
 www.geoscienceworld.org
 www.greenpharmacy.info
@@ -658,6 +660,7 @@ www.indianjpsychiatry.org
 www.indianjurol.com
 www.indianpediatrics.net
 www.industrialpsychiatry.org
+www.informahealthcarebooks.com
 www.informaworld.com
 www.ingentaconnect.com
 www.internationalshoulderjournal.org

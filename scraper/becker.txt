@@ -20,6 +20,7 @@ ejournals.library.ualberta.ca
 epe.lac-bac.gc.ca
 fb.cuni.cz
 funpecrp.com.br
+gastrojournal.org
 general-medicine.jwatch.org
 genomemedicine.com
 hormones.gr
@@ -127,6 +128,7 @@ www.foodandnutritionresearch.net
 www.freemedicaljournals.com
 www.futuremedicine.com
 www.future-science.com
+www.gastrojournal.org
 www.greenpharmacy.info
 www.gynecendoscopy.org
 www.haematologica.org
