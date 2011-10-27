@@ -423,6 +423,7 @@ symposium.cshlp.org
 tde.sagepub.com
 thecarlatreport.com
 thejns.org
+thelancet.com
 theoncologist.alphamedpress.org
 thomasland.metapress.com
 thorax.bmj.com
@@ -867,6 +868,7 @@ www.tcrt.org
 www.theannals.com
 www.the-aps.org
 www.thecochranelibrary.com
+www.thelancet.com
 www.the-scientist.com
 www.thieme-connect.com
 www.thieme.de

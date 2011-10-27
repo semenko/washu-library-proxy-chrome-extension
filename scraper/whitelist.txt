@@ -1,9 +1,8 @@
 caonline.amcancersoc.org
 div9perspectives.asha.org
 en.diagnosispro.com
-journalacs.org
 gastrojournal.org
-www.gastrojournal.org
+journalacs.org
 journals.lww.com
 jvir.org
 lib.myilibrary.com
@@ -12,6 +11,7 @@ ovidsp.tx.ovid.com
 pen.sagepub.com
 qhr.sagepub.com
 rstl.royalsocietypublishing.org
+thelancet.com
 www.accesssurgery.com
 www.acpjc.org
 www.ajts.org
@@ -27,6 +27,7 @@ www.cutis.com
 www.cytojournal.com
 www.ecv.de
 www.embase.com
+www.gastrojournal.org
 www.horizonpress.com
 www.joacp.org
 www.jopm.org
@@ -39,3 +40,4 @@ www.netlibrary.com
 www.oed.com
 www.scopus.com
 www.studiesinmycology.org
+www.thelancet.com

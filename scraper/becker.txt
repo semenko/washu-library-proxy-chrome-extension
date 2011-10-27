@@ -50,6 +50,7 @@ sgo.sagepub.com
 stfm.org
 thecarlatreport.com
 thejns.org
+thelancet.com
 webio.hu
 www.aafp.org
 www.acpjc.org
@@ -274,6 +275,7 @@ www.srm-ejournal.com
 www.studiesinmycology.org
 www.surgicalneurologyint.com
 www.tcrt.org
+www.thelancet.com
 www.thieme.de
 www.thoracicmedicine.org
 www.tinnitusjournal.com
