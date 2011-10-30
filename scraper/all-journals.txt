@@ -564,6 +564,7 @@ www.cutis.com
 www.cytojournal.com
 www.dbpia.co.kr
 www.degruyter.de
+www.dialogues-cns.org
 www.dmphp.org
 www.dustri.com
 www.ecmjournal.org
@@ -693,6 +694,7 @@ www.jfcmonline.com
 www.jfponline.com
 www.jgid.org
 www.jgld.ro
+www.jhltonline.org
 www.jhrsonline.org
 www.jiaps.com
 www.jleukbio.org
