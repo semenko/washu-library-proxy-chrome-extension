@@ -1,6 +1,7 @@
 aac.asm.org
 aapredbook.aappublications.org
 acb.rsmjournals.com
+accessmedicine.com
 acn.oxfordjournals.org
 acsinfo.acs.org
 adc.bmj.com
@@ -13,6 +14,7 @@ aja.asha.org
 ajcp.ascpjournals.org
 aje.oxfordjournals.org
 ajh.sagepub.com
+ajnr.org
 ajpcell.physiology.org
 ajpendo.physiology.org
 ajpgi.physiology.org
@@ -27,9 +29,12 @@ ajrccm.atsjournals.org
 ajrcmb.atsjournals.org
 ajslp.asha.org
 alcalc.oxfordjournals.org
+annals.org
+annfammed.org
 annhyg.oxfordjournals.org
 annonc.oxfordjournals.org
 ap.psychiatryonline.org
+aps.org
 archderm.ama-assn.org
 archfaci.ama-assn.org
 archfami.ama-assn.org
@@ -49,7 +54,9 @@ atvb.ahajournals.org
 baywood.metapress.com
 bfg.oxfordjournals.org
 bib.oxfordjournals.org
+bio.biologists.org
 bioinformatics.oxfordjournals.org
+biomedcentral.com
 biomedgerontology.oxfordjournals.org
 biomet.oxfordjournals.org
 biostatistics.oxfordjournals.org
@@ -59,6 +66,7 @@ bjp.rcpsych.org
 bjr.birjournals.org
 bloodjournal.hematologylibrary.org
 bmb.oxfordjournals.org
+bmj.com
 bmjopen.bmj.com
 brain.oxfordjournals.org
 breast-cancer-research.com
@@ -89,6 +97,7 @@ cjasn.asnjournals.org
 clincancerres.aacrjournals.org
 clinical.diabetesjournals.org
 clinicalevidence.bmj.com
+cmaj.ca
 cmr.asm.org
 content.healthaffairs.org
 content.karger.com
@@ -102,6 +111,7 @@ div9perspectives.asha.org
 dmd.aspetjournals.org
 dmfr.birjournals.org
 dmm.biologists.org
+dsm.psychiatryonline.org
 dukejournals.org
 dx.doi.org
 ebm.bmj.com
@@ -150,6 +160,7 @@ humupd.oxfordjournals.org
 hyper.ahajournals.org
 iai.asm.org
 icvts.ctsnetjournals.org
+ieee.org
 ieeexplore.ieee.org
 ije.oxfordjournals.org
 ijs.sgmjournals.org
@@ -161,6 +172,7 @@ intimm.oxfordjournals.org
 intqhc.oxfordjournals.org
 iopscience.iop.org
 iospress.metapress.com
+jaaos.org
 jac.oxfordjournals.org
 jada.ada.org
 jama.ama-assn.org
@@ -169,6 +181,7 @@ jap.physiology.org
 jas.fass.org
 jasn.asnjournals.org
 jb.asm.org
+jbjs.org
 jb.oxfordjournals.org
 jcb.rupress.org
 jcem.endojournals.org
@@ -193,6 +206,7 @@ jmcb.oxfordjournals.org
 jme.bmj.com
 jme.endocrinology-journals.org
 jmg.bmj.com
+jmh.sagepub.com
 jmicro.oxfordjournals.org
 jmm.sgmjournals.org
 jmp.oxfordjournals.org
@@ -205,6 +219,7 @@ jn.nutrition.org
 jn.physiology.org
 joe.endocrinology-journals.org
 jorthod.maneyjournals.org
+journals.asm.org
 journals.bcdecker.com
 journals.cambridge.org
 journalsip.astm.org
@@ -227,12 +242,14 @@ lshss.asha.org
 mbe.oxfordjournals.org
 mbio.asm.org
 mcb.asm.org
+mcponline.org
 mcr.aacrjournals.org
 mct.aacrjournals.org
 mend.endojournals.org
 mesharpe.metapress.com
 mh.bmj.com
 mic.sgmjournals.org
+mitpressjournals.org
 mmbr.asm.org
 molehr.oxfordjournals.org
 molpharm.aspetjournals.org
@@ -243,9 +260,12 @@ name.umdl.umich.edu
 nar.oxfordjournals.org
 nas.sagepub.com
 nass.oxfordjournals.org
+nature.com
+ncbi.nlm.nih.gov
 ndt.oxfordjournals.org
 ndtplus.oxfordjournals.org
 neoreviews.aappublications.org
+neurology.org
 neuro-oncology.oxfordjournals.org
 neuro.psychiatryonline.org
 news.sciencemag.org
@@ -259,7 +279,9 @@ online.sagepub.com
 online.statref.com
 ovidsp.ovid.com
 ovidsp.tx.ovid.com
+oxfordjournals.org
 pats.atsjournals.org
+pdiconnect.com
 pediatrics.aappublications.org
 pedsinreview.aappublications.org
 peds.oxfordjournals.org
@@ -271,11 +293,16 @@ physrev.physiology.org
 pmj.bmj.com
 pn.bmj.com
 pn.psychiatryonline.org
+precedings.nature.com
 preventionportal.aacrjournals.org
 proceedings.jbjs.org.uk
 prola.aps.org
 proquest.safaribooksonline.com
 proquest.umi.com
+ps.psychiatryonline.org
+psychiatrist.com
+psychiatryonline.org
+psychnews.psychiatryonline.org
 psychservices.psychiatryonline.org
 psychsocgerontology.oxfordjournals.org
 psy.psychiatryonline.org
@@ -297,9 +324,12 @@ rsfs.royalsocietypublishing.org
 rsif.royalsocietypublishing.org
 rsnr.royalsocietypublishing.org
 rspb.royalsocietypublishing.org
+rsta.royalsocietypublishing.org
 rstb.royalsocietypublishing.org
 sageke.sciencemag.org
 schizophreniabulletin.oxfordjournals.org
+sciencedirect.com
+sciencemag.org
 scitation.aip.org
 search.ebscohost.com
 shm.oxfordjournals.org
@@ -307,6 +337,9 @@ shortreports.rsmjournals.com
 site.ebrary.com
 smj.rsmjournals.com
 spectrum.diabetesjournals.org
+springerlink3.metapress.com
+springerlink.com
+springerprotocols.com
 sti.bmj.com
 stke.sciencemag.org
 stm.sciencemag.org
@@ -315,8 +348,10 @@ symposia.biochemistry.org
 symposium.cshlp.org
 tde.sagepub.com
 theoncologist.alphamedpress.org
+the-scientist.com
 thomasland.metapress.com
 thorax.bmj.com
+tih.sagepub.com
 toxsci.oxfordjournals.org
 tpx.sagepub.com
 tropej.oxfordjournals.org
@@ -335,6 +370,7 @@ www.aasmnet.org
 www.accessmedicine.com
 www.advancesinpd.com
 www.ajcn.org
+www.ajhpcontents.com
 www.ajnr.org
 www.ajronline.org
 www.ajtmh.org
@@ -378,6 +414,7 @@ www.ieee.org
 www.ietdl.org
 www.ijdb.ehu.es
 www.informaworld.com
+www.info.sciencedirect.com
 www.ingentaconnect.com
 www.iop.org
 www.iovs.org
@@ -388,6 +425,7 @@ www.japmaonline.org
 www.jbc.org
 www.jbjs.org
 www.jci.org
+www.jimmunol.org
 www.jleukbio.org
 www.jlr.org
 www.jnccn.org
@@ -434,6 +472,7 @@ www.rcjournal.com
 www.reference-global.com
 www.reproduction-online.org
 www.rsc.org
+www.sagepub.com
 www.sciencedirect.com
 www.sciencemag.org
 www.sjweh.fi
@@ -445,5 +484,6 @@ www.the-aps.org
 www.thecochranelibrary.com
 www.the-scientist.com
 www.thieme-connect.com
+www.wiley.com
 www.worldscinet.com
 xlink.rsc.org
