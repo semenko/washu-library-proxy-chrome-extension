@@ -38,6 +38,9 @@ grep -iv "open" danforth-raw.html | grep "libproxy" | grep -oE "url%3Dhttp[^\"]+
 # Add in whitelists, make lowercase, remove duplicates
 cat scraped-journals.txt > all-journals-pre-unique.txt
 cat whitelist.txt >> all-journals-pre-unique.txt
-sort all-journals-pre-unique.txt | tr "[A-Z]" "[a-z]" | uniq | grep -v -f blacklist.txt > all-journals.txt
+# Also add non-www URLs by truncation (e.g. www.sagepub.com -> sagepub.com)
+cat all-journals-pre-unique.txt > all-journals-pre-unique-with-www-truncated.txt
+grep "^www\." all-journals-pre-unique.txt | cut -c5- >> all-journals-pre-unique-with-www-truncated.txt
+sort all-journals-pre-unique-with-www-truncated.txt | tr "[A-Z]" "[a-z]" | uniq | grep -v -f blacklist.txt > all-journals.txt
 
 wc -l all-journals.txt
