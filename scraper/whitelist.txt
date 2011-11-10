@@ -2,6 +2,8 @@ caonline.amcancersoc.org
 div9perspectives.asha.org
 en.diagnosispro.com
 gastrojournal.org
+jhltonline.org
+jmh.sagepub.com
 journalacs.org
 journals.lww.com
 jvir.org
@@ -11,7 +13,10 @@ ovidsp.tx.ovid.com
 pen.sagepub.com
 qhr.sagepub.com
 rstl.royalsocietypublishing.org
+sagepub.com
+springerlink3.metapress.com
 thelancet.com
+tih.sagepub.com
 www.accesssurgery.com
 www.acpjc.org
 www.ajts.org
@@ -30,6 +35,7 @@ www.embase.com
 www.gastrojournal.org
 www.horizonpress.com
 www.jhltonline.org
+www.jimmunol.org
 www.joacp.org
 www.jopm.org
 www.jos.edu.au
@@ -39,6 +45,8 @@ www.jvir.org
 www.mdconsult.com
 www.netlibrary.com
 www.oed.com
+www.sagepub.com
 www.scopus.com
 www.studiesinmycology.org
 www.thelancet.com
+www.wiley.com
