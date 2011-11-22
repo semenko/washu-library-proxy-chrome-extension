@@ -28,6 +28,7 @@ ajprenal.physiology.org
 ajrccm.atsjournals.org
 ajrcmb.atsjournals.org
 ajslp.asha.org
+ala.org
 alcalc.oxfordjournals.org
 annals.org
 annfammed.org
@@ -83,6 +84,7 @@ ccl.sagepub.com
 cco.cambridge.org
 cebp.aacrjournals.org
 cercor.oxfordjournals.org
+cgd.aacrjournals.org
 chemse.oxfordjournals.org
 cid.oxfordjournals.org
 circ.ahajournals.org
@@ -119,6 +121,7 @@ ebm.rsmjournals.com
 ec.asm.org
 edrv.endojournals.org
 ejechocard.oxfordjournals.org
+eje-online.org
 ejo.oxfordjournals.org
 emj.bmj.com
 endo.endojournals.org
@@ -232,6 +235,7 @@ jrn.sagepub.com
 jrsm.rsmjournals.com
 jshd.asha.org
 jslhr.asha.org
+jslhr.highwire.org
 jtt.rsmjournals.com
 jvi.asm.org
 learnmem.cshlp.org
@@ -461,6 +465,7 @@ www.perceptionweb.com
 www.pnas.org
 www.portico.org
 www.press.uillinois.edu
+www.ps.psychiatryonline.org
 www.psychiatrist.com
 www.psychiatryonline.com
 www.psychiatryonline.org

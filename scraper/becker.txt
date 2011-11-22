@@ -11,6 +11,7 @@ altmedrev.com
 ama-assn.org
 anesthesia-analgesia.org
 annals.edu.sg
+aota.org
 apps.who.int
 archive.ammonsscientific.com
 ar.iiarjournals.org
@@ -25,7 +26,6 @@ ccjm.org
 ccn.aacnjournals.org
 cdc.gov
 census.gov
-cgd.aacrjournals.org
 chestjournal.chestpubs.org
 chiromt.com
 cigjournals.metapress.com
@@ -38,7 +38,6 @@ dermatology.cdlib.org
 dmphp.org
 drugabuse.gov
 ebooks.thieme.com
-eje-online.org
 ejournals.library.ualberta.ca
 embase.com
 epe.lac-bac.gc.ca
@@ -56,6 +55,7 @@ genomemedicine.com
 gpoaccess.gov
 guttmacher.org
 haematologica.org
+hgp.sagepub.com
 hhrjournal.org
 hindawi.com
 hormones.gr
@@ -139,6 +139,7 @@ skintherapyletter.com
 srm-ejournal.com
 stfm.org
 surgicalneurologyint.com
+tej.sagepub.com
 theannals.com
 the-aps.org
 thecarlatreport.com

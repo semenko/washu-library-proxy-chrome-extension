@@ -90,6 +90,7 @@ annhyg.oxfordjournals.org
 annonc.oxfordjournals.org
 annualreviews.org
 anthrosource.net
+aota.org
 apfmj-archive.com
 apocp.org
 app.harpweek.com
@@ -131,6 +132,7 @@ atmph.org
 atvb.ahajournals.org
 atypon-link.com
 audiologyresearch.org
+ayujournal.org
 basarchive.org
 baywood.metapress.com
 beilstein-journals.org
@@ -371,6 +373,7 @@ hea.sagepub.com
 heinonline.org
 hellenicjcardiol.com
 hepatitisbannual.org
+hgp.sagepub.com
 hhrjournal.org
 hh.um.es
 highwire.stanford.edu
@@ -466,6 +469,7 @@ iospress.metapress.com
 iovs.org
 ipej.org
 ismni.org
+isrn.com
 jaaos.org
 jaapl.org
 jabfm.org
@@ -587,6 +591,7 @@ jrsm.rsmjournals.com
 jsad.com
 jshd.asha.org
 jslhr.asha.org
+jslhr.highwire.org
 jsnm.org
 jstage.jst.go.jp
 jstcr.org
@@ -891,6 +896,7 @@ sysrevpharm.org
 tandfonline.com
 tcrt.org
 tde.sagepub.com
+tej.sagepub.com
 theannals.com
 the-aps.org
 thecarlatreport.com
@@ -1000,6 +1006,7 @@ www.astmh.org
 www.atmph.org
 www.atypon-link.com
 www.audiologyresearch.org
+www.ayujournal.org
 www.basarchive.org
 www.beilstein-journals.org
 www.bepress.com
@@ -1169,6 +1176,7 @@ www.iop.org
 www.iovs.org
 www.ipej.org
 www.ismni.org
+www.isrn.com
 www.jaaos.org
 www.jaapl.org
 www.jabfm.org
@@ -1324,6 +1332,7 @@ www.portlandpress.com
 www.press.uillinois.edu
 www.primarypsychiatry.com
 www.psocommons.org
+www.ps.psychiatryonline.org
 www.psychiatrist.com
 www.psychiatryonline.com
 www.psychiatryonline.org

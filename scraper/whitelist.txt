@@ -1,3 +1,4 @@
+aota.org
 caonline.amcancersoc.org
 div9perspectives.asha.org
 en.diagnosispro.com
@@ -6,11 +7,13 @@ jhltonline.org
 jmh.sagepub.com
 journalacs.org
 journals.lww.com
+jslhr.highwire.org
 jvir.org
 lib.myilibrary.com
 neonatalnetwork.metapress.com
 ovidsp.tx.ovid.com
 pen.sagepub.com
+proquest.umi.com
 qhr.sagepub.com
 rstl.royalsocietypublishing.org
 sagepub.com
@@ -45,8 +48,10 @@ www.jvir.org
 www.mdconsult.com
 www.netlibrary.com
 www.oed.com
+www.ps.psychiatryonline.org
 www.sagepub.com
 www.scopus.com
 www.studiesinmycology.org
+www.tandfonline.com
 www.thelancet.com
 www.wiley.com
