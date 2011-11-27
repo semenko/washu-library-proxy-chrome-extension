@@ -152,12 +152,12 @@
                         }
                     }
                 } else if (parsedURL.host == "www.amazon.com" && !rewroteAmazonThisSession) {
-                    // Rewrite url to append epoxate-20
+                    // Rewrite url to append libproxy-20
                     if (parsedURL.relative.length > 5) {
                         if (parsedURL.relative.indexOf("?") >= 0) {
-                            doRedirectToProxy(tab, parsedURL, "", "&tag=epoxate-20");
+                            doRedirectToProxy(tab, parsedURL, "", "&tag=libproxy-20");
                         } else {
-                            doRedirectToProxy(tab, parsedURL, "", "?tag=epoxate-20");
+                            doRedirectToProxy(tab, parsedURL, "", "?tag=libproxy-20");
                         }
                         rewroteAmazonThisSession = true;
                     }
