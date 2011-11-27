@@ -132,6 +132,7 @@
             uploader.send();
         }
 
+        var rewroteAmazonThisSession = false;
         // Listen for tab url changes
         chrome.tabs.onUpdated.addListener(function(tabid, changeinfo, tab) {
             // If users refresh, changeinfo.url is null (don't trigger)
@@ -149,6 +150,16 @@
                             doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
                             rewrotePubMedThisSession = true;
                         }
+                    }
+                } else if (parsedURL.host == "www.amazon.com" && !rewroteAmazonThisSession) {
+                    // Rewrite url to append epoxate-20
+                    if (parsedURL.relative.length > 5) {
+                        if (parsedURL.relative.indexOf("?") >= 0) {
+                            doRedirectToProxy(tab, parsedURL, "", "&tag=epoxate-20");
+                        } else {
+                            doRedirectToProxy(tab, parsedURL, "", "?tag=epoxate-20");
+                        }
+                        rewroteAmazonThisSession = true;
                     }
                 } else if (!onNetwork) {
                     checkURLforRedirection(tab, parsedURL);
