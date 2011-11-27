@@ -45,6 +45,7 @@ library.cqpress.com
 library.pressdisplay.com
 lion.chadwyck.com
 mathscipub.org
+mcd.sagepub.com
 metapress.com
 minsocam.org
 nationaljournal.com
@@ -73,6 +74,7 @@ solomon.nwld.alexanderstreet.com
 solomon.wodr.alexanderstreet.com
 spiedigitallibrary.org
 wass.alexanderstreet.com
+wustl.eblib.com
 www.aaiddjournals.org
 www.accessible.com
 www.acm.org
@@ -110,6 +112,7 @@ www.minsocam.org
 www.mlajournals.org
 www.nber.org
 www.ncte.org
+www.nho.sagepub.com
 www.nowpublishers.com
 www.oecd-ilibrary.org
 www.oed.com
@@ -129,3 +132,4 @@ www.research-design.co.uk
 www.sif.it
 www.uwpress.org
 www.v-r.de
+www.wustl.eblib.com
