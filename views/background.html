@@ -25,6 +25,7 @@
         var refreshTimeoutMilliseconds = 1800000;
 
         // Are we at WashU? SLCH? WUSM? Off campus!?!
+        // TODO: At start, guess state from last session. If we're restoring lots of closed tabs on campus at restart, we might incorrectly assume off-campus.
         function detectNetworkState() {
             // This will pass an HTTP_ORIGIN flag with the Chrome Extension ID so Becker
             // can contact me or block the extension if it causes any problems.
