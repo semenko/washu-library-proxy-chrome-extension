@@ -10,6 +10,7 @@
         parseLocalStorage();
         // Figure out if we're @ WU/BJC/SLCH/Danforth or off-campus.
         var onNetwork = false;
+
         // TODO: Consider redirect with /?url= parameter instead if not logged in.
         var danforthProxyURL = '.libproxy.wustl.edu';
         var beckerProxyURL = '.beckerproxy.wustl.edu';
@@ -167,6 +168,14 @@
                 }
             }
         });
+
+        // Reset per-session rewrites every 8 hours, for the users that put their machines to sleep w/ Chrome open.
+        function resetPerSessionRewrites() {
+            console.info("We've been alive for 8 hours: Resetting per-session rewrites.");
+            rewrotePubMedThisSession = false;
+            rewroteAmazonThisSession = false;
+        }
+        setInterval("resetPerSessionRewrites();", 28800000); // 8 hours.
 
         // Listen to clicking on our button.
         chrome.browserAction.onClicked.addListener(function (tab) {
