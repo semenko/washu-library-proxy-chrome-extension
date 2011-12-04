@@ -6,10 +6,10 @@
     <script>
         // chrome.browserAction.setBadgeBackgroundColor({color: [0, 110, 81, 255]});
         // chrome.browserAction.setBadgeText({text: "ON"});
+
         // Parse some local storage objects!
+        // onNetwork now comes from an LSO
         parseLocalStorage();
-        // Figure out if we're @ WU/BJC/SLCH/Danforth or off-campus.
-        var onNetwork = false;
 
         // TODO: Consider redirect with /?url= parameter instead if not logged in.
         var danforthProxyURL = '.libproxy.wustl.edu';
@@ -38,14 +38,17 @@
                         var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
                         if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
                             onNetwork = true;
+                            localStorage.onNetwork = true; // I don't quite trust the LSO API yet, which is why we have this duplication.
                             beckerProxyURL = '.beckerproxy.wustl.edu';
                             networkTag = resp.networkTag;
                         } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH" || resp.networkTag == "BJC") {
                             onNetwork = true; // TODO: Switch to false after excluding the short list of open journals at Becker.
+                            localStorage.onNetwork = true;
                             beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
                             networkTag = resp.networkTag;
                         } else if (resp.networkTag == "OFF") {
                             onNetwork = false;
+                            localStorage.onNetwork = false;
                             beckerProxyURL = '.beckerproxy.wustl.edu';
                             networkTag = resp.networkTag;
                         } else {
