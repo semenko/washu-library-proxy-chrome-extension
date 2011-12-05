@@ -35,7 +35,7 @@
             xhr.onreadystatechange = function() {
                 if (xhr.readyState == 4) {
                     if (xhr.status == 200) {
-                        var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length-1));
+                        var resp = JSON.parse(xhr.responseText.substring(1, xhr.responseText.length - 1));
                         if (resp.networkTag == "WUSTL" || resp.networkTag == "WUSM") {
                             onNetwork = true;
                             localStorage.onNetwork = true; // I don't quite trust the LSO API yet, which is why we have this duplication.
@@ -122,16 +122,18 @@
         // Redirect the page using the auto-determined proxy URL
         // Modularize so we only parse the URL once (parsing is expensive!)
         function doRedirectToProxy(tab, parsed, proxyURL, appendString) {
-            if (!appendString) { appendString = ''; }
-            var proxifiedURL =  parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative + appendString;
+            if (!appendString) {
+                appendString = '';
+            }
+            var proxifiedURL = parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative + appendString;
             chrome.tabs.update(tab.id, {url: proxifiedURL});
         }
 
         // Send log data if there's a missed URL (someone had to manually click)
         // or there's a Becker network detection error.
         function writeToRemoteLog(theData) {
-            var uploader  = new XMLHttpRequest();
-            var logString = "url:" + encodeURIComponent(theData) + ",auto:"+ optAutoRedirect +
+            var uploader = new XMLHttpRequest();
+            var logString = "url:" + encodeURIComponent(theData) + ",auto:" + optAutoRedirect +
                     ",onNet:" + onNetwork + ",tag:" + networkTag;
             uploader.open("GET", "https://update.epoxate.com/becker-extension/log.py?" + logString, true);
             uploader.send();
@@ -150,7 +152,7 @@
                     // TODO: Redirect for PMC articles, too?
                     if (!rewrotePubMedThisSession) {
                         if (parsedURL.relative == "/pubmed/" || parsedURL.relative == "/pubmed"
-                            || parsedURL.relative == "/pmc/" || parsedURL.relative.match(/^\/pubmed\/\d{6,}$/)) {
+                                || parsedURL.relative == "/pmc/" || parsedURL.relative.match(/^\/pubmed\/\d{6,}$/)) {
                             // Redirect with no proxy url, but an appendString
                             doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
                             rewrotePubMedThisSession = true;
@@ -182,7 +184,7 @@
             // We check for HTTP/HTTPS only (no chrome://), and that "proxy.wustl.edu" isn't at the end of the
             // string, otherwise we're probably already at [becker|lib]proxy.wustl.edu.
             if ((parsedURL.protocol == 'http' || parsedURL.protocol == 'https')
-                    && parsedURL.host.substring(parsedURL.host.length-15) != 'proxy.wustl.edu') {
+                    && parsedURL.host.substring(parsedURL.host.length - 15) != 'proxy.wustl.edu') {
                 // TODO: Handle Danforth differently, since they don't seem to like SSL as much.
                 // TODO: Consider dropping HTTPS support? Is this useful?
                 if (parsedURL.protocol == 'https') {
