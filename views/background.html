@@ -154,6 +154,7 @@
                             // Redirect with no proxy url, but an appendString
                             doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
                             rewrotePubMedThisSession = true;
+                            setTimeout("rewrotePubMedThisSession = false;", 21600000);
                         }
                     }
                 } else if (parsedURL.host == "www.amazon.com" && !rewroteAmazonThisSession) {
@@ -165,20 +166,13 @@
                             doRedirectToProxy(tab, parsedURL, "", "?tag=libproxy-20");
                         }
                         rewroteAmazonThisSession = true;
+                        setTimeout("rewroteAmazonThisSession = false;", 21600000);
                     }
                 } else if (!onNetwork) {
                     checkURLforRedirection(tab, parsedURL);
                 }
             }
         });
-
-        // Reset per-session rewrites every 8 hours, for the users that put their machines to sleep w/ Chrome open.
-        function resetPerSessionRewrites() {
-            console.info("We've been alive for 8 hours: Resetting per-session rewrites.");
-            rewrotePubMedThisSession = false;
-            rewroteAmazonThisSession = false;
-        }
-        setInterval("resetPerSessionRewrites();", 28800000); // 8 hours.
 
         // Listen to clicking on our button.
         chrome.browserAction.onClicked.addListener(function (tab) {
