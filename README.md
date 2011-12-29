@@ -36,7 +36,7 @@ NOTE: This extension requires either a WUSTL Key or a Becker Proxy account.
 + http://web.mit.edu/semenko/
 
 ## License
-Copyright 2011, Nick Semenkovich <semenko@alum.mit.edu>
+Copyright 2011-2012, Nick Semenkovich <semenko@alum.mit.edu>
 
 Released under the MIT License. See LICENSE for details.
 
