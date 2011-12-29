@@ -1,6 +1,7 @@
 aas.sagepub.com
 abs.sagepub.com
 ach.sagepub.com
+acpjc.acponline.org
 adb.sagepub.com
 adh.sagepub.com
 aei.sagepub.com
@@ -140,6 +141,7 @@ dvr.sagepub.com
 eab.sagepub.com
 eaq.sagepub.com
 eau.sagepub.com
+ebooks.cambridge.org
 ebx.sagepub.com
 ecl.sagepub.com
 ecr.sagepub.com
@@ -516,6 +518,7 @@ psp.sagepub.com
 psr.sagepub.com
 pss.sagepub.com
 ptx.sagepub.com
+pubs.rsc.org
 pun.sagepub.com
 pus.sagepub.com
 pvs.sagepub.com

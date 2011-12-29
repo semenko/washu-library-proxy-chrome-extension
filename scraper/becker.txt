@@ -1,6 +1,7 @@
 aafp.org
 aahm.press.jhu.edu
 aasmnet.org
+acpjc.acponline.org
 acta-cytol.com
 aidscience.org
 ajcn.org
@@ -39,6 +40,7 @@ cmj.hr
 cnu.sagepub.com
 cshlpress.com
 cshprotocols.org
+cutis.com
 dbm.sagepub.com
 dermatology.cdlib.org
 dmphp.org
@@ -71,6 +73,7 @@ hindawi.com
 hormones.gr
 hsa.sagepub.com
 icmr.nic.in
+ijccm.org
 ijdvl.com
 ijri.org
 impactjournals.com
@@ -98,11 +101,13 @@ jfponline.com
 jgm.sagepub.com
 jhltonline.org
 jlr.sagepub.com
+jmc.sagepub.com
+jmo.sagepub.com
+jmq.sagepub.com
 joacp.org
 joa.sagepub.com
 jospt.org
 journalofvision.org
-journals.lww.com
 journals.mui.ac.ir
 jpathinformatics.org
 jpgmonline.com
@@ -115,6 +120,7 @@ kjronline.org
 koha.wustl.edu
 landesbioscience.com
 ldq.sagepub.com
+lifescied.org
 lungindia.com
 maney.co.uk
 mayoclinicproceedings.com
@@ -182,6 +188,7 @@ www.acpjc.org
 www.actabiomedica.it
 www.acta-cytol.com
 www.aepress.sk
+www.aeronline.org
 www.afb.org
 www.afrjpaedsurg.org
 www.ahcpub.com
@@ -224,6 +231,7 @@ www.cjcp.ca
 www.cjem-online.ca
 www.clinexprheumatol.org
 www.clinicalethics.com
+www.clinicalimagingscience.org
 www.clinmedres.org
 www.cma.ca
 www.cmbl.org.pl
@@ -279,6 +287,7 @@ www.ijaronline.com
 www.ijaweb.org
 www.ijccm.org
 www.ijch.fi
+www.ijciis.org
 www.ijcm.org.in
 www.ijdvl.com
 www.ijem.in
@@ -308,6 +317,7 @@ www.indianjnephrol.org
 www.indianjpsychiatry.org
 www.indianjurol.com
 www.indianpediatrics.net
+www.industrialpsychiatry.org
 www.internationalshoulderjournal.org
 www.invasivecardiology.com
 www.ipej.org
@@ -337,7 +347,6 @@ www.joponline.org
 www.jos.edu.au
 www.josonline.org
 www.jospt.org
-www.journalarchive.jst.go.jp
 www.journalofmas.com
 www.journalofparasitology.org
 www.journalofvision.org
@@ -366,6 +375,7 @@ www.moffitt.org
 www.mrcindia.org
 www.nap.edu
 www.neurologyindia.com
+www.nigeriamedj.com
 www.nih.go.jp
 www.nmanet.org
 www.noiseandhealth.org

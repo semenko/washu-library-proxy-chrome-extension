@@ -247,6 +247,7 @@ eaq.sagepub.com
 eau.sagepub.com
 ebm.bmj.com
 ebm.rsmjournals.com
+ebooks.cambridge.org
 ebx.sagepub.com
 ec.asm.org
 ecl.sagepub.com
@@ -556,6 +557,7 @@ journals.bcdecker.com
 journals.cambridge.org
 journalsip.astm.org
 journals.iucr.org
+journals.lww.com
 jou.sagepub.com
 jove.com
 jpa.sagepub.com
@@ -772,6 +774,7 @@ publish.aps.org
 pubs.acs.org
 pubs.ama-assn.org
 pubs.amstat.org
+pubs.rsc.org
 pun.sagepub.com
 pus.sagepub.com
 pvs.sagepub.com
@@ -939,6 +942,7 @@ vir.sgmjournals.org
 vmj.sagepub.com
 vnweb.hwwilsonweb.com
 wcx.sagepub.com
+web.ebscohost.com
 web.jbjs.org.uk
 wes.sagepub.com
 wih.sagepub.com
@@ -1016,6 +1020,7 @@ www.jleukbio.org
 www.jlr.org
 www.jnccn.org
 www.jneurosci.org
+www.journalarchive.jst.go.jp
 www.journals.asm.org
 www.jove.com
 www.jsad.com

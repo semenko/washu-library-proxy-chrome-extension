@@ -29,9 +29,11 @@ doc.chemnetbase.com
 dod.chemnetbase.com
 ecosal.org
 ecsdl.org
+ejournals.duncker-humblot.de
 esajournals.org
 eupjournals.com
 geoscienceworld.org
+guilfordjournals.com
 humanitiesebook.org
 hw.oeaw.ac.at
 iimp.chadwyck.com
@@ -40,6 +42,7 @@ infoweb.newsbank.com
 intlpress.com
 journals.impan.gov.pl
 jstor.org
+lexis-nexis.com
 lexisnexis.com
 library.cqpress.com
 library.pressdisplay.com
@@ -87,6 +90,7 @@ www.ams.org
 www.anthrosource.net
 www.aspb.org
 www.basarchive.org
+www.bergfashionlibrary.com
 www.brillonline.nl
 www.ceeol.com
 www.cepr.org
@@ -102,10 +106,12 @@ www.esajournals.org
 www.geoscienceworld.org
 www.humanitiesebook.org
 www.humankinetics.com
+www.icevirtuallibrary.com
 www.intlpress.com
 www.intphycsoc.org
 www.knovel.com
 www.lexisnexis.com
+www.llmcdigital.org
 www.mathjournals.org
 www.mathscipub.org
 www.minsocam.org

@@ -17,6 +17,7 @@ accesssurgery.com
 ach.sagepub.com
 acm.org
 acn.oxfordjournals.org
+acpjc.acponline.org
 acpjc.org
 acsinfo.acs.org
 actabiomedica.it
@@ -173,6 +174,7 @@ atypon-link.com
 audiologyresearch.org
 aum.sagepub.com
 aut.sagepub.com
+avicennajmed.com
 ayujournal.org
 basarchive.org
 bas.sagepub.com
@@ -180,6 +182,7 @@ baywood.metapress.com
 bcq.sagepub.com
 beilstein-journals.org
 bepress.com
+bergfashionlibrary.com
 bfg.oxfordjournals.org
 bib.oxfordjournals.org
 bio.biologists.org
@@ -421,7 +424,10 @@ eaq.sagepub.com
 eau.sagepub.com
 ebm.bmj.com
 ebm.rsmjournals.com
+ebooks.cambridge.org
 ebooks.thieme.com
+ebooks.thieme.de
+ebooks.thieme.de9783131466716
 ebx.sagepub.com
 ec.asm.org
 ecl.sagepub.com
@@ -449,6 +455,7 @@ ejd.sagepub.com
 ejechocard.oxfordjournals.org
 eje-online.org
 ejo.oxfordjournals.org
+ejournals.duncker-humblot.de
 ejournals.library.ualberta.ca
 ejt.sagepub.com
 ejw.sagepub.com
@@ -567,6 +574,7 @@ gpoaccess.gov
 greenpharmacy.info
 gsp.sagepub.com
 gtd.sagepub.com
+guilfordjournals.com
 gut.bmj.com
 guttmacher.org
 gynecendoscopy.org
@@ -624,6 +632,7 @@ iasusa.org
 iavireport.org
 ibe.sagepub.com
 icddrb.org
+icevirtuallibrary.com
 icj.sagepub.com
 icmpe.org
 icmr.nic.in
@@ -799,6 +808,7 @@ jcs.sagepub.com
 jcvjs.com
 jcx.sagepub.com
 jcytol.org
+jdeonline.in
 jdi.sagepub.com
 jdm.sagepub.com
 jdr.sagepub.com
@@ -898,6 +908,7 @@ jn.nutrition.org
 jn.physiology.org
 jnsbm.org
 jnt.sagepub.com
+joacc.com
 joacp.org
 joa.sagepub.com
 job.sagepub.com
@@ -1022,6 +1033,7 @@ link.aip.org
 link.springer-ny.com
 lion.chadwyck.com
 lis.sagepub.com
+llmcdigital.org
 lrt.sagepub.com
 lshss.asha.org
 lsj.sagepub.com
@@ -1300,6 +1312,7 @@ pubmedcentral.nih.gov
 pubs.acs.org
 pubs.ama-assn.org
 pubs.amstat.org
+pubs.rsc.org
 pulmonarycirculation.org
 pulsus.com
 pun.sagepub.com
@@ -1384,6 +1397,7 @@ sax.sagepub.com
 sce.sagepub.com
 schattauer.de
 schizophreniabulletin.oxfordjournals.org
+scholarsjournal.in
 sch.sagepub.com
 sciencedirect.com
 sciencemag.org
@@ -1553,6 +1567,7 @@ vnweb.hwwilsonweb.com
 v-r.de
 wass.alexanderstreet.com
 wcx.sagepub.com
+web.ebscohost.com
 webio.hu
 web.jbjs.org.uk
 wes.sagepub.com
@@ -1637,10 +1652,12 @@ www.astmh.org
 www.atmph.org
 www.atypon-link.com
 www.audiologyresearch.org
+www.avicennajmed.com
 www.ayujournal.org
 www.basarchive.org
 www.beilstein-journals.org
 www.bepress.com
+www.bergfashionlibrary.com
 www.biochemj.org
 www.biochemsoctrans.org
 www.biodiversitylibrary.org
@@ -1749,6 +1766,7 @@ www.humankinetics.com
 www.iasusa.org
 www.iavireport.org
 www.icddrb.org
+www.icevirtuallibrary.com
 www.icmpe.org
 www.icmr.nic.in
 www.icr-heart.com
@@ -1824,6 +1842,7 @@ www.jcdronline.com
 www.jci.org
 www.jcvjs.com
 www.jcytol.org
+www.jdeonline.in
 www.jendocrinolinvest.it
 www.jfcmonline.com
 www.jfponline.com
@@ -1842,6 +1861,7 @@ www.jnatpharm.org
 www.jnccn.org
 www.jneurosci.org
 www.jnsbm.org
+www.joacc.com
 www.joacp.org
 www.jomfp.in
 www.joplink.net
@@ -1884,6 +1904,7 @@ www.lexisnexis.com
 www.libraryjournal.com
 www.liebertonline.com
 www.lifescied.org
+www.llmcdigital.org
 www.lungindia.com
 www.maney.co.uk
 www.mathjournals.org
@@ -1991,6 +2012,7 @@ www.saudiannals.net
 www.saudija.org
 www.saudijgastro.com
 www.schattauer.de
+www.scholarsjournal.in
 www.sciencedirect.com
 www.sciencemag.org
 www.scopus.com
