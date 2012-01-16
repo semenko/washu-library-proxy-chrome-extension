@@ -8,6 +8,8 @@ ascelibrary.org
 aslo.org
 asp6new.alexanderstreet.com
 aspb.org
+atypon-link.com
+bepress.com
 bioscience.org
 brillonline.nl
 carbo.chemnetbase.com
@@ -27,13 +29,13 @@ dna.naver.com
 dnp.chemnetbase.com
 doc.chemnetbase.com
 dod.chemnetbase.com
+ebooks.abc-clio.com
 ecosal.org
 ecsdl.org
 ejournals.duncker-humblot.de
 esajournals.org
 eupjournals.com
 geoscienceworld.org
-guilfordjournals.com
 humanitiesebook.org
 hw.oeaw.ac.at
 iimp.chadwyck.com
@@ -63,11 +65,11 @@ projecteuclid.org
 rotunda.upress.virginia.edu
 royalsocietypublishing.org
 rsob.royalsocietypublishing.org
-rspa.royalsocietypublishing.org
 rstl.royalsocietypublishing.org
 sage-ereference.com
 seab.envmed.rochester.edu
 search.marquiswhoswho.com
+search.proquest.com
 smf.emath.fr
 solomon.aadr.alexanderstreet.com
 solomon.afso.alexanderstreet.com
@@ -96,10 +98,12 @@ www.ceeol.com
 www.cepr.org
 www.chemnetbase.com
 www.ciaonet.org
+www.classiques-garnier.com
 www.cms.math.ca
 www.crcnetbase.com
 www.dbpia.co.kr
 www.degruyter.de
+www.dictionaryofeconomics.com
 www.ems-ph.org
 www.equinoxpub.com
 www.esajournals.org
@@ -109,6 +113,7 @@ www.humankinetics.com
 www.icevirtuallibrary.com
 www.intlpress.com
 www.intphycsoc.org
+www.journals.marketingpower.com
 www.knovel.com
 www.lexisnexis.com
 www.llmcdigital.org
@@ -124,6 +129,7 @@ www.oecd-ilibrary.org
 www.oed.com
 www.oldcitypublishing.com
 www.oldenbourg-link.com
+www.olmsonline.de
 www.oxfordartonline.com
 www.oxfordislamicstudies.com
 www.oxfordlanguagedictionaries.com

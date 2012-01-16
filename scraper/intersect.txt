@@ -86,6 +86,7 @@ asianannals.ctsnetjournals.org
 asj.sagepub.com
 asmedl.aip.org
 asm.sagepub.com
+asq.sagepub.com
 asr.sagepub.com
 atvb.ahajournals.org
 aum.sagepub.com
@@ -166,6 +167,7 @@ chi.sagepub.com
 chp.sagepub.com
 chr.sagepub.com
 cid.oxfordjournals.org
+cigjournals.metapress.com
 cin.sagepub.com
 circ.ahajournals.org
 circep.ahajournals.org
@@ -262,6 +264,7 @@ ehq.sagepub.com
 eid.sagepub.com
 eja.sagepub.com
 ejc.sagepub.com
+ejcts.oxfordjournals.org
 ejd.sagepub.com
 ejechocard.oxfordjournals.org
 eje-online.org
@@ -347,6 +350,7 @@ gom.sagepub.com
 gos.sagepub.com
 gpi.sagepub.com
 gsp.sagepub.com
+guilfordjournals.com
 gut.bmj.com
 heart.bmj.com
 hea.sagepub.com
@@ -440,6 +444,7 @@ jar.sagepub.com
 jas.fass.org
 jasn.asnjournals.org
 jas.sagepub.com
+jat.oxfordjournals.org
 jba.sagepub.com
 jb.asm.org
 jbc.sagepub.com
@@ -811,6 +816,7 @@ rsh.sagepub.com
 rsif.royalsocietypublishing.org
 rsm.sagepub.com
 rsnr.royalsocietypublishing.org
+rspa.royalsocietypublishing.org
 rspb.royalsocietypublishing.org
 rss.sagepub.com
 rsta.royalsocietypublishing.org
@@ -992,6 +998,7 @@ www.clinchem.org
 www.clinsci.org
 www.cmaj.ca
 www.cshprotocols.org
+www.degruyter.com
 www.eje-online.org
 www.emeraldinsight.com
 www.endocrine-abstracts.org

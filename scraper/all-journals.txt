@@ -15,6 +15,7 @@ accessible.com
 accessmedicine.com
 accesssurgery.com
 ach.sagepub.com
+aci.schattauer.de
 acm.org
 acn.oxfordjournals.org
 acpjc.acponline.org
@@ -218,7 +219,9 @@ bmj.com
 bmjopen.bmj.com
 bmo.sagepub.com
 bms.sagepub.com
+boardcertifieddocs.com
 bod.sagepub.com
+booksandjournals.brillonline.com
 books.nap.edu
 bos.sagepub.com
 brain.oxfordjournals.org
@@ -314,6 +317,7 @@ cjp.sagepub.com
 cjr.sagepub.com
 cjs.sagepub.com
 cla.sagepub.com
+classiques-garnier.com
 clincancerres.aacrjournals.org
 clinchem.org
 clinexprheumatol.org
@@ -384,6 +388,7 @@ dbm.sagepub.com
 dbpia.co.kr
 dccc.chemnetbase.com
 dcm.sagepub.com
+degruyter.com
 degruyter.de
 dem.sagepub.com
 dermatology.cdlib.org
@@ -392,6 +397,7 @@ dfc.chemnetbase.com
 dhg.sagepub.com
 diabetes.diabetesjournals.org
 dialogues-cns.org
+dictionaryofeconomics.com
 digital.casalini.it
 digital.library.pitt.edu
 dij.sagepub.com
@@ -423,6 +429,7 @@ eaq.sagepub.com
 eau.sagepub.com
 ebm.bmj.com
 ebm.rsmjournals.com
+ebooks.abc-clio.com
 ebooks.cambridge.org
 ebooks.thieme.com
 ebooks.thieme.de
@@ -450,6 +457,7 @@ eid.sagepub.com
 e-ijd.org
 eja.sagepub.com
 ejc.sagepub.com
+ejcts.oxfordjournals.org
 ejd.sagepub.com
 ejechocard.oxfordjournals.org
 eje-online.org
@@ -770,6 +778,7 @@ jar.sagepub.com
 jas.fass.org
 jasn.asnjournals.org
 jas.sagepub.com
+jat.oxfordjournals.org
 jax.sagepub.com
 jba.sagepub.com
 jb.asm.org
@@ -940,6 +949,7 @@ journalsip.astm.org
 journals.iucr.org
 journalsleep.org
 journals.lww.com
+journals.marketingpower.com
 journals.mui.ac.ir
 jou.sagepub.com
 jove.com
@@ -1163,6 +1173,7 @@ ojoonline.org
 ojps.aip.org
 oldcitypublishing.com
 oldenbourg-link.com
+olmsonline.de
 olschki.it
 onlinejets.org
 onlinelibrary.wiley.com
@@ -1181,6 +1192,7 @@ ovidsp.ovid.com
 ovidsp.tx.ovid.com
 o-wm.com
 oxfordartonline.com
+oxford-digitalreference.com
 oxfordislamicstudies.com
 oxfordjournals.org
 oxfordlanguagedictionaries.com
@@ -1410,6 +1422,7 @@ sdj.sagepub.com
 seab.envmed.rochester.edu
 search.ebscohost.com
 search.marquiswhoswho.com
+search.proquest.com
 secure.medicalletter.org
 sed.sagepub.com
 sex.sagepub.com
@@ -1672,6 +1685,7 @@ www.bioscirep.org
 www.biotechniques.com
 www.biotechnologyhealthcare.com
 www.bmj.com
+www.boardcertifieddocs.com
 www.brillonline.nl
 www.cancerimmunity.org
 www.cancerjournal.net
@@ -1690,6 +1704,7 @@ www.chemsources.com
 www.ciaonet.org
 www.cjcp.ca
 www.cjem-online.ca
+www.classiques-garnier.com
 www.clinchem.org
 www.clinexprheumatol.org
 www.clinicalethics.com
@@ -1711,8 +1726,10 @@ www.cshprotocols.org
 www.cutis.com
 www.cytojournal.com
 www.dbpia.co.kr
+www.degruyter.com
 www.degruyter.de
 www.dialogues-cns.org
+www.dictionaryofeconomics.com
 www.dmphp.org
 www.dustri.com
 www.ecmjournal.org
@@ -1875,6 +1892,7 @@ www.journalofparasitology.org
 www.journalofvision.org
 www.journals.asm.org
 www.journalsleep.org
+www.journals.marketingpower.com
 www.jove.com
 www.jpalliativecare.com
 www.jpands.org
@@ -1951,6 +1969,7 @@ www.oed.com
 www.ojoonline.org
 www.oldcitypublishing.com
 www.oldenbourg-link.com
+www.olmsonline.de
 www.olschki.it
 www.onlinejets.org
 www.onlinelibrary.wiley.com
@@ -1958,6 +1977,7 @@ www.opticsinfobase.org
 www.orthosupersite.com
 www.o-wm.com
 www.oxfordartonline.com
+www.oxford-digitalreference.com
 www.oxfordislamicstudies.com
 www.oxfordjournals.org
 www.oxfordlanguagedictionaries.com

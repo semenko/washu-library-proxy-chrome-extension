@@ -19,7 +19,6 @@ apy.sagepub.com
 archive.ammonsscientific.com
 ar.iiarjournals.org
 arthritis-research.com
-asq.sagepub.com
 astmh.org
 biologists.com
 biotechniques.com
@@ -28,12 +27,10 @@ canadianjournalofophthalmology.ca
 cancernetwork.com
 ccjm.org
 ccn.aacnjournals.org
-cdc.gov
 ced.sagepub.com
 census.gov
 chestjournal.chestpubs.org
 chiromt.com
-cigjournals.metapress.com
 cimonline.ca
 clinmedres.org
 cmj.hr
@@ -97,6 +94,7 @@ jbc.org
 jci.org
 jdi.sagepub.com
 jeg.sagepub.com
+jfm.sagepub.com
 jfponline.com
 jgm.sagepub.com
 jhltonline.org
@@ -155,7 +153,6 @@ psychnews.org
 ptjournal.apta.org
 publications.cpa-apc.org
 publish.csiro.au
-pubmedcentral.nih.gov
 purl.access.gpo.gov
 r2library.com
 rbm.acrl.org
@@ -168,8 +165,10 @@ saudijgastro.com
 secure.medicalletter.org
 sgo.sagepub.com
 skintherapyletter.com
+smq.sagepub.com
 srm-ejournal.com
 stfm.org
+studiesinmycology.org
 surgicalneurologyint.com
 tej.sagepub.com
 theannals.com
@@ -209,6 +208,7 @@ www.apocp.org
 www.archivesofpathology.org
 www.arl.org
 www.artificial-organs.com
+www.asianjns.org
 www.asiapharmaceutics.info
 www.asnneuro.org
 www.astmh.org
@@ -217,6 +217,7 @@ www.beilstein-journals.org
 www.biodiversitylibrary.org
 www.biosciencetrends.com
 www.biotechnologyhealthcare.com
+www.boardcertifieddocs.com
 www.cancerimmunity.org
 www.cancerjournal.net
 www.cancernetwork.com
@@ -391,6 +392,7 @@ www.painphysicianjournal.com
 www.pediatricneurosciences.com
 www.pedpath.org
 www.phac-aspc.gc.ca
+www.phcogrev.com
 www.primarypsychiatry.com
 www.psychiatry.org.il
 www.pulmonarycirculation.org
