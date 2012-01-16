@@ -156,7 +156,7 @@
                             // Redirect with no proxy url, but an appendString
                             doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
                             rewrotePubMedThisSession = true;
-                            setTimeout("rewrotePubMedThisSession = false;", 21600000);
+                            setTimeout("rewrotePubMedThisSession = false;", 18000000);
                         }
                     }
                 } else if (parsedURL.host == "www.amazon.com" && !rewroteAmazonThisSession) {
@@ -168,7 +168,7 @@
                             doRedirectToProxy(tab, parsedURL, "", "?tag=libproxy-20");
                         }
                         rewroteAmazonThisSession = true;
-                        setTimeout("rewroteAmazonThisSession = false;", 21600000);
+                        setTimeout("rewroteAmazonThisSession = false;", 18000000);
                     }
                 } else if (!onNetwork) {
                     checkURLforRedirection(tab, parsedURL);
