@@ -263,7 +263,6 @@ cco.cambridge.org
 ccp.sagepub.com
 ccr.sagepub.com
 ccs.sagepub.com
-cdc.gov
 cde.sagepub.com
 cdp.sagepub.com
 cdq.sagepub.com
