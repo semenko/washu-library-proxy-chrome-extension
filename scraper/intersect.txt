@@ -22,6 +22,7 @@ aff.sagepub.com
 afs.sagepub.com
 ageing.oxfordjournals.org
 ahh.sagepub.com
+aip.org
 aja.asha.org
 aja.sagepub.com
 ajcp.ascpjournals.org
@@ -98,6 +99,7 @@ bfg.oxfordjournals.org
 bib.oxfordjournals.org
 bio.biologists.org
 bioinformatics.oxfordjournals.org
+biologists.com
 biomedcentral.com
 biomedgerontology.oxfordjournals.org
 biomet.oxfordjournals.org
@@ -138,6 +140,7 @@ carcin.oxfordjournals.org
 cardiovascres.oxfordjournals.org
 care.diabetesjournals.org
 car.sagepub.com
+caseconnector.jbjs.org
 cat.sagepub.com
 cbi.sagepub.com
 cbr.sagepub.com
@@ -163,6 +166,7 @@ cgj.sagepub.com
 chc.sagepub.com
 chd.sagepub.com
 chemse.oxfordjournals.org
+chestjournal.chestpubs.org
 chi.sagepub.com
 chp.sagepub.com
 chr.sagepub.com
@@ -259,6 +263,7 @@ edq.sagepub.com
 edr.sagepub.com
 edrv.endojournals.org
 eep.sagepub.com
+ehjcimaging.oxfordjournals.org
 ehp.sagepub.com
 ehq.sagepub.com
 eid.sagepub.com
@@ -357,6 +362,7 @@ hea.sagepub.com
 heb.sagepub.com
 heinonline.org
 hej.sagepub.com
+her.oxfordjournals.org
 het.sagepub.com
 hfs.sagepub.com
 hhc.sagepub.com
@@ -557,6 +563,7 @@ jop.sagepub.com
 jorthod.maneyjournals.org
 jos.sagepub.com
 jot.sagepub.com
+journals.aip.org
 journals.asm.org
 journals.bcdecker.com
 journals.cambridge.org
@@ -658,6 +665,7 @@ moh.sagepub.com
 molehr.oxfordjournals.org
 molpharm.aspetjournals.org
 mp.bmj.com
+mplant.oxfordjournals.org
 msj.sagepub.com
 mss.sagepub.com
 msx.sagepub.com
@@ -669,7 +677,6 @@ nar.oxfordjournals.org
 nas.sagepub.com
 nass.oxfordjournals.org
 nature.com
-ncbi.nlm.nih.gov
 ncp.sagepub.com
 ndt.oxfordjournals.org
 ndtplus.oxfordjournals.org
@@ -692,6 +699,7 @@ oem.bmj.com
 ohr.oxfordjournals.org
 ojps.aip.org
 onlinelibrary.wiley.com
+online.liebertpub.com
 online.sagepub.com
 online.statref.com
 opp.sagepub.com
@@ -754,6 +762,7 @@ ppq.sagepub.com
 pps.sagepub.com
 pqx.sagepub.com
 prb.sagepub.com
+prd.aps.org
 precedings.nature.com
 preventionportal.aacrjournals.org
 prf.sagepub.com
@@ -773,6 +782,7 @@ psychiatryonline.org
 psychnews.psychiatryonline.org
 psychservices.psychiatryonline.org
 psychsocgerontology.oxfordjournals.org
+psycnet.apa.org
 psy.psychiatryonline.org
 ptx.sagepub.com
 publish.aps.org
@@ -796,6 +806,7 @@ radiographics.rsna.org
 radiology.rsna.org
 raj.sagepub.com
 ras.sagepub.com
+rbm.acrl.org
 rcb.sagepub.com
 rel.sagepub.com
 rer.sagepub.com
@@ -885,6 +896,7 @@ stke.sciencemag.org
 stm.sciencemag.org
 stroke.ahajournals.org
 sts.sagepub.com
+surgicaltechniques.jbjs.org
 symposia.biochemistry.org
 symposium.cshlp.org
 tab.sagepub.com
@@ -965,6 +977,7 @@ www.aacr.org
 www.aasmnet.org
 www.accessmedicine.com
 www.advancesinpd.com
+www.aip.org
 www.ajcn.org
 www.ajhpcontents.com
 www.ajnr.org

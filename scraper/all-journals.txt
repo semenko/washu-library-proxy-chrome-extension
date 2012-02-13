@@ -51,6 +51,7 @@ aiaa.org
 aidscience.org
 aidsreviews.com
 aimsciences.org
+aip.org
 aite.wroclaw.pl
 aja.asha.org
 aja.sagepub.com
@@ -132,6 +133,7 @@ ap.psychiatryonline.org
 apr.sagepub.com
 aps.org
 apy.sagepub.com
+aquaticbiosystems.org
 archderm.ama-assn.org
 archfaci.ama-assn.org
 archfami.ama-assn.org
@@ -209,9 +211,11 @@ biotechnologyhealthcare.com
 bir.sagepub.com
 bja.oxfordjournals.org
 bji.sagepub.com
+bjjprocs.boneandjoint.org.uk
 bjo.bmj.com
 bjp.rcpsych.org
 bjr.birjournals.org
+bjr.boneandjoint.org.uk
 bjr.sagepub.com
 bloodjournal.hematologylibrary.org
 bmb.oxfordjournals.org
@@ -252,6 +256,7 @@ carcin.oxfordjournals.org
 cardiovascres.oxfordjournals.org
 care.diabetesjournals.org
 car.sagepub.com
+caseconnector.jbjs.org
 cat.sagepub.com
 cbi.sagepub.com
 cbr.sagepub.com
@@ -277,7 +282,6 @@ cellbiolint.org
 cellbiolintrep.org
 cellmolbiol.com
 cel.sagepub.com
-census.gov
 cepr.org
 cep.sagepub.com
 cercor.oxfordjournals.org
@@ -325,6 +329,7 @@ clinical.diabetesjournals.org
 clinicalethics.com
 clinicalevidence.bmj.com
 clinicalimagingscience.org
+clinicalpharmacology-ip.com
 clinicsandpractice.org
 clinmedres.org
 clinsci.org
@@ -397,6 +402,7 @@ dfc.chemnetbase.com
 dhg.sagepub.com
 diabetes.diabetesjournals.org
 dialogues-cns.org
+dib.cambridge.org
 dictionaryofeconomics.com
 digital.casalini.it
 digital.library.pitt.edu
@@ -417,7 +423,6 @@ doc.chemnetbase.com
 dod.chemnetbase.com
 down-syndrome.org
 dps.sagepub.com
-drugabuse.gov
 dsm.psychiatryonline.org
 dukejournals.org
 dustri.com
@@ -451,6 +456,7 @@ edrv.endojournals.org
 eeg.sagepub.com
 e-emm.org
 eep.sagepub.com
+ehjcimaging.oxfordjournals.org
 ehp.sagepub.com
 ehq.sagepub.com
 eid.sagepub.com
@@ -577,7 +583,6 @@ gmt.sagepub.com
 gom.sagepub.com
 gos.sagepub.com
 gpi.sagepub.com
-gpoaccess.gov
 greenpharmacy.info
 gsp.sagepub.com
 gtd.sagepub.com
@@ -598,6 +603,7 @@ heinonline.org
 hej.sagepub.com
 hellenicjcardiol.com
 hepatitisbannual.org
+her.oxfordjournals.org
 het.sagepub.com
 hfs.sagepub.com
 hgp.sagepub.com
@@ -617,6 +623,7 @@ hmg.oxfordjournals.org
 hol.sagepub.com
 horizonpress.com
 hormones.gr
+hospitalpediatrics.org
 hpc.sagepub.com
 hpp.sagepub.com
 hpq.sagepub.com
@@ -674,6 +681,7 @@ ijem.in
 ije.oxfordjournals.org
 ijg.sagepub.com
 ijhg.com
+ijhpr.org
 ijl.sagepub.com
 ijmm.org
 ijmpo.org
@@ -686,6 +694,7 @@ ijoonline.com
 ijo.sagepub.com
 ijph.in
 ijpm.info
+ijpm.mui.ac.ir
 ijpmonline.org
 ijp-online.com
 ijpsonline.com
@@ -751,6 +760,7 @@ iss.sagepub.com
 isw.sagepub.com
 itq.sagepub.com
 ivi.sagepub.com
+jaacap.com
 jaaos.org
 jaapl.org
 jaa.sagepub.com
@@ -785,6 +795,7 @@ jb.asm.org
 jbc.org
 jbc.sagepub.com
 jbd.sagepub.com
+jbjs.boneandjoint.org.uk
 jbjs.org
 jb.oxfordjournals.org
 jbp.sagepub.com
@@ -903,6 +914,7 @@ jmo.sagepub.com
 jmp.org.in
 jmp.oxfordjournals.org
 jmq.sagepub.com
+jmss.mui.ac.ir
 jmt.sagepub.com
 jnatpharm.org
 jnccn.org
@@ -941,6 +953,7 @@ journalarchive.jst.go.jp
 journalofmas.com
 journalofparasitology.org
 journalofvision.org
+journals.aip.org
 journals.asm.org
 journals.bcdecker.com
 journals.cambridge.org
@@ -1106,6 +1119,7 @@ molehr.oxfordjournals.org
 molpharm.aspetjournals.org
 monographs.iarc.fr
 mp.bmj.com
+mplant.oxfordjournals.org
 mrcindia.org
 msj.sagepub.com
 mss.sagepub.com
@@ -1125,7 +1139,6 @@ nass.oxfordjournals.org
 nationaljournal.com
 nature.com
 nber.org
-ncbi.nlm.nih.gov
 ncp.sagepub.com
 ncte.org
 ndt.oxfordjournals.org
@@ -1143,12 +1156,10 @@ neuro.psychiatryonline.org
 newslettersonline.com
 news.sciencemag.org
 nho.sagepub.com
-niaaa.nih.gov
 nigeriamedj.com
 nih.go.jp
 njcponline.com
 njms.in
-nlm.nih.gov
 nmanet.org
 nms.sagepub.com
 nnr.sagepub.com
@@ -1164,6 +1175,7 @@ nvs.sagepub.com
 nyuhjdbulletin.org
 nzma.org.nz
 oae.sagepub.com
+obgyn.theclinics.com
 ochsnerjournal.org
 oecd-ilibrary.org
 oed.com
@@ -1177,8 +1189,10 @@ olmsonline.de
 olschki.it
 onlinejets.org
 onlinelibrary.wiley.com
+online.liebertpub.com
 online.sagepub.com
 online.statref.com
+ophthalmology.theclinics.com
 opp.sagepub.com
 opr.sagepub.com
 opticsinfobase.org
@@ -1281,6 +1295,7 @@ ppq.sagepub.com
 pps.sagepub.com
 pqx.sagepub.com
 prb.sagepub.com
+prd.aps.org
 precedings.nature.com
 press.uillinois.edu
 preventionportal.aacrjournals.org
@@ -1312,6 +1327,7 @@ psychnews.psychiatryonline.org
 psychosomaticmedicine.org
 psychservices.psychiatryonline.org
 psychsocgerontology.oxfordjournals.org
+psycnet.apa.org
 psy.psychiatryonline.org
 ptjournal.apta.org
 ptx.sagepub.com
@@ -1319,7 +1335,6 @@ publications.cpa-apc.org
 publichealthreports.org
 publish.aps.org
 publish.csiro.au
-pubmedcentral.nih.gov
 pubs.acs.org
 pubs.ama-assn.org
 pubs.amstat.org
@@ -1327,7 +1342,6 @@ pubs.rsc.org
 pulmonarycirculation.org
 pulsus.com
 pun.sagepub.com
-purl.access.gpo.gov
 pus.sagepub.com
 pvrireview.org
 pvs.sagepub.com
@@ -1351,7 +1365,7 @@ rcjournal.com
 rcsed.ac.uk
 rea.sagepub.com
 reference-global.com
-rehab.research.va.gov
+referenceworks.brillonline.com
 rel.sagepub.com
 reproduction-online.org
 reproductivemedicine.com
@@ -1488,6 +1502,7 @@ sts.sagepub.com
 studiesinmycology.org
 stx.sagepub.com
 surgicalneurologyint.com
+surgicaltechniques.jbjs.org
 symposia.biochemistry.org
 symposium.cshlp.org
 sysrevpharm.org
@@ -1525,6 +1540,7 @@ theoncologist.alphamedpress.org
 the.sagepub.com
 the-scientist.com
 thieme-connect.com
+thieme-connect.de
 thieme.de
 thomasland.metapress.com
 thoracicmedicine.org
@@ -1620,6 +1636,7 @@ www.agu.org
 www.ahcpub.com
 www.aiaa.org
 www.aidsreviews.com
+www.aip.org
 www.aite.wroclaw.pl
 www.ajcn.org
 www.ajhpcontents.com
@@ -1653,6 +1670,7 @@ www.apfmj-archive.com
 www.apocp.org
 www.appi.org
 www.aps.org
+www.aquaticbiosystems.org
 www.archivesofpathology.org
 www.arl.org
 www.artificial-organs.com
@@ -1684,6 +1702,8 @@ www.biosciencetrends.com
 www.bioscirep.org
 www.biotechniques.com
 www.biotechnologyhealthcare.com
+www.bjjprocs.boneandjoint.org.uk
+www.bjr.boneandjoint.org.uk
 www.bmj.com
 www.boardcertifieddocs.com
 www.brillonline.nl
@@ -1709,6 +1729,7 @@ www.clinchem.org
 www.clinexprheumatol.org
 www.clinicalethics.com
 www.clinicalimagingscience.org
+www.clinicalpharmacology-ip.com
 www.clinicsandpractice.org
 www.clinmedres.org
 www.clinsci.org
@@ -1776,6 +1797,7 @@ www.hip-int.com
 www.historycooperative.org
 www.hkmj.org
 www.horizonpress.com
+www.hospitalpediatrics.org
 www.hsforum.com
 www.humanitiesebook.org
 www.humankinetics.com
@@ -1801,6 +1823,7 @@ www.ijdb.ehu.es
 www.ijdvl.com
 www.ijem.in
 www.ijhg.com
+www.ijhpr.org
 www.ijmm.org
 www.ijmpo.org
 www.ijnm.in
@@ -1842,6 +1865,7 @@ www.iovs.org
 www.ipej.org
 www.ismni.org
 www.isrn.com
+www.jaacap.com
 www.jaaos.org
 www.jaapl.org
 www.jabfm.org
@@ -1852,6 +1876,7 @@ www.jaoa.org
 www.japmaonline.org
 www.japtr.org
 www.jbc.org
+www.jbjs.boneandjoint.org.uk
 www.jbjs.org
 www.jcasonline.com
 www.jcdronline.com
@@ -1964,6 +1989,7 @@ www.nowpublishers.com
 www.nrcresearchpress.com
 www.nyuhjdbulletin.org
 www.nzma.org.nz
+www.obgyn.theclinics.com
 www.oecd-ilibrary.org
 www.oed.com
 www.ojoonline.org
@@ -1973,6 +1999,7 @@ www.olmsonline.de
 www.olschki.it
 www.onlinejets.org
 www.onlinelibrary.wiley.com
+www.ophthalmology.theclinics.com
 www.opticsinfobase.org
 www.orthosupersite.com
 www.o-wm.com
@@ -2055,6 +2082,7 @@ www.thecochranelibrary.com
 www.thelancet.com
 www.the-scientist.com
 www.thieme-connect.com
+www.thieme-connect.de
 www.thieme.de
 www.thoracicmedicine.org
 www.tinnitusjournal.com

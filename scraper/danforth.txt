@@ -22,6 +22,7 @@ cnki.zh.eastview.com
 dbpia.co.kr
 dccc.chemnetbase.com
 dfc.chemnetbase.com
+dib.cambridge.org
 digital.casalini.it
 dioc.chemnetbase.com
 dmnp.chemnetbase.com
@@ -62,6 +63,7 @@ poj.peeters-leuven.be
 portal.acm.org
 products.asminternational.org
 projecteuclid.org
+referenceworks.brillonline.com
 rotunda.upress.virginia.edu
 royalsocietypublishing.org
 rsob.royalsocietypublishing.org
@@ -131,6 +133,7 @@ www.oldcitypublishing.com
 www.oldenbourg-link.com
 www.olmsonline.de
 www.oxfordartonline.com
+www.oxford-digitalreference.com
 www.oxfordislamicstudies.com
 www.oxfordlanguagedictionaries.com
 www.oxfordmusiconline.com

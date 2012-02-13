@@ -93,6 +93,7 @@ cjp.sagepub.com
 cjr.sagepub.com
 cjs.sagepub.com
 cla.sagepub.com
+clinicalpharmacology-ip.com
 clt.sagepub.com
 cmc.sagepub.com
 cmp.sagepub.com
@@ -218,6 +219,7 @@ gtd.sagepub.com
 hea.sagepub.com
 heb.sagepub.com
 hej.sagepub.com
+her.oxfordjournals.org
 het.sagepub.com
 hfs.sagepub.com
 hgp.sagepub.com
@@ -444,6 +446,7 @@ mmd.sagepub.com
 mmr.sagepub.com
 mms.sagepub.com
 moh.sagepub.com
+mplant.oxfordjournals.org
 msj.sagepub.com
 mss.sagepub.com
 msx.sagepub.com
@@ -461,6 +464,7 @@ nro.sagepub.com
 nsq.sagepub.com
 nvs.sagepub.com
 oae.sagepub.com
+online.liebertpub.com
 opp.sagepub.com
 opr.sagepub.com
 org.sagepub.com
@@ -507,6 +511,7 @@ ppq.sagepub.com
 pps.sagepub.com
 pqx.sagepub.com
 prb.sagepub.com
+prd.aps.org
 prf.sagepub.com
 pri.sagepub.com
 proquest.umi.com
@@ -517,6 +522,7 @@ psi.sagepub.com
 psp.sagepub.com
 psr.sagepub.com
 pss.sagepub.com
+psycnet.apa.org
 ptx.sagepub.com
 pubs.rsc.org
 pun.sagepub.com
@@ -547,6 +553,7 @@ rse.sagepub.com
 rsh.sagepub.com
 rsm.sagepub.com
 rss.sagepub.com
+rstb.royalsocietypublishing.org
 rstl.royalsocietypublishing.org
 rsw.sagepub.com
 rsx.sagepub.com
@@ -674,6 +681,7 @@ www.apocp.org
 www.asiapharmaceutics.info
 www.asnneuro.org
 www.audiologyresearch.org
+www.clinicalpharmacology-ip.com
 www.cmbl.org.pl
 www.cmj.hr
 www.cutis.com
@@ -682,6 +690,7 @@ www.ecv.de
 www.embase.com
 www.gastrojournal.org
 www.horizonpress.com
+www.jaacap.com
 www.jhltonline.org
 www.jimmunol.org
 www.joacp.org
@@ -693,7 +702,10 @@ www.jvir.org
 www.mdconsult.com
 www.netlibrary.com
 www.nho.sagepub.com
+www.obgyn.theclinics.com
 www.oed.com
+www.ophthalmology.theclinics.com
+www.opticsinfobase.org
 www.ps.psychiatryonline.org
 www.sagepub.com
 www.scopus.com
