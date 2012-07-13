@@ -1,9 +1,3 @@
-<html>
-<head>
-    <script src="../javascript/lso.js" type="text/javascript"></script>
-    <script src="../javascript/parseuri.js" type="text/javascript"></script>
-    <script src="../javascript/journals.js" type="text/javascript"></script>
-    <script>
         // chrome.browserAction.setBadgeBackgroundColor({color: [0, 110, 81, 255]});
         // chrome.browserAction.setBadgeText({text: "ON"});
 
@@ -56,16 +50,16 @@
                             // a timed redetection that failed, so we'll preserve the previous state.
                             console.warn('Error: Unknown response from Becker:' + resp.networkTag);
                             writeToRemoteLog('Becker-Unknown-Response_' + resp.networkTag);
-                            setTimeout("detectNetworkState();", 15000);
+                            setTimeout(function(){ detectNetworkState(); }, 15000);
                         }
                         console.info('Detection event: onNetwork: ' + onNetwork + ', networkTag: ' + resp.networkTag);
                         // TODO: Better way to detect network state changes? Is there an API for this?
                         clearTimeout(refreshTimeoutHandle);
-                        refreshTimeoutHandle = setTimeout("detectNetworkState();", refreshTimeoutMilliseconds);
+                        refreshTimeoutHandle = setTimeout(function(){ detectNetworkState(); }, refreshTimeoutMilliseconds);
                     } else {
                         // Becker XHR returned status != 200. Maybe a network error?
                         console.warn('Error from Becker: Retrying in 15s.');
-                        setTimeout("detectNetworkState();", 15000);
+                        setTimeout(function(){ detectNetworkState(); }, 15000);
                     }
                 }
             };
@@ -156,7 +150,7 @@
                             // Redirect with no proxy url, but an appendString
                             doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
                             rewrotePubMedThisSession = true;
-                            setTimeout("rewrotePubMedThisSession = false;", 18000000);
+                            setTimeout(function(){ rewrotePubMedThisSession = false; }, 18000000);
                         }
                     }
                 } else if (parsedURL.host == "www.amazon.com" && !rewroteAmazonThisSession) {
@@ -168,7 +162,7 @@
                             doRedirectToProxy(tab, parsedURL, "", "?tag=libproxy-20");
                         }
                         rewroteAmazonThisSession = true;
-                        setTimeout("rewroteAmazonThisSession = false;", 18000000);
+                        setTimeout(function(){ rewroteAmazonThisSession = false; }, 18000000);
                     }
                 } else if (!onNetwork) {
                     checkURLforRedirection(tab, parsedURL);
@@ -204,7 +198,3 @@
                 writeToRemoteLog(parsedURL.host);
             }
         });
-
-    </script>
-</head>
-</html>

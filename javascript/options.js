@@ -45,10 +45,10 @@ function detectNow() {
     // The network state request is async, and sometimes returns in a few seconds.
     // TODO: Clean this up by making the request optionally synchronous.
     updateStatusBar();
-    setTimeout("updateStatusBar();", 1000);
-    setTimeout("updateStatusBar();", 2000);
-    setTimeout("updateStatusBar();", 3000);
-    setTimeout("updateStatusBar();", 5000);
+    setTimeout(function(){ updateStatusBar(); }, 1000);
+    setTimeout(function(){ updateStatusBar(); }, 2000);
+    setTimeout(function(){ updateStatusBar(); }, 3000);
+    setTimeout(function(){ updateStatusBar(); }, 5000);
 }
 
 function buttonLogic() {
