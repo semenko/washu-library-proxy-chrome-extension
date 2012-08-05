@@ -18,11 +18,15 @@ function updateStatusBar() {
     chrome.extension.sendRequest({operation: "getstate"}, function(response) {
         if (response.networkTag == "OFF") {
             $('statusBar').innerText = '(Current network: Off-Campus';
-            $('statusBar').innerHTML += ' - <a href="javascript:detectNow();" style="color:#888">Redetect Now</a> )';
+            $('statusBar').innerHTML += ' - <a href="#" id="redetect" style="color:#888">Redetect Now</a> )';
         } else {
             $('statusBar').innerText = '(Current network: ' + response.networkTag;
-            $('statusBar').innerHTML += ' - <a href="javascript:detectNow();" style="color:#888">Redetect Now</a> )';
+            $('statusBar').innerHTML += ' - <a href="#" id="redetect" style="color:#888">Redetect Now</a> )';
         }
+	document.getElementById('redetect').addEventListener('click', function(){
+		detectNow();
+	    }, false);
+
     });
 }
 
