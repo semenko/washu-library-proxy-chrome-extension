@@ -97,5 +97,20 @@ function save() {
     chrome.extension.getBackgroundPage().parseLocalStorage();
     $('autoRedirectStatus').innerHTML = 'Saved.';
     $('autoRedirectStatus').style.display = 'block';
-    setTimeout("$('autoRedirectStatus').style.display = 'none'", 1500);
+    setTimeout(function(){ $('autoRedirectStatus').style.display = 'none' }, 1500);
+}
+
+/**
+ * Add button listeners for Chrome Extension Manifest v2
+ */
+
+document.onreadystatechange = function () {
+    if (document.readyState == "complete") {
+	var buttons = document.getElementsByTagName('input');
+	for (var i = 0; i < buttons.length; i++) {
+	    buttons[i].addEventListener('click', function(){
+		    save();
+		}, false);
+	}
+    }
 }
