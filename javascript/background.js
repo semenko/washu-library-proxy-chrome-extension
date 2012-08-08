@@ -86,13 +86,13 @@
 
         // The user wants auto-redirection and is off-network,
         // so we perform URL parsing and (maybe) redirection
-        function checkURLforRedirection(tab, parsedURL) {
+        function checkURLforRedirection(tabId, parsedURL) {
             if (intersect_journals.hasOwnProperty(parsedURL.host)) {
                 if (optPreferDanforth || (optEnableDanforth && !optEnableBecker)) {
-                    doRedirectToProxy(tab, parsedURL, danforthProxyURL);
+                    doRedirectToProxy(tabId, parsedURL, danforthProxyURL);
                     return true;
                 } else {
-                    doRedirectToProxy(tab, parsedURL, beckerProxyURL);
+                    doRedirectToProxy(tabId, parsedURL, beckerProxyURL);
                     return true;
                 }
             }
@@ -100,13 +100,13 @@
             // We're still here, so the journal is not in intersect_journals.
             if (optEnableDanforth) {
                 if (danforth_journals.hasOwnProperty(parsedURL.host)) {
-                    doRedirectToProxy(tab, parsedURL, danforthProxyURL);
+                    doRedirectToProxy(tabId, parsedURL, danforthProxyURL);
                     return true;
                 }
             }
             if (optEnableBecker) {
                 if (becker_journals.hasOwnProperty(parsedURL.host)) {
-                    doRedirectToProxy(tab, parsedURL, beckerProxyURL);
+                    doRedirectToProxy(tabId, parsedURL, beckerProxyURL);
                     return true;
                 }
             }
@@ -115,12 +115,12 @@
 
         // Redirect the page using the auto-determined proxy URL
         // Modularize so we only parse the URL once (parsing is expensive!)
-        function doRedirectToProxy(tab, parsed, proxyURL, appendString) {
+        function doRedirectToProxy(tabId, parsed, proxyURL, appendString) {
             if (!appendString) {
                 appendString = '';
             }
             var proxifiedURL = parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative + appendString;
-            chrome.tabs.update(tab.id, {url: proxifiedURL});
+            chrome.tabs.update(tabId, {url: proxifiedURL});
         }
 
         // Send log data if there's a missed URL (someone had to manually click)
@@ -135,11 +135,12 @@
 
         var rewroteAmazonThisSession = false;
         // Listen for tab url changes
-        chrome.tabs.onUpdated.addListener(function(tabid, changeinfo, tab) {
-            // If users refresh, changeinfo.url is null (don't trigger)
+        chrome.webNavigation.onBeforeNavigate.addListener(function(navObject) {
+            // Only listen in the main frame at frameId=0
             // Should we check for redirect loops, like with web.mit.edu?
-            if (optAutoRedirect && changeinfo.status == "loading" && changeinfo.url != null) {
-                var parsedURL = parseUri(tab.url);
+            if (optAutoRedirect && navObject.frameId == 0) {
+                tabId = navObject.tabId;
+                var parsedURL = parseUri(navObject.url);
                 if (optEnableBecker && parsedURL.host == "www.ncbi.nlm.nih.gov") {
                     // Redirect PubMed journals to add ?holding flag.
                     // This is useful whether we are on or off network.
@@ -148,7 +149,7 @@
                         if (parsedURL.relative == "/pubmed/" || parsedURL.relative == "/pubmed"
                                 || parsedURL.relative == "/pmc/" || parsedURL.relative.match(/^\/pubmed\/\d{6,}$/)) {
                             // Redirect with no proxy url, but an appendString
-                            doRedirectToProxy(tab, parsedURL, "", "?holding=wustlmlib");
+                            doRedirectToProxy(tabId, parsedURL, "", "?holding=wustlmlib");
                             rewrotePubMedThisSession = true;
                             setTimeout(function(){ rewrotePubMedThisSession = false; }, 18000000);
                         }
@@ -157,15 +158,15 @@
                     // Rewrite url to append libproxy-20
                     if (parsedURL.relative.length > 5 && !(parsedURL.relative.indexOf("tag=") >= 0)) {
                         if (parsedURL.relative.indexOf("?") >= 0) {
-                            doRedirectToProxy(tab, parsedURL, "", "&tag=libproxy-20");
+                            doRedirectToProxy(tabId, parsedURL, "", "&tag=libproxy-20");
                         } else {
-                            doRedirectToProxy(tab, parsedURL, "", "?tag=libproxy-20");
+                            doRedirectToProxy(tabId, parsedURL, "", "?tag=libproxy-20");
                         }
                         rewroteAmazonThisSession = true;
                         setTimeout(function(){ rewroteAmazonThisSession = false; }, 18000000);
                     }
                 } else if (!onNetwork) {
-                    checkURLforRedirection(tab, parsedURL);
+                    checkURLforRedirection(tabId, parsedURL);
                 }
             }
         });
@@ -185,9 +186,9 @@
                     parsedURL.host = parsedURL.host.replace(/\./g, '-');
                 }
                 if (optPreferDanforth || (!optEnableBecker && optEnableDanforth)) {
-                    doRedirectToProxy(tab, parsedURL, danforthProxyURL);
+                    doRedirectToProxy(tab.id, parsedURL, danforthProxyURL);
                 } else {
-                    doRedirectToProxy(tab, parsedURL, beckerProxyURL);
+                    doRedirectToProxy(tab.id, parsedURL, beckerProxyURL);
                 }
             }
 

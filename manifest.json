@@ -14,7 +14,7 @@
 	},
 	"options_page": "views/options.html",
 	"permissions": [
-		"tabs", "webRequest", "webRequestBlocking", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*"
+		"tabs", "webNavigation", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*"
 	],
         "content_security_policy": "script-src 'self' https://becker.wustl.edu; object-src 'self' https://becker.wustl.edu; connect-src 'self' https://becker.wustl.edu https://update.epoxate.com",
 	"browser_action": {
