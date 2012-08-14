@@ -120,7 +120,11 @@
                 appendString = '';
             }
             var proxifiedURL = parsed.protocol + "://" + parsed.host + proxyURL + parsed.relative + appendString;
-            chrome.tabs.update(tabId, {url: proxifiedURL});
+	    try {
+		chrome.tabs.update(tabId, {url: proxifiedURL});
+	    } catch(e) {
+		// Pre-rendered magic tab that we can't update.
+	    }
         }
 
         // Send log data if there's a missed URL (someone had to manually click)
@@ -134,13 +138,16 @@
         }
 
         var rewroteAmazonThisSession = false;
-        // Listen for tab url changes
-        chrome.webNavigation.onBeforeNavigate.addListener(function(navObject) {
+        // Listen for pending URL loads
+        // WARNING: Pre-rendered tabs from URL prediction (or link hints) cause oddities with onBeforeNavigate,
+        //          like inaccessible tabs. Be careful here!
+        // TODO: Listen on chrome.webNavigation.onTabReplaced when that makes its way into stable.
+        function checkNavObject(frameId, tabId, url) {
             // Only listen in the main frame at frameId=0
             // Should we check for redirect loops, like with web.mit.edu?
-            if (optAutoRedirect && navObject.frameId == 0) {
-                tabId = navObject.tabId;
-                var parsedURL = parseUri(navObject.url);
+	    // frameId will match "0" for webNavigation object, and "Undefined" for tabs
+            if (optAutoRedirect && frameId === 0) {
+                var parsedURL = parseUri(url);
                 if (optEnableBecker && parsedURL.host == "www.ncbi.nlm.nih.gov") {
                     // Redirect PubMed journals to add ?holding flag.
                     // This is useful whether we are on or off network.
@@ -169,7 +176,12 @@
                     checkURLforRedirection(tabId, parsedURL);
                 }
             }
-        });
+        };
+        chrome.webNavigation.onBeforeNavigate.addListener(function(navObject) {
+		checkNavObject(navObject.frameId, navObject.tabId, navObject.url); } );
+        // Pre-rendered tabs are just replaced. 
+        chrome.tabs.onCreated.addListener(function(navObject) {
+	        checkNavObject(0, navObject.id, navObject.url); } );
 
         // Listen to clicking on our button.
         chrome.browserAction.onClicked.addListener(function (tab) {
