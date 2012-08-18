@@ -2,7 +2,7 @@
 "update_url":"http://clients2.google.com/service/update2/crx",
         "manifest_version": 2,
 	"name": "WashU Library Proxy Access",
-	"version": "2.5.0",
+	"version": "3.2.0",
 	"description": "Automatically load journal websites using Becker and Libproxy.",
 	"background": {
                       "scripts": ["javascript/lso.js", "javascript/parseuri.js", "javascript/journals.js", "javascript/background.js"]
