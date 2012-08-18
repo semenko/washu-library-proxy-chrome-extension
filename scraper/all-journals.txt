@@ -4,7 +4,6 @@ aac.asm.org
 aacp.com
 aacrmeetingabstracts.org
 aacr.org
-aafp.org
 aahm.press.jhu.edu
 aaiddjournals.org
 aapredbook.aappublications.org
@@ -199,6 +198,7 @@ atmph.org
 atvb.ahajournals.org
 atypon-link.com
 audiologyresearch.org
+audrehab.org
 aum.sagepub.com
 aut.sagepub.com
 avicennajmed.com
@@ -1446,6 +1446,7 @@ rbm.acrl.org
 rcb.sagepub.com
 rcjournal.com
 rcsed.ac.uk
+rd.springer.com
 rea.sagepub.com
 reference-global.com
 referenceworks.brillonline.com
@@ -1710,7 +1711,6 @@ wustl.library.ingentaconnect.com
 www3.interscience.wiley.com
 www.aacp.com
 www.aacr.org
-www.aafp.org
 www.aaiddjournals.org
 www.aasmnet.org
 www.accessible.com
@@ -1783,6 +1783,7 @@ www.astmh.org
 www.atmph.org
 www.atypon-link.com
 www.audiologyresearch.org
+www.audrehab.org
 www.avicennajmed.com
 www.ayujournal.org
 www.basarchive.org

@@ -17,6 +17,7 @@ aota.org
 apps.who.int
 ar.iiarjournals.org
 arthritis-research.com
+bjr.boneandjoint.org.uk
 books.nap.edu
 cancernetwork.com
 ccjm.org
@@ -45,7 +46,6 @@ general-medicine.jwatch.org
 genomemedicine.com
 guttmacher.org
 hormones.gr
-hosppeds.aappublications.org
 icmr.nic.in
 ijmm.org
 ijoonline.com
@@ -73,10 +73,13 @@ nejm.org
 nmanet.org
 nursingstandard.rcnpublishing.co.uk
 ousar.lib.okayama-u.ac.jp
+painphysicianjournal.com
 pharmacotherapyjournal.org
 plosgenetics.org
+plosone.org
 psychiatryinvestigation.org
 publications.cpa-apc.org
+rd.springer.com
 saudijgastro.com
 secure.medicalletter.org
 stemcellres.com
@@ -89,7 +92,6 @@ thecarlatreport.com
 thejns.org
 thelancet.com
 uptodate.com
-www.aafp.org
 www.acpjc.org
 www.actabiomedica.it
 www.acta-cytol.com
@@ -106,6 +108,7 @@ www.altmedrev.com
 www.amjorthopedics.com
 www.amsciepub.com
 www.andrologyjournal.org
+www.annalsafrmed.org
 www.annals.com
 www.annals.in
 www.annalsofian.org
@@ -118,6 +121,7 @@ www.asianjns.org
 www.asnneuro.org
 www.astmh.org
 www.audiologyresearch.org
+www.audrehab.org
 www.biodiversitylibrary.org
 www.biosciencetrends.com
 www.boardcertifieddocs.com
@@ -128,6 +132,7 @@ www.caot.ca
 www.carcinogenesis.com
 www.ccjm.org
 www.cellbiolintrep.org
+www.cellmolbiol.com
 www.chausa.org
 www.cjcp.ca
 www.cjem-online.ca
@@ -250,6 +255,7 @@ www.jpathinformatics.org
 www.jpgmonline.com
 www.jpharmacol.com
 www.jrheum.org
+www.jsnm.org
 www.jstcr.org
 www.jurology.com
 www.jvir.org

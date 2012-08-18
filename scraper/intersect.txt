@@ -407,6 +407,7 @@ hjb.sagepub.com
 hmg.oxfordjournals.org
 hol.sagepub.com
 home.heinonline.org
+hosppeds.aappublications.org
 hpc.sagepub.com
 hpp.sagepub.com
 hpq.sagepub.com
@@ -908,6 +909,7 @@ rspb.royalsocietypublishing.org
 rss.sagepub.com
 rsta.royalsocietypublishing.org
 rstb.royalsocietypublishing.org
+rstl.royalsocietypublishing.org
 rsw.sagepub.com
 rsx.sagepub.com
 sac.sagepub.com
@@ -961,6 +963,7 @@ sph.sagepub.com
 spi.sagepub.com
 spp.sagepub.com
 spq.sagepub.com
+springerlink3.metapress.com
 springerlink.com
 springerprotocols.com
 spr.sagepub.com

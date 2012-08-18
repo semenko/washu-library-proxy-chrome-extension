@@ -91,7 +91,6 @@ referenceworks.brillonline.com
 resources.tandfonline.com
 ror.reproduction-online.org
 rotunda.upress.virginia.edu
-rstl.royalsocietypublishing.org
 sage-ereference.com
 sagepub.com
 seab.envmed.rochester.edu
@@ -105,7 +104,6 @@ solomon.nadr.alexanderstreet.com
 solomon.nwld.alexanderstreet.com
 solomon.wodr.alexanderstreet.com
 spiedigitallibrary.org
-springerlink3.metapress.com
 tandfonline.com
 thecochranelibrary.com
 vnweb.hwwilsonweb.com
