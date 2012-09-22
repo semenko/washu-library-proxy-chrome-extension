@@ -200,24 +200,25 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 	// Parse and redirect.
 	var parsedURL = parseUri(tab.url);
 
-	// Warn users if they're doing something unnecessary.
-	if (hint_urls.hasOwnProperty(parsedURL.host)) {
-	    showUserHint(hint_urls[parsedURL.host]);
-	}
-
 	// We check for HTTP/HTTPS only (no chrome://), and that "proxy.wustl.edu" isn't at the end of the
 	// string, otherwise we're probably already at [becker|lib]proxy.wustl.edu.
 	if (parsedURL.protocol == 'http' || parsedURL.protocol == 'https') {
 	    if (parsedURL.host.substring(parsedURL.host.length - 15) != 'proxy.wustl.edu') {
-		// TODO: Handle Danforth differently, since they don't seem to like SSL as much.
-		// TODO: Consider dropping HTTPS support? Is this useful?
-		if (parsedURL.protocol == 'https') {
-		    parsedURL.host = parsedURL.host.replace(/\./g, '-');
-		}
-		if (optPreferDanforth || (!optEnableBecker && optEnableDanforth)) {
-		    doRedirectToProxy(tab.id, parsedURL, danforthProxyURL);
+		if (hint_urls.hasOwnProperty(parsedURL.host)) {
+		    // Warn users if they're doing something unnecessary.
+		    // In this case, do NOT redirect these URLs.
+		    showUserHint(hint_urls[parsedURL.host]);
 		} else {
-		    doRedirectToProxy(tab.id, parsedURL, beckerProxyURL);
+		    // TODO: Handle Danforth differently, since they don't seem to like SSL as much.
+		    // TODO: Consider dropping HTTPS support? Is this useful?
+		    if (parsedURL.protocol == 'https') {
+			parsedURL.host = parsedURL.host.replace(/\./g, '-');
+		    }
+		    if (optPreferDanforth || (!optEnableBecker && optEnableDanforth)) {
+			doRedirectToProxy(tab.id, parsedURL, danforthProxyURL);
+		    } else {
+			doRedirectToProxy(tab.id, parsedURL, beckerProxyURL);
+		    }
 		}
 	    } else {
 		// User clicked even though we're already proxified
