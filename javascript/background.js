@@ -183,24 +183,45 @@ chrome.webNavigation.onBeforeNavigate.addListener(function(navObject) {
 chrome.tabs.onCreated.addListener(function(navObject) {
 	checkNavObject(0, navObject.id, navObject.url); } );
 
+// Alert users if they're trying to unnecessarily proxify things.
+function showUserHint(warning) {
+    var notice = webkitNotifications.createNotification(
+							'../images/wucrest48.png',
+							'',
+							warning);
+    notice.addEventListener('click', function() {notice.close();}); // Hide on click
+    notice.show();
+    // Auto-hide after five secs
+    setTimeout(function(){ notice.close(); }, 5000);
+}
+
 // Listen to clicking on our button.
 chrome.browserAction.onClicked.addListener(function (tab) {
 	// Parse and redirect.
 	var parsedURL = parseUri(tab.url);
 
+	// Warn users if they're doing something unnecessary.
+	if (hint_urls.hasOwnProperty(parsedURL.host)) {
+	    showUserHint(hint_urls[parsedURL.host]);
+	}
+
 	// We check for HTTP/HTTPS only (no chrome://), and that "proxy.wustl.edu" isn't at the end of the
 	// string, otherwise we're probably already at [becker|lib]proxy.wustl.edu.
-	if ((parsedURL.protocol == 'http' || parsedURL.protocol == 'https')
-	    && parsedURL.host.substring(parsedURL.host.length - 15) != 'proxy.wustl.edu') {
-	    // TODO: Handle Danforth differently, since they don't seem to like SSL as much.
-	    // TODO: Consider dropping HTTPS support? Is this useful?
-	    if (parsedURL.protocol == 'https') {
-		parsedURL.host = parsedURL.host.replace(/\./g, '-');
-	    }
-	    if (optPreferDanforth || (!optEnableBecker && optEnableDanforth)) {
-		doRedirectToProxy(tab.id, parsedURL, danforthProxyURL);
+	if (parsedURL.protocol == 'http' || parsedURL.protocol == 'https') {
+	    if (parsedURL.host.substring(parsedURL.host.length - 15) != 'proxy.wustl.edu') {
+		// TODO: Handle Danforth differently, since they don't seem to like SSL as much.
+		// TODO: Consider dropping HTTPS support? Is this useful?
+		if (parsedURL.protocol == 'https') {
+		    parsedURL.host = parsedURL.host.replace(/\./g, '-');
+		}
+		if (optPreferDanforth || (!optEnableBecker && optEnableDanforth)) {
+		    doRedirectToProxy(tab.id, parsedURL, danforthProxyURL);
+		} else {
+		    doRedirectToProxy(tab.id, parsedURL, beckerProxyURL);
+		}
 	    } else {
-		doRedirectToProxy(tab.id, parsedURL, beckerProxyURL);
+		// User clicked even though we're already proxified
+		showUserHint('Looks like you\'re already using the proxy. No need to click again!');
 	    }
 	}
 
