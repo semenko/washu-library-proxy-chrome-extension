@@ -223,6 +223,8 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 		// User clicked even though we're already proxified
 		showUserHint('Looks like you\'re already using the proxy. No need to click again!');
 	    }
+	} else {
+	    showUserHint('This extension only works on websites starting with http:// or https://');
 	}
 
 	// If we've been manually clicked (and auto-triggering is enabled), the journal
