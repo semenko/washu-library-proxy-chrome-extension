@@ -5,7 +5,7 @@
 	"version": "3.3.9",
 	"description": "Automatically load journal websites using Becker and Libproxy.",
 	"background": {
-                      "scripts": ["javascript/lso.js", "javascript/parseuri.js", "javascript/journals.js", "javascript/background.js"]
+                      "scripts": ["javascript/lso.js", "javascript/parseuri.js", "javascript/journals.js", "javascript/userhint.js", "javascript/background.js"]
                       },
 	"icons": {
 		"16":"images/wucrest16.png",
