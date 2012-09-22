@@ -2,7 +2,7 @@
 "update_url":"http://clients2.google.com/service/update2/crx",
         "manifest_version": 2,
 	"name": "WashU Library Proxy Access",
-	"version": "3.2.0",
+	"version": "3.3.9",
 	"description": "Automatically load journal websites using Becker and Libproxy.",
 	"background": {
                       "scripts": ["javascript/lso.js", "javascript/parseuri.js", "javascript/journals.js", "javascript/background.js"]
@@ -14,11 +14,12 @@
 	},
 	"options_page": "views/options.html",
 	"permissions": [
-		"tabs", "webNavigation", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*"
+		"tabs", "webNavigation", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*", "notifications"
 	],
         "content_security_policy": "script-src 'self' https://becker.wustl.edu; object-src 'self' https://becker.wustl.edu; connect-src 'self' https://becker.wustl.edu https://update.epoxate.com",
 	"browser_action": {
 		"default_icon": "images/wucrest19.png",
 		"default_title": "Reload using WashU Proxy"
-	}
+	},
+	"web_accessible_resources": [ "images/wucrest48.png" ]
 }
