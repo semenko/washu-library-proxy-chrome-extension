@@ -209,6 +209,10 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 		    // In this case, do NOT redirect these URLs.
 		    showUserHint(hint_urls[parsedURL.host]);
 		} else {
+		    // Warn on-network redirects, but don't block them
+		    if (onNetwork) {
+			showUserHint('You\'re on a BJC/WashU network, so you probably don\'t need a proxy.');
+		    }
 		    // TODO: Handle Danforth differently, since they don't seem to like SSL as much.
 		    // TODO: Consider dropping HTTPS support? Is this useful?
 		    if (parsedURL.protocol == 'https') {
