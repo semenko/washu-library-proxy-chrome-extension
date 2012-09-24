@@ -21,13 +21,29 @@ for line in open('all-journals.txt', 'r'):
     becker = True
     danforth = True
 
-    # Check Decker
-    b = urllib.urlopen("http://%s.beckerproxy.wustl.edu/" % line)
+    # Check Becker
+    failed = True
+    while failed:
+        try:
+            b = urllib.urlopen("http://%s.beckerproxy.wustl.edu/" % line)
+            failed = False
+        except IOError:
+            print("Failure! %s" % line)
+            time.sleep(1)
+        
     if (b.getcode() != 200 or b.geturl() != "https://login.beckerproxy.wustl.edu/login?url=http://" + line + "/"):
         becker = False
 
     # Check Danforth
-    d = urllib.urlopen("http://%s.libproxy.wustl.edu/" % line)
+    failed = True
+    while failed:
+        try:
+            d = urllib.urlopen("http://%s.libproxy.wustl.edu/" % line)
+            failed = False
+        except IOError:
+            print("Failure! %s" % line)
+            time.sleep(1)
+
     if (d.getcode() != 200 or d.geturl() != "https://login.libproxy.wustl.edu/login?url=http://" + line + "/"):
         danforth = False
 
@@ -41,4 +57,4 @@ for line in open('all-journals.txt', 'r'):
     else:
         print "Error: No access to %s" % line
 
-    time.sleep(0.2)
+    time.sleep(0.1)
