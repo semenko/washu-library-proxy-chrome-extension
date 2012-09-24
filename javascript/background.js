@@ -15,9 +15,10 @@ var rewrotePubMedThisSession = false;
 // For debugging & options page
 var networkTag = '';
 
-// Set a 30-minute timeout interval to redetect the network status.
+// Set a 15 minute timeout interval to redetect the network status.
+// Per poissoncdf(), this is probably friendly. Hell, MSVPN is way more active.
 var refreshTimeoutHandle;
-var refreshTimeoutMilliseconds = 1800000;
+var refreshTimeoutMilliseconds = 900000;
 
 // Are we at WashU? SLCH? WUSM? Off campus!?!
 // TODO: At start, guess state from last session. If we're restoring lots of closed tabs on campus at restart, we might incorrectly assume off-campus.
