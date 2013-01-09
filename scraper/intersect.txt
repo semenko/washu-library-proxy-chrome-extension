@@ -32,6 +32,7 @@ ajcp.ascpjournals.org
 ajc.sagepub.com
 aje.oxfordjournals.org
 aje.sagepub.com
+ajhpcontents.com
 ajh.sagepub.com
 ajl.sagepub.com
 ajm.sagepub.com
@@ -53,6 +54,8 @@ ala.org
 alcalc.oxfordjournals.org
 alh.sagepub.com
 alt.sagepub.com
+ama-assn.org
+anesthesia-analgesia.org
 ang.sagepub.com
 anj.sagepub.com
 anm.sagepub.com
@@ -82,6 +85,7 @@ archpedi.jamanetwork.com
 archpsyc.jamanetwork.com
 archsurg.jamanetwork.com
 ard.bmj.com
+ar.iiarjournals.org
 arj.sagepub.com
 arp.sagepub.com
 ar.rsmjournals.com
@@ -164,6 +168,7 @@ cdy.sagepub.com
 cebp.aacrjournals.org
 ced.sagepub.com
 cel.sagepub.com
+cen.acs.org
 cep.sagepub.com
 cercor.oxfordjournals.org
 cer.sagepub.com
@@ -296,6 +301,7 @@ ema.sagepub.com
 eme.sagepub.com
 emf.sagepub.com
 emj.bmj.com
+emph.oxfordjournals.org
 emr.sagepub.com
 endo.endojournals.org
 eng.sagepub.com
@@ -314,6 +320,7 @@ erg.sagepub.com
 erj.ersjournals.com
 err.ersjournals.com
 erx.sagepub.com
+eshremonographs.oxfordjournals.org
 esj.sagepub.com
 esp.sagepub.com
 est.sagepub.com
@@ -345,11 +352,13 @@ fmx.sagepub.com
 fn.bmj.com
 foa.sagepub.com
 focus.psychiatryonline.org
+fq5np7af6j.search.serialssolutions.com
 frc.sagepub.com
 fst.sagepub.com
 fth.sagepub.com
 fty.sagepub.com
 gac.sagepub.com
+galenet.galegroup.com
 gan.sagepub.com
 gaq.sagepub.com
 gas.sagepub.com
@@ -661,6 +670,7 @@ jvi.asm.org
 jvi.sagepub.com
 jvm.sagepub.com
 jxb.oxfordjournals.org
+knowledge.sagepub.com
 lal.sagepub.com
 lap.sagepub.com
 la.rsmjournals.com
@@ -674,6 +684,7 @@ lec.sagepub.com
 lib.myilibrary.com
 link.aip.org
 linkinghub.elsevier.com
+link.springer.com
 link.springer-ny.com
 lis.sagepub.com
 lrt.sagepub.com
@@ -698,6 +709,7 @@ mdm.sagepub.com
 medicaljournals.se
 mej.sagepub.com
 mend.endojournals.org
+metapress.com
 mh.bmj.com
 mhj.sagepub.com
 mic.sgmjournals.org
@@ -750,6 +762,7 @@ nvs.sagepub.com
 oae.sagepub.com
 occmed.oxfordjournals.org
 oem.bmj.com
+ohr.oxfordjournals.org
 ojps.aip.org
 onlinelibrary.wiley.com
 online.liebertpub.com
@@ -857,6 +870,7 @@ raj.sagepub.com
 ras.sagepub.com
 rbm.acrl.org
 rcb.sagepub.com
+rd.springer.com
 rea.sagepub.com
 rel.sagepub.com
 rer.sagepub.com
@@ -889,6 +903,7 @@ rsx.sagepub.com
 sac.sagepub.com
 sad.sagepub.com
 sae.sagepub.com
+sage-ereference.com
 sageke.sciencemag.org
 sag.sagepub.com
 sar.sagepub.com
@@ -937,6 +952,7 @@ sph.sagepub.com
 spi.sagepub.com
 spp.sagepub.com
 spq.sagepub.com
+springer.com
 springerlink3.metapress.com
 springerlink.com
 springerprotocols.com
@@ -1076,7 +1092,9 @@ www.dmphp.org
 www.eje-online.org
 www.emeraldinsight.com
 www.endocrine-abstracts.org
+www.expert-reviews.com
 www.fasebj.org
+www.futuremedicine.com
 www.genetics.org
 www.guttmacher.org
 www.heinonline.org
@@ -1143,12 +1161,14 @@ www.sagepub.com
 www.sciencedirect.com
 www.sciencemag.org
 www.sjweh.fi
+www.springer.com
 www.springerlink.com
 www.springerprotocols.com
 www.tandfonline.com
 www.theannals.com
 www.the-aps.org
 www.thecochranelibrary.com
+www.the-scientist.com
 www.thieme-connect.com
 www.wiley.com
 xlink.rsc.org
