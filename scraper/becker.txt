@@ -31,10 +31,10 @@ cmj.org
 cpcjournal.org
 cshlpress.com
 cutis.com
+data.mgma.com
 degruyter.com
 dermatology.cdlib.org
 drawittoknowit.com
-ebooks.thieme.com
 ecmjournal.org
 ejournals.library.ualberta.ca
 embase.com
@@ -47,6 +47,7 @@ gastrojournal.org
 general-medicine.jwatch.org
 genomemedicine.com
 guttmacher.org
+gynecendoscopy.org
 healthyminds.org
 hindawi.com
 hormones.gr
@@ -57,6 +58,7 @@ ijstd.org
 indianjnephrol.org
 indianjurol.com
 indianpediatrics.net
+ipej.org
 jaacap.com
 jabfm.org
 jacmp.org
@@ -68,9 +70,9 @@ journalofvision.org
 journal.publications.chestnet.org
 journals.mui.ac.ir
 jrheum.org
-jscr.oxfordjournals.org
 jultrasoundmed.org
 jurology.com
+jvir.org
 landesbioscience.com
 lungindia.com
 maney.co.uk
@@ -96,7 +98,6 @@ plospathogens.org
 psychiatryinvestigation.org
 publications.cpa-apc.org
 rcjournal.com
-rc.rcjournal.com
 saudijgastro.com
 secure.medicalletter.org
 stemcellres.com
@@ -111,8 +112,6 @@ thelancet.com
 tumorionline.it
 uptodate.com
 who.int
-www.accessphysiotherapy.com
-www.accesssurgery.com
 www.acpjc.org
 www.actabiomedica.it
 www.acta-cytol.com
@@ -146,6 +145,7 @@ www.astmh.org
 www.atmph.org
 www.audiologyresearch.org
 www.audrehab.org
+www.avicennajmed.com
 www.biodiversitylibrary.org
 www.cancerimmunity.org
 www.cancerjournal.net
@@ -234,6 +234,7 @@ www.ijstd.org
 www.ijtrichology.com
 www.ima.org.il
 www.inaactamedica.org
+www.inchem.org
 www.indianjcancer.com
 www.indianjgastro.com
 www.indianjmedsci.org
@@ -356,3 +357,4 @@ www.thoracicmedicine.org
 www.toxicologyinternational.com
 www.tumorionline.it
 www.uptodate.com
+www.urologyannals.com

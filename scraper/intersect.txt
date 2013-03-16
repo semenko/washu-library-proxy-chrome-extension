@@ -1,5 +1,7 @@
 aac.asm.org
 aacrmeetingabstracts.org
+aapgrandrounds.aappublications.org
+aapnews.aappublications.org
 aapredbook.aappublications.org
 aas.sagepub.com
 abbs.oxfordjournals.org
@@ -32,6 +34,7 @@ ajcp.ascpjournals.org
 ajc.sagepub.com
 aje.oxfordjournals.org
 aje.sagepub.com
+ajh.oxfordjournals.org
 ajhpcontents.com
 ajh.sagepub.com
 ajl.sagepub.com
@@ -113,6 +116,7 @@ biomet.oxfordjournals.org
 bio.sagepub.com
 bioscience.org
 biostatistics.oxfordjournals.org
+biotechniques.com
 bir.sagepub.com
 bja.oxfordjournals.org
 bji.sagepub.com
@@ -158,6 +162,7 @@ ccforum.com
 ccj.sagepub.com
 ccl.sagepub.com
 ccm.sagepub.com
+cco.cambridge.org
 ccp.sagepub.com
 ccr.sagepub.com
 ccs.sagepub.com
@@ -195,6 +200,7 @@ circres.ahajournals.org
 cis.sagepub.com
 cjasn.asnjournals.org
 cjb.sagepub.com
+cjo.sagepub.com
 cjp.sagepub.com
 cjr.sagepub.com
 cjs.sagepub.com
@@ -274,6 +280,7 @@ eau.sagepub.com
 ebm.bmj.com
 ebm.rsmjournals.com
 ebooks.cambridge.org
+ebooks.thieme.com
 ebx.sagepub.com
 ec.asm.org
 ecl.sagepub.com
@@ -369,6 +376,7 @@ gct.sagepub.com
 gei.sagepub.com
 genesdev.cshlp.org
 genetics.org
+genomea.asm.org
 genomebiology.com
 genome.cshlp.org
 geronj.oxfordjournals.org
@@ -396,6 +404,7 @@ hfs.sagepub.com
 hgp.sagepub.com
 hhc.sagepub.com
 hhs.sagepub.com
+hic.sagepub.com
 highwire.stanford.edu
 hij.sagepub.com
 hip.sagepub.com
@@ -411,6 +420,7 @@ hpy.sagepub.com
 hrd.sagepub.com
 hsa.sagepub.com
 hsb.sagepub.com
+hsw.oxfordjournals.org
 hsx.sagepub.com
 humrep.oxfordjournals.org
 hum.sagepub.com
@@ -424,6 +434,7 @@ icj.sagepub.com
 ics.sagepub.com
 ict.sagepub.com
 icu.sagepub.com
+icvts.oxfordjournals.org
 idv.sagepub.com
 ieee.org
 ieeexplore.ieee.org
@@ -444,6 +455,7 @@ ijt.sagepub.com
 imaging.birjournals.org
 imammb.oxfordjournals.org
 imp.sagepub.com
+imr.sagepub.com
 informahealthcare.com
 info.sciencedirect.com
 infotrac.galegroup.com
@@ -646,6 +658,7 @@ jrp.sagepub.com
 jrr.oxfordjournals.org
 jrsm.rsmjournals.com
 jsa.sagepub.com
+jscr.oxfordjournals.org
 jsd.sagepub.com
 jse.sagepub.com
 jshd.asha.org
@@ -719,6 +732,7 @@ mitpressjournals.org
 mli.sagepub.com
 mlq.sagepub.com
 mmbr.asm.org
+mmcts.oxfordjournals.org
 mmd.sagepub.com
 mmr.sagepub.com
 mms.sagepub.com
@@ -858,6 +872,7 @@ pvs.sagepub.com
 pwm.sagepub.com
 pwq.sagepub.com
 qhr.sagepub.com
+qir.bmj.com
 qix.sagepub.com
 qjmed.oxfordjournals.org
 qrj.sagepub.com
@@ -870,6 +885,7 @@ raj.sagepub.com
 ras.sagepub.com
 rbm.acrl.org
 rcb.sagepub.com
+rc.rcjournal.com
 rd.springer.com
 rea.sagepub.com
 rel.sagepub.com
@@ -976,6 +992,7 @@ tab.sagepub.com
 tae.sagepub.com
 tag.sagepub.com
 tah.sagepub.com
+tai.sagepub.com
 taj.sagepub.com
 tak.sagepub.com
 tam.sagepub.com
@@ -1020,6 +1037,7 @@ trj.sagepub.com
 trn.sagepub.com
 tropej.oxfordjournals.org
 trs.sagepub.com
+trstmh.oxfordjournals.org
 ttj.sagepub.com
 tva.sagepub.com
 tvn.sagepub.com
@@ -1052,6 +1070,8 @@ www.aacp.com
 www.aacr.org
 www.aasmnet.org
 www.accessmedicine.com
+www.accessphysiotherapy.com
+www.accesssurgery.com
 www.advancesinpd.com
 www.aip.org
 www.ajhpcontents.com
@@ -1071,6 +1091,7 @@ www.arl.org
 www.biochemj.org
 www.biochemsoctrans.org
 www.biolcell.org
+www.biological-markers.com
 www.biologists.com
 www.biolreprod.org
 www.biomedcentral.com

@@ -15,15 +15,15 @@ arc.aiaa.org
 artfl-project.uchicago.edu
 ascelibrary.org
 aslo.org
+asmedigitalcollection.asme.org
 asmedl.org
 asp6new.alexanderstreet.com
 aspb.org
 biomedicaloptics.spiedigitallibrary.org
-biotechniques.com
 carbo.chemnetbase.com
 ccd.chemnetbase.com
-cco.cambridge.org
 cepr.org
+cgp.iiarjournals.org
 ciaonet.org
 cmaj.ca
 cms.math.ca
@@ -34,6 +34,7 @@ dbpia.co.kr
 dccc.chemnetbase.com
 dfc.chemnetbase.com
 dioc.chemnetbase.com
+dl.begellhouse.com
 dmnp.chemnetbase.com
 dna.naver.com
 dnp.chemnetbase.com
@@ -57,6 +58,7 @@ infoweb.newsbank.com
 intlpress.com
 iv.iiarjournals.org
 jaapl.org
+jbsponline.com
 journalofanimalscience.org
 journals.impan.gov.pl
 journalsip.astm.org
@@ -107,6 +109,7 @@ solomon.nwld.alexanderstreet.com
 solomon.wodr.alexanderstreet.com
 tandfonline.com
 thecochranelibrary.com
+universitypublishingonline.org
 wass.alexanderstreet.com
 wustl.eblib.com
 www.aaiddjournals.org
@@ -122,7 +125,6 @@ www.asmedl.org
 www.aspb.org
 www.basarchive.org
 www.bergfashionlibrary.com
-www.biological-markers.com
 www.ceeol.com
 www.cepr.org
 www.chemnetbase.com
@@ -147,12 +149,15 @@ www.intlpress.com
 www.intphycsoc.org
 www.journals.marketingpower.com
 www.knovel.com
+www.labanimal.com
 www.lexisnexis.com
+www.libraweb.net
 www.llmcdigital.org
 www.mathjournals.org
 www.mathscipub.org
 www.minsocam.org
 www.mlajournals.org
+www.mrs.org
 www.mycologia.org
 www.nber.org
 www.ncte.org

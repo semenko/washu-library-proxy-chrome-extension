@@ -1,4 +1,5 @@
 aafp.org
+ama-assn.org
 beckercat.wustl.edu
 cancercontrol.cancer.gov
 cdc.gov
@@ -24,10 +25,11 @@ purl.access.gpo.gov
 rehab.research.va.gov
 rps.mui.ac.ir
 web.squ.edu.om
-www.aafp.org
 www.18thcjournals2.amdigital.co.uk
 www2a.cdc.gov
+www.aafp.org
 www.abmsdirectory.com
+www.ama-assn.org
 www.biotechnologyforbiofuels.com
 www.canadianjournalofophthalmology.ca
 www.cdc.gov
