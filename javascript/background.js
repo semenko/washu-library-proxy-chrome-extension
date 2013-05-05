@@ -142,7 +142,6 @@ var rewroteAmazonThisSession = false;
 // Listen for pending URL loads
 // WARNING: Pre-rendered tabs from URL prediction (or link hints) cause oddities with onBeforeNavigate,
 //          like inaccessible tabs. Be careful here!
-// TODO: Listen on chrome.webNavigation.onTabReplaced when that makes its way into stable.
 function checkNavObject(frameId, tabId, url) {
     // Only listen in the main frame at frameId=0
     // Should we check for redirect loops, like with web.mit.edu?
@@ -178,11 +177,16 @@ function checkNavObject(frameId, tabId, url) {
 	}
     }
 };
+
 chrome.webNavigation.onBeforeNavigate.addListener(function(navObject) {
 	checkNavObject(navObject.frameId, navObject.tabId, navObject.url); } );
-// Pre-rendered tabs are just replaced.
 chrome.tabs.onCreated.addListener(function(navObject) {
 	checkNavObject(0, navObject.id, navObject.url); } );
+// Deal with pre-rendered tabs.
+chrome.webNavigation.onTabReplaced.addListener(function(navObject) {
+	chrome.tabs.get(navObject.tabId, function(tab) {
+		checkNavObject(0, navObject.id, tab.url);
+	    }); });
 
 // Alert users if they're trying to unnecessarily proxify things.
 function showUserHint(warning) {
