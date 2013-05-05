@@ -1,6 +1,8 @@
 aaiddjournals.org
+accessible.com
 acm.org
 acsinfo.acs.org
+acta.chadwyck.com
 actapress.com
 aeaweb.org
 agu.org
@@ -19,6 +21,7 @@ asmedigitalcollection.asme.org
 asmedl.org
 asp6new.alexanderstreet.com
 aspb.org
+bibliographies.brillonline.com
 biomedicaloptics.spiedigitallibrary.org
 carbo.chemnetbase.com
 ccd.chemnetbase.com
@@ -42,12 +45,12 @@ doc.chemnetbase.com
 dod.chemnetbase.com
 ebooks.abc-clio.com
 ebooks.spiedigitallibrary.org
-ecosal.org
 ecsdl.org
 ejournals.duncker-humblot.de
 eng.oversea.cnki.net
 epubs.siam.org
 esajournals.org
+gb.oversea.cnki.net
 geoscienceworld.org
 gft.sagepub.com
 ghj.sagepub.com
@@ -59,7 +62,7 @@ intlpress.com
 iv.iiarjournals.org
 jaapl.org
 jbsponline.com
-journalofanimalscience.org
+journals.humankinetics.com
 journals.impan.gov.pl
 journalsip.astm.org
 journals.spiedigitallibrary.org
@@ -82,6 +85,7 @@ necplus.eu
 nowpublishers.com
 oed.com
 oxfordscholarship.com
+pld.chadwyck.com
 poc.chemnetbase.com
 poj.peeters-leuven.be
 portal.acm.org
@@ -107,7 +111,6 @@ solomon.bldr.alexanderstreet.com
 solomon.nadr.alexanderstreet.com
 solomon.nwld.alexanderstreet.com
 solomon.wodr.alexanderstreet.com
-tandfonline.com
 thecochranelibrary.com
 universitypublishingonline.org
 wass.alexanderstreet.com
@@ -120,11 +123,14 @@ www.aeaweb.org
 www.agu.org
 www.amdigital.co.uk
 www.ams.org
+www.anthrosource.net
 www.architectureweek.com
+www.archivesdirect.amdigital.co.uk
 www.asmedl.org
 www.aspb.org
 www.basarchive.org
 www.bergfashionlibrary.com
+www.cabells.com
 www.ceeol.com
 www.cepr.org
 www.chemnetbase.com
@@ -142,6 +148,7 @@ www.faulkner.com
 www.gender.amdigital.co.uk
 www.geoscienceworld.org
 www.healio.com
+www.heldermann.de
 www.historycooperative.org
 www.humanitiesebook.org
 www.humankinetics.com

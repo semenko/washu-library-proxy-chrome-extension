@@ -16,6 +16,7 @@ libproxy.wustl.edu
 librarians.scitation.org
 mhebooklibrary.com
 ncbi.nlm.nih.gov
+news.sciencemag.org
 niaaa.nih.gov
 nlm.nih.gov
 nnlm.gov

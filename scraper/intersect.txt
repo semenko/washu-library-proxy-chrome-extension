@@ -5,6 +5,7 @@ aapnews.aappublications.org
 aapredbook.aappublications.org
 aas.sagepub.com
 abbs.oxfordjournals.org
+about.jstor.org
 abs.sagepub.com
 acb.rsmjournals.com
 accessmedicine.com
@@ -57,7 +58,6 @@ ala.org
 alcalc.oxfordjournals.org
 alh.sagepub.com
 alt.sagepub.com
-ama-assn.org
 anesthesia-analgesia.org
 ang.sagepub.com
 anj.sagepub.com
@@ -81,7 +81,6 @@ archfaci.jamanetwork.com
 archinte.jamanetwork.com
 archneur.jamanetwork.com
 archneurpsyc.jamanetwork.com
-archopht.ama-assn.org
 archopht.jamanetwork.com
 archotol.jamanetwork.com
 archpedi.jamanetwork.com
@@ -144,6 +143,7 @@ bul.sagepub.com
 cac.sagepub.com
 cad.sagepub.com
 cancerdiscovery.aacrjournals.org
+cancerimmunolres.aacrjournals.org
 cancerpreventionresearch.aacrjournals.org
 cancerres.aacrjournals.org
 canreviews.aacrjournals.org
@@ -284,6 +284,7 @@ ebooks.thieme.com
 ebx.sagepub.com
 ec.asm.org
 ecl.sagepub.com
+ecosal.org
 ecr.sagepub.com
 ecs.sagepub.com
 edm.sagepub.com
@@ -379,6 +380,7 @@ genetics.org
 genomea.asm.org
 genomebiology.com
 genome.cshlp.org
+genomemedicine.com
 geronj.oxfordjournals.org
 gerontologist.oxfordjournals.org
 glycob.oxfordjournals.org
@@ -627,6 +629,7 @@ jop.sagepub.com
 jorthod.maneyjournals.org
 jos.sagepub.com
 jot.sagepub.com
+journalofanimalscience.org
 journals.aip.org
 journals.asm.org
 journals.bcdecker.com
@@ -764,7 +767,6 @@ ner.sagepub.com
 neurology.org
 neuro-oncology.oxfordjournals.org
 neuro.psychiatryonline.org
-news.sciencemag.org
 nho.sagepub.com
 nms.sagepub.com
 nnr.sagepub.com
@@ -782,6 +784,7 @@ onlinelibrary.wiley.com
 online.liebertpub.com
 online.sagepub.com
 online.statref.com
+openurl.ebscohost.com
 opp.sagepub.com
 opr.sagepub.com
 org.sagepub.com
@@ -804,6 +807,7 @@ ped.sagepub.com
 pedsinreview.aappublications.org
 peds.oxfordjournals.org
 pen.sagepub.com
+perspectivesinmedicine.cshlp.org
 pfr.sagepub.com
 pharmrev.aspetjournals.org
 phg.sagepub.com
@@ -897,6 +901,7 @@ rnajournal.cshlp.org
 roa.sagepub.com
 rop.sagepub.com
 royalsocietypublishing.org
+rpd.oxfordjournals.org
 rphr.endojournals.org
 rre.sagepub.com
 rrn.sagepub.com
@@ -910,6 +915,7 @@ rsm.sagepub.com
 rsnr.royalsocietypublishing.org
 rspa.royalsocietypublishing.org
 rspb.royalsocietypublishing.org
+rspl.royalsocietypublishing.org
 rss.sagepub.com
 rsta.royalsocietypublishing.org
 rstb.royalsocietypublishing.org
@@ -996,6 +1002,7 @@ tai.sagepub.com
 taj.sagepub.com
 tak.sagepub.com
 tam.sagepub.com
+tandfonline.com
 tan.sagepub.com
 tap.sagepub.com
 tar.sagepub.com
@@ -1079,7 +1086,6 @@ www.ajnr.org
 www.ajronline.org
 www.ajtmh.org
 www.ala.org
-www.ama-assn.org
 www.amamanualofstyle.com
 www.anesthesia-analgesia.org
 www.annals.org
@@ -1191,6 +1197,7 @@ www.the-aps.org
 www.thecochranelibrary.com
 www.the-scientist.com
 www.thieme-connect.com
+www.thieme-connect.de
 www.wiley.com
 xlink.rsc.org
 yas.sagepub.com
