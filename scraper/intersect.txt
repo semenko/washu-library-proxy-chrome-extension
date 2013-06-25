@@ -451,6 +451,7 @@ ijl.sagepub.com
 ijm.sagepub.com
 ijo.sagepub.com
 ijr.sagepub.com
+ijsa.rsmjournals.com
 ijs.sagepub.com
 ijs.sgmjournals.org
 ijt.sagepub.com
@@ -461,6 +462,7 @@ imr.sagepub.com
 informahealthcare.com
 info.sciencedirect.com
 infotrac.galegroup.com
+infoweb.newsbank.com
 ini.sagepub.com
 intimm.oxfordjournals.org
 intqhc.oxfordjournals.org
@@ -709,6 +711,7 @@ lsj.sagepub.com
 ltj.sagepub.com
 ltr.sagepub.com
 lup.sagepub.com
+marc.crcnetbase.com
 mar.sagepub.com
 mbe.oxfordjournals.org
 mbio.asm.org
@@ -847,10 +850,12 @@ pps.sagepub.com
 pqx.sagepub.com
 prb.sagepub.com
 prd.aps.org
+pre.aps.org
 precedings.nature.com
 preventionportal.aacrjournals.org
 prf.sagepub.com
 pri.sagepub.com
+prl.aps.org
 proquest.umi.com
 pro.sagepub.com
 prq.sagepub.com
@@ -1113,6 +1118,7 @@ www.cellbiolint.org
 www.clinchem.org
 www.clinsci.org
 www.cmaj.ca
+www.crcnetbase.com
 www.cshprotocols.org
 www.degruyter.com
 www.dmphp.org
@@ -1150,6 +1156,7 @@ www.jstage.jst.go.jp
 www.jstor.org
 www.jultrasoundmed.org
 www.karger.com
+www.labanimal.com
 www.landesbioscience.com
 www.lexis-nexis.com
 www.liebertonline.com

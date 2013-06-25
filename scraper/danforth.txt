@@ -12,6 +12,7 @@ amdigital.co.uk
 ams.org
 annals.math.princeton.edu
 app.harpweek.com
+apps.brepolis.net
 aps.org
 arc.aiaa.org
 artfl-project.uchicago.edu
@@ -28,15 +29,19 @@ ccd.chemnetbase.com
 cepr.org
 cgp.iiarjournals.org
 ciaonet.org
+clt.brepolis.net
 cmaj.ca
 cms.math.ca
 cnki.en.eastview.com
 cnki.zh.eastview.com
+congressional.proquest.com
 crcnetbase.com
+cwld.alexanderstreet.com
 dbpia.co.kr
 dccc.chemnetbase.com
 dfc.chemnetbase.com
 dioc.chemnetbase.com
+dl.acm.org
 dl.begellhouse.com
 dmnp.chemnetbase.com
 dna.naver.com
@@ -57,7 +62,6 @@ ghj.sagepub.com
 histories.cambridge.org
 humanitiesebook.org
 hw.oeaw.ac.at
-infoweb.newsbank.com
 intlpress.com
 iv.iiarjournals.org
 jaapl.org
@@ -75,7 +79,6 @@ library.cqpress.com
 library.pressdisplay.com
 library.seg.org
 lion.chadwyck.com
-marc.crcnetbase.com
 mathscipub.org
 mcd.sagepub.com
 minsocam.org
@@ -108,6 +111,7 @@ smf.emath.fr
 solomon.aadr.alexanderstreet.com
 solomon.afso.alexanderstreet.com
 solomon.bldr.alexanderstreet.com
+solomon.bltc.alexanderstreet.com
 solomon.nadr.alexanderstreet.com
 solomon.nwld.alexanderstreet.com
 solomon.wodr.alexanderstreet.com
@@ -137,7 +141,6 @@ www.chemnetbase.com
 www.ciaonet.org
 www.classiques-garnier.com
 www.cms.math.ca
-www.crcnetbase.com
 www.dbpia.co.kr
 www.dictionaryofeconomics.com
 www.ems-ph.org
@@ -156,7 +159,6 @@ www.intlpress.com
 www.intphycsoc.org
 www.journals.marketingpower.com
 www.knovel.com
-www.labanimal.com
 www.lexisnexis.com
 www.libraweb.net
 www.llmcdigital.org
@@ -197,3 +199,4 @@ www.uwpress.org
 www.v-r.de
 www.worldscientific.com
 www.wustl.eblib.com
+zs.thulb.uni-jena.de

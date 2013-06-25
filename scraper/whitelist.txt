@@ -146,6 +146,7 @@ dij.sagepub.com
 dio.sagepub.com
 dis.sagepub.com
 div9perspectives.asha.org
+dl.acm.org
 dms.sagepub.com
 dps.sagepub.com
 dvd.sagepub.com
@@ -541,8 +542,10 @@ pps.sagepub.com
 pqx.sagepub.com
 prb.sagepub.com
 prd.aps.org
+pre.aps.org
 prf.sagepub.com
 pri.sagepub.com
+prl.aps.org
 proquest.umi.com
 pro.sagepub.com
 prq.sagepub.com

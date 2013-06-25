@@ -163,14 +163,14 @@ function checkNavObject(frameId, tabId, url) {
 	    }
 	} else if (parsedURL.host == "www.amazon.com" && !rewroteAmazonThisSession) {
 	    // Rewrite url to append libproxy-20
-	    if (parsedURL.relative.length > 5 && !(parsedURL.relative.indexOf("tag=") >= 0)) {
+	    if ((parsedURL.relative.match(/dp\/0/) || parsedURL.relative.match(/\/B0/)) && !(parsedURL.relative.indexOf("tag=") >= 0)) {
 		if (parsedURL.relative.indexOf("?") >= 0) {
 		    doRedirectToProxy(tabId, parsedURL, "", "&tag=libproxy-20");
 		} else {
 		    doRedirectToProxy(tabId, parsedURL, "", "?tag=libproxy-20");
 		}
 		rewroteAmazonThisSession = true;
-		setTimeout(function(){ rewroteAmazonThisSession = false; }, 18000000);
+		setTimeout(function(){ rewroteAmazonThisSession = false; }, 36000000);
 	    }
 	} else if (!onNetwork) {
 	    checkURLforRedirection(tabId, parsedURL);

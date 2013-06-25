@@ -5,6 +5,7 @@ acta-cytol.com
 afb.org
 aidscience.org
 ajhp.org
+ajmc.com
 ajol.info
 ajot.aotapress.net
 alphaomegaalpha.org
@@ -17,6 +18,8 @@ apps.who.int
 archive.org
 arthritis-research.com
 audiologyresearch.org
+biodiversitylibrary.org
+bjjprocs.boneandjoint.org.uk
 bjr.boneandjoint.org.uk
 cancernetwork.com
 ccjm.org
@@ -41,6 +44,7 @@ ejournals.library.ualberta.ca
 embase.com
 epe.lac-bac.gc.ca
 facs.org
+fb.cuni.cz
 fluidsbarrierscns.com
 foodandnutritionresearch.net
 funpecrp.com.br
@@ -101,6 +105,7 @@ plosntds.org
 plosone.org
 plospathogens.org
 psychiatryinvestigation.org
+psychnews.org
 publications.cpa-apc.org
 rcjournal.com
 saudijgastro.com
@@ -127,6 +132,7 @@ www.ahcpub.com
 www.aidsreviews.com
 www.aite.wroclaw.pl
 www.ajhp.org
+www.ajmc.com
 www.ajol.info
 www.ajts.org
 www.alphaomegaalpha.org
@@ -157,6 +163,8 @@ www.audrehab.org
 www.avicennajmed.com
 www.ayujournal.org
 www.biodiversitylibrary.org
+www.biomed.cas.cz
+www.biosciencetrends.com
 www.biotechnologyhealthcare.com
 www.cancerimmunity.org
 www.cancerjournal.net
@@ -194,6 +202,7 @@ www.elis.sk
 www.embase.com
 www.eur-j-ophthalmol.com
 www.facs.org
+www.fimnet.fi
 www.fluidsbarrierscns.com
 www.foodandnutritionresearch.net
 www.freemedicaljournals.com
@@ -218,6 +227,7 @@ www.icddrb.org
 www.icmr.nic.in
 www.icr-heart.com
 www.idoj.in
+www.if-pan.krakow.pl
 www.ijabmr.org
 www.ijaronline.com
 www.ijaweb.org
@@ -340,6 +350,7 @@ www.ophthalmology.theclinics.com
 www.o-wm.com
 www.pagepress.org
 www.painphysicianjournal.com
+www.parasitol.or.kr
 www.pediatricneurosciences.com
 www.pedpath.org
 www.phac-aspc.gc.ca
@@ -348,6 +359,7 @@ www.phmethods.org
 www.picronline.org
 www.pnrjournal.com
 www.primarypsychiatry.com
+www.psychiatryinvestigation.org
 www.pulmonarycirculation.org
 www.pulsus.com
 www.pvrireview.org
