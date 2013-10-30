@@ -1,4 +1,5 @@
 aafp.org
+ala.org
 ama-assn.org
 beckercat.wustl.edu
 cancercontrol.cancer.gov
@@ -32,6 +33,7 @@ www.18thcjournals2.amdigital.co.uk
 www2a.cdc.gov
 www.aafp.org
 www.abmsdirectory.com
+www.ala.org
 www.ama-assn.org
 www.biotechnologyforbiofuels.com
 www.canadianjournalofophthalmology.ca
