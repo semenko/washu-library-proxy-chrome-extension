@@ -8,6 +8,7 @@ abbs.oxfordjournals.org
 about.jstor.org
 abs.sagepub.com
 acb.rsmjournals.com
+acb.sagepub.com
 accessmedicine.com
 acc.sagepub.com
 ach.sagepub.com
@@ -36,7 +37,6 @@ ajc.sagepub.com
 aje.oxfordjournals.org
 aje.sagepub.com
 ajh.oxfordjournals.org
-ajhpcontents.com
 ajh.sagepub.com
 ajl.sagepub.com
 ajm.sagepub.com
@@ -54,11 +54,10 @@ ajrccm.atsjournals.org
 ajrcmb.atsjournals.org
 ajslp.asha.org
 ajs.sagepub.com
-ala.org
 alcalc.oxfordjournals.org
 alh.sagepub.com
+allenpress.com
 alt.sagepub.com
-anesthesia-analgesia.org
 ang.sagepub.com
 anj.sagepub.com
 anm.sagepub.com
@@ -69,6 +68,7 @@ annonc.oxfordjournals.org
 ann.sagepub.com
 anp.sagepub.com
 ant.sagepub.com
+aop.sagepub.com
 apa.sagepub.com
 aph.sagepub.com
 apj.sagepub.com
@@ -91,7 +91,6 @@ ar.iiarjournals.org
 arj.sagepub.com
 arp.sagepub.com
 ar.rsmjournals.com
-ar-sr.rsmjournals.com
 asa.aip.org
 asadl.org
 asianannals.ctsnetjournals.org
@@ -108,18 +107,15 @@ bfg.oxfordjournals.org
 bib.oxfordjournals.org
 bio.biologists.org
 bioinformatics.oxfordjournals.org
-biologists.com
 biomedcentral.com
 biomedgerontology.oxfordjournals.org
 biomet.oxfordjournals.org
 bio.sagepub.com
 bioscience.org
 biostatistics.oxfordjournals.org
-biotechniques.com
 bir.sagepub.com
 bja.oxfordjournals.org
 bji.sagepub.com
-bjj.boneandjoint.org.uk
 bjo.bmj.com
 bjp.rcpsych.org
 bjr.birjournals.org
@@ -177,7 +173,6 @@ cen.acs.org
 cep.sagepub.com
 cercor.oxfordjournals.org
 cer.sagepub.com
-cgd.aacrjournals.org
 cgj.sagepub.com
 chc.sagepub.com
 chd.sagepub.com
@@ -187,7 +182,6 @@ chp.sagepub.com
 chromsci.oxfordjournals.org
 chr.sagepub.com
 cid.oxfordjournals.org
-cigjournals.metapress.com
 cin.sagepub.com
 circ.ahajournals.org
 circep.ahajournals.org
@@ -248,7 +242,6 @@ ctj.sagepub.com
 ctr.sagepub.com
 ctx.sagepub.com
 cus.sagepub.com
-cvd.rsmjournals.com
 cvi.asm.org
 das.sagepub.com
 dbm.sagepub.com
@@ -266,7 +259,6 @@ div9perspectives.asha.org
 dmd.aspetjournals.org
 dmfr.birjournals.org
 dmm.biologists.org
-dmphp.org
 dms.sagepub.com
 dps.sagepub.com
 dsm.psychiatryonline.org
@@ -284,7 +276,6 @@ ebooks.thieme.com
 ebx.sagepub.com
 ec.asm.org
 ecl.sagepub.com
-ecosal.org
 ecr.sagepub.com
 ecs.sagepub.com
 edm.sagepub.com
@@ -301,7 +292,6 @@ eja.sagepub.com
 ejc.sagepub.com
 ejcts.oxfordjournals.org
 ejd.sagepub.com
-eje-online.org
 ejo.oxfordjournals.org
 ejt.sagepub.com
 ejw.sagepub.com
@@ -376,7 +366,6 @@ gcq.sagepub.com
 gct.sagepub.com
 gei.sagepub.com
 genesdev.cshlp.org
-genetics.org
 genomea.asm.org
 genomebiology.com
 genome.cshlp.org
@@ -639,7 +628,6 @@ journals.cambridge.org
 journals.iucr.org
 journals.lww.com
 jou.sagepub.com
-jove.com
 jpa.sagepub.com
 jpc.sagepub.com
 jpepsy.oxfordjournals.org
@@ -912,6 +900,7 @@ rre.sagepub.com
 rrn.sagepub.com
 rrp.sagepub.com
 rsbl.royalsocietypublishing.org
+rsc.org
 rse.sagepub.com
 rsfs.royalsocietypublishing.org
 rsh.sagepub.com
@@ -968,6 +957,7 @@ smh.sagepub.com
 smj.rsmjournals.com
 smj.sagepub.com
 smm.sagepub.com
+smo.sagepub.com
 smq.sagepub.com
 smr.sagepub.com
 soc.sagepub.com
@@ -988,6 +978,7 @@ sri.sagepub.com
 ssc.sagepub.com
 ssi.sagepub.com
 sss.sagepub.com
+status.nature.com
 sth.sagepub.com
 sti.bmj.com
 stke.sciencemag.org
@@ -1058,6 +1049,7 @@ uex.sagepub.com
 upd.sagepub.com
 usj.sagepub.com
 vascular.rsmjournals.com
+vas.sagepub.com
 vaw.sagepub.com
 vcj.sagepub.com
 vcu.sagepub.com
@@ -1071,7 +1063,6 @@ wcx.sagepub.com
 web.ebscohost.com
 wes.sagepub.com
 wih.sagepub.com
-wiley.com
 wjn.sagepub.com
 wmr.sagepub.com
 wom.sagepub.com
@@ -1090,7 +1081,6 @@ www.ajhpcontents.com
 www.ajnr.org
 www.ajronline.org
 www.ajtmh.org
-www.ala.org
 www.amamanualofstyle.com
 www.anesthesia-analgesia.org
 www.annals.org
@@ -1166,6 +1156,7 @@ www.medicaljournals.se
 www.metapress.com
 www.mitpressjournals.org
 www.molbiolcell.org
+www.myilibrary.com
 www.nature.com
 www.nejm.org
 www.neurology.org
