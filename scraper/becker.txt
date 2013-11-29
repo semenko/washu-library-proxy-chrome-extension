@@ -87,7 +87,6 @@ jacmp.org
 jbc.org
 jcytol.org
 jfponline.com
-jneurosci.org
 joacp.org
 journal.nzma.org.nz
 journalofvision.org
@@ -114,7 +113,6 @@ nrcresearchpress.com
 nursingstandard.rcnpublishing.co.uk
 nzma.org.nz
 ousar.lib.okayama-u.ac.jp
-oxfordmedicine.com
 pagepress.org
 painphysicianjournal.com
 pharmacotherapyjournal.org
@@ -394,6 +392,7 @@ www.pulmonarycirculation.org
 www.pulsus.com
 www.pvrireview.org
 www.rcsed.ac.uk
+www.redcross.org
 www.reproductive-health-journal.com
 www.reproductivemedicine.com
 www.rljae.org

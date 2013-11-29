@@ -140,6 +140,7 @@ aop.sagepub.com
 aota.org
 apa.sagepub.com
 apfmj-archive.com
+apha.org
 aph.sagepub.com
 apj.sagepub.com
 apm.sagepub.com
@@ -193,6 +194,7 @@ aslo.org
 asmedigitalcollection.asme.org
 asmedl.org
 asm.sagepub.com
+asmscience.org
 asnneuro.org
 asp6new.alexanderstreet.com
 aspb.org
@@ -688,6 +690,7 @@ hij.sagepub.com
 hindawi.com
 hip-int.com
 hip.sagepub.com
+histmed.org
 histories.cambridge.org
 historycooperative.org
 hjb.sagepub.com
@@ -1436,6 +1439,7 @@ progressbiomaterials.com
 projecteuclid.org
 prola.aps.org
 proquest.com
+proquestcombo.safaribooksonline.com
 proquest.safaribooksonline.com
 proquest.umi.com
 pro.sagepub.com
@@ -1461,7 +1465,9 @@ publichealthreports.org
 publish.aps.org
 publish.csiro.au
 pubs.acs.org
+pubsonline.informs.org
 pubs.rsc.org
+pubs.rsna.org
 pulmonarycirculation.org
 pulsus.com
 pun.sagepub.com
@@ -1491,6 +1497,7 @@ rc.rcjournal.com
 rcsed.ac.uk
 rd.springer.com
 rea.sagepub.com
+redcross.org
 reference-global.com
 referenceworks.brillonline.com
 rel.sagepub.com
@@ -1687,6 +1694,7 @@ thieme-connect.com
 thieme-connect.de
 thieme.de
 thoracicmedicine.org
+thoracic.org
 thorax.bmj.com
 thr.sagepub.com
 tia.sagepub.com
@@ -1821,6 +1829,7 @@ www.annfammed.org
 www.annualreviews.org
 www.anthrosource.net
 www.apfmj-archive.com
+www.apha.org
 www.apocp.org
 www.appi.org
 www.aps.org
@@ -1835,6 +1844,7 @@ www.arts-search.com
 www.asianjns.org
 www.asiapharmaceutics.info
 www.asmedl.org
+www.asmscience.org
 www.asnneuro.org
 www.aspb.org
 www.astmh.org
@@ -1968,6 +1978,7 @@ www.hepatitisbannual.org
 www.hhrjournal.org
 www.hh.um.es
 www.hip-int.com
+www.histmed.org
 www.historycooperative.org
 www.hjmph.org
 www.hkmj.org
@@ -2239,6 +2250,7 @@ www.pvrireview.org
 www.r2library.com
 www.rcjournal.com
 www.rcsed.ac.uk
+www.redcross.org
 www.reference-global.com
 www.reproduction-online.org
 www.reproductive-health-journal.com
@@ -2286,6 +2298,7 @@ www.thieme-connect.com
 www.thieme-connect.de
 www.thieme.de
 www.thoracicmedicine.org
+www.thoracic.org
 www.tihcij.com
 www.tinnitusjournal.com
 www.torrossa.it

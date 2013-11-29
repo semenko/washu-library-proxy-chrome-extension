@@ -124,6 +124,7 @@ bloodjournal.hematologylibrary.org
 bmb.oxfordjournals.org
 bmj.com
 bmjopen.bmj.com
+bmjopenrespres.bmj.com
 bmo.sagepub.com
 bms.sagepub.com
 bod.sagepub.com
@@ -601,6 +602,7 @@ jms.rsmjournals.com
 jmt.sagepub.com
 jncimono.oxfordjournals.org
 jnci.oxfordjournals.org
+jneurosci.org
 jnis.bmj.com
 jnm.snmjournals.org
 jnnp.bmj.com
@@ -785,6 +787,7 @@ oto.sagepub.com
 ovidsp.ovid.com
 ovidsp.tx.ovid.com
 oxfordjournals.org
+oxfordmedicine.com
 pas.sagepub.com
 pats.atsjournals.org
 pbi.sagepub.com
@@ -863,6 +866,7 @@ ptx.sagepub.com
 publish.aps.org
 pubs.acs.org
 pubs.rsc.org
+pubs.rsna.org
 pun.sagepub.com
 pus.sagepub.com
 pvs.sagepub.com
@@ -893,6 +897,7 @@ rmi.sagepub.com
 rnajournal.cshlp.org
 roa.sagepub.com
 rop.sagepub.com
+ror.reproduction-online.org
 royalsocietypublishing.org
 rpd.oxfordjournals.org
 rphr.endojournals.org
@@ -932,6 +937,7 @@ sch.sagepub.com
 sciencedirect.com
 sciencemag.org
 scitation.aip.org
+sco.sagepub.com
 scp.sagepub.com
 scv.sagepub.com
 scx.sagepub.com
