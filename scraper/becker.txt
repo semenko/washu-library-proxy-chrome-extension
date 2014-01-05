@@ -18,12 +18,14 @@ anesthesia-analgesia.org
 annals.edu.sg
 aota.org
 apps.who.int
+archive.k4health.org
 archive.org
 ar-sr.rsmjournals.com
 arthritis-research.com
 audiologyresearch.org
 biodiversitylibrary.org
 biologists.com
+biolreprod.org
 biotechniques.com
 bjj.boneandjoint.org.uk
 bjjprocs.boneandjoint.org.uk
@@ -52,7 +54,6 @@ dmphp.org
 drawittoknowit.com
 ecmjournal.org
 ecosal.org
-eje-online.org
 ejournals.library.ualberta.ca
 embase.com
 epe.lac-bac.gc.ca
@@ -72,6 +73,7 @@ healthyminds.org
 hindawi.com
 hormones.gr
 icmr.nic.in
+idoj.in
 ijmm.org
 ijoonline.com
 ijpm.mui.ac.ir
@@ -91,6 +93,7 @@ joacp.org
 journal.nzma.org.nz
 journalofvision.org
 journal.publications.chestnet.org
+journals.deckerpublishing.com
 journals.elsevierhealth.com
 journals.mui.ac.ir
 jove.com
@@ -105,6 +108,7 @@ mdconsult.com
 meajo.org
 memo.cgu.edu.tw
 mj.med.u-tokai.ac.jp
+moffitt.org
 molcells.inforang.com
 monographs.iarc.fr
 nap.edu
@@ -142,6 +146,7 @@ thecarlatreport.com
 thejns.org
 thelancet.com
 tumorionline.it
+ualberta.ca
 uptodate.com
 who.int
 wiley.com
@@ -201,10 +206,9 @@ www.cellbiolintrep.org
 www.cellmolbiol.com
 www.chausa.org
 www.cjcp.ca
+www.cjem-online.ca
 www.clinexprheumatol.org
-www.clinicalethics.com
 www.clinicalimagingscience.org
-www.clinicalpharmacology-ip.com
 www.clinmedres.org
 www.cma.ca
 www.cmbl.org.pl
@@ -347,6 +351,7 @@ www.jsnm.org
 www.jstcr.org
 www.jurology.com
 www.jvir.org
+www.jwatch.org
 www.laryngologyandvoice.org
 www.libraryjournal.com
 www.lifescied.org

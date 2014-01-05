@@ -262,6 +262,7 @@ dmfr.birjournals.org
 dmm.biologists.org
 dms.sagepub.com
 dps.sagepub.com
+drc.bmj.com
 dsm.psychiatryonline.org
 dukejournals.org
 dvd.sagepub.com
@@ -293,6 +294,7 @@ eja.sagepub.com
 ejc.sagepub.com
 ejcts.oxfordjournals.org
 ejd.sagepub.com
+eje-online.org
 ejo.oxfordjournals.org
 ejt.sagepub.com
 ejw.sagepub.com
@@ -454,6 +456,7 @@ info.sciencedirect.com
 infotrac.galegroup.com
 infoweb.newsbank.com
 ini.sagepub.com
+inthealth.oxfordjournals.org
 intimm.oxfordjournals.org
 intqhc.oxfordjournals.org
 int.sagepub.com
@@ -891,6 +894,7 @@ rd.springer.com
 rea.sagepub.com
 rel.sagepub.com
 rer.sagepub.com
+reviews.jbjs.org
 rev.sagepub.com
 rheumatology.oxfordjournals.org
 rmi.sagepub.com
@@ -926,6 +930,7 @@ sad.sagepub.com
 sae.sagepub.com
 sage-ereference.com
 sageke.sciencemag.org
+sagepub.com
 sag.sagepub.com
 sar.sagepub.com
 sas.sagepub.com
@@ -1112,6 +1117,8 @@ www.bjr.boneandjoint.org.uk
 www.bmj.com
 www.cellbiolint.org
 www.clinchem.org
+www.clinicalethics.com
+www.clinicalpharmacology-ip.com
 www.clinsci.org
 www.cmaj.ca
 www.crcnetbase.com

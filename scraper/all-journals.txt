@@ -354,6 +354,7 @@ cis.sagepub.com
 cjasn.asnjournals.org
 cjb.sagepub.com
 cjcp.ca
+cjem-online.ca
 cjo.sagepub.com
 cjp.sagepub.com
 cjr.sagepub.com
@@ -474,6 +475,7 @@ dod.chemnetbase.com
 down-syndrome.org
 dps.sagepub.com
 drawittoknowit.com
+drc.bmj.com
 dsm.psychiatryonline.org
 dukejournals.org
 dustri.com
@@ -647,6 +649,7 @@ gerontologist.oxfordjournals.org
 gerritsen.chadwyck.com
 gft.sagepub.com
 ghj.sagepub.com
+global.factiva.com
 glycob.oxfordjournals.org
 gmc.sagepub.com
 gmt.sagepub.com
@@ -798,6 +801,7 @@ indianjotol.org
 indianjpsychiatry.org
 indianjurol.com
 indianpediatrics.net
+indiaraj.amdigital.co.uk
 industrialpsychiatry.org
 informahealthcarebooks.com
 informahealthcare.com
@@ -808,6 +812,7 @@ ingentaconnect.com
 ini.sagepub.com
 in-silico-pharmacology.com
 internationalshoulderjournal.org
+inthealth.oxfordjournals.org
 intimm.oxfordjournals.org
 intlpress.com
 intphycsoc.org
@@ -1050,11 +1055,13 @@ journals.ama.org
 journals.asm.org
 journals.bcdecker.com
 journals.cambridge.org
+journals.deckerpublishing.com
 journals.elsevierhealth.com
 journals.humankinetics.com
 journals.impan.gov.pl
 journalsip.astm.org
 journals.iucr.org
+journals.jps.jp
 journalsleep.org
 journals.lww.com
 journals.marketingpower.com
@@ -1130,6 +1137,7 @@ jvi.asm.org
 jvir.org
 jvi.sagepub.com
 jvm.sagepub.com
+jwatch.org
 jxb.oxfordjournals.org
 karger.com
 kjim.org
@@ -1179,8 +1187,10 @@ lungindia.com
 lup.sagepub.com
 luther.chadwyck.com
 maney.co.uk
+maneyonline.com
 marc.crcnetbase.com
 mar.sagepub.com
+massobservation.amdigital.co.uk
 mathjournals.org
 mathscipub.org
 mbe.oxfordjournals.org
@@ -1460,6 +1470,7 @@ psychsocgerontology.oxfordjournals.org
 psycnet.apa.org
 ptjournal.apta.org
 ptx.sagepub.com
+publications.amsus.org
 publications.cpa-apc.org
 publichealthreports.org
 publish.aps.org
@@ -1508,6 +1519,7 @@ rer.sagepub.com
 research-design.co.uk
 residency.wustl.edu
 respiratory-research.com
+reviews.jbjs.org
 reviews.spiedigitallibrary.org
 rev.sagepub.com
 rheumatology.oxfordjournals.org
@@ -1894,6 +1906,7 @@ www.chemsources.com
 www.ciaonet.org
 www.circumpolarhealthjournal.net
 www.cjcp.ca
+www.cjem-online.ca
 www.classiques-garnier.com
 www.clinchem.org
 www.clinexprheumatol.org
@@ -2035,6 +2048,7 @@ www.indianjotol.org
 www.indianjpsychiatry.org
 www.indianjurol.com
 www.indianpediatrics.net
+www.indiaraj.amdigital.co.uk
 www.industrialpsychiatry.org
 www.informahealthcarebooks.com
 www.info.sciencedirect.com
@@ -2127,6 +2141,7 @@ www.jultrasoundmed.org
 www.jurology.com
 www.jvat.org
 www.jvir.org
+www.jwatch.org
 www.karger.com
 www.kjim.org
 www.knovel.com
@@ -2144,6 +2159,8 @@ www.lsspjournal.com
 www.luciusverlag.com
 www.lungindia.com
 www.maney.co.uk
+www.maneyonline.com
+www.massobservation.amdigital.co.uk
 www.mathjournals.org
 www.mathscipub.org
 www.mcmla.org
