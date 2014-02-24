@@ -1,25 +1,25 @@
 {
-"update_url":"http://clients2.google.com/service/update2/crx",
-        "manifest_version": 2,
-	"name": "WashU Library Proxy Access",
-	"version": "3.5.9",
-	"description": "Automatically load journal websites using Becker and Libproxy.",
-	"background": {
-                      "scripts": ["javascript/lso.js", "javascript/parseuri.js", "javascript/journals.js", "javascript/userhint.js", "javascript/background.js"]
-                      },
-	"icons": {
-		"16":"images/wucrest16.png",
-		"48":"images/wucrest48.png",
-		"128":"images/wucrest128.png"
-	},
-	"options_page": "views/options.html",
-	"permissions": [
-		"tabs", "webNavigation", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*", "notifications"
-	],
-        "content_security_policy": "script-src 'self' https://becker.wustl.edu; object-src 'self' https://becker.wustl.edu; connect-src 'self' https://becker.wustl.edu https://update.epoxate.com",
-	"browser_action": {
-		"default_icon": "images/wucrest19.png",
-		"default_title": "Reload using WashU Proxy"
-	},
-	"web_accessible_resources": [ "images/wucrest48.png" ]
+    "manifest_version": 2,
+    "name": "WashU Library Proxy Access",
+    "version": "2014.02.23",
+    "author": "Nick Semenkovich",
+    "description": "Automatically load journal websites using Becker and Libproxy. By Nick Semenkovich <semenko@alum.mit.edu>",
+    "background": {
+        "scripts": ["javascript/lso.js", "javascript/parseuri.js", "javascript/journals.js", "javascript/userhint.js", "javascript/background.js"]
+    },
+    "icons": {
+        "16":"images/wucrest16.png",
+        "48":"images/wucrest48.png",
+        "128":"images/wucrest128.png"
+    },
+    "options_page": "views/options.html",
+    "permissions": [
+        "tabs", "webNavigation", "https://becker.wustl.edu/*", "https://update.epoxate.com/becker-extension/*", "notifications"
+    ],
+    "content_security_policy": "script-src 'self' https://becker.wustl.edu; object-src 'self' https://becker.wustl.edu; connect-src 'self' https://becker.wustl.edu https://update.epoxate.com",
+    "browser_action": {
+        "default_icon": "images/wucrest19.png",
+        "default_title": "Reload using WashU Proxy"
+    },
+    "web_accessible_resources": [ "images/wucrest48.png" ]
 }
