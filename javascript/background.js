@@ -70,7 +70,6 @@ chrome.extension.onRequest.addListener(
         if (request.operation == 'getstate') {
             sendResponse({networkTag: networkTag});
         } else if (request.operation == 'redetect') {
-            // TODO: Rate limit this?
             console.info('Manual network redetection.');
             detectNetworkState();
             sendResponse({networkTag: networkTag});
@@ -134,7 +133,6 @@ function writeToRemoteLog(theData) {
     uploader.send();
 }
 
-var rewroteAmazonThisSession = false;
 // Listen for pending URL loads
 // WARNING: Pre-rendered tabs from URL prediction (or link hints) cause oddities with onBeforeNavigate,
 //          like inaccessible tabs. Be careful here!
@@ -154,21 +152,10 @@ function checkNavObject(frameId, tabId, url) {
                     // Redirect with no proxy url, but an appendString
                     doRedirectToProxy(tabId, parsedURL, "", "?holding=wustlmlib");
                     rewrotePubMedThisSession = true;
-                    setTimeout(function(){ rewrotePubMedThisSession = false; }, 18000000);
+                    setTimeout(function(){ rewrotePubMedThisSession = false; }, 10800000);
                 }
             }
-        } else if (parsedURL.host == "www.amazon.com" && !rewroteAmazonThisSession) {
-            // Rewrite url to append libproxy-20
-            if ((parsedURL.relative.match(/dp\/0/) || parsedURL.relative.match(/\/B0/)) && !(parsedURL.relative.indexOf("tag=") >= 0)) {
-                if (parsedURL.relative.indexOf("?") >= 0) {
-                    doRedirectToProxy(tabId, parsedURL, "", "&tag=libproxy-20");
-                } else {
-                    doRedirectToProxy(tabId, parsedURL, "", "?tag=libproxy-20");
-                }
-                rewroteAmazonThisSession = true;
-                setTimeout(function(){ rewroteAmazonThisSession = false; }, 36000000);
-            }
-        } else if (!onNetwork) {
+        }  else if (!onNetwork) {
             checkURLforRedirection(tabId, parsedURL);
         }
     }
