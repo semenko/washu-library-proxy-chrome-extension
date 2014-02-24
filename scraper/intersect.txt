@@ -10,6 +10,9 @@ abs.sagepub.com
 acb.rsmjournals.com
 acb.sagepub.com
 accessmedicine.com
+accessmedicine.mhmedical.com
+accessphysiotherapy.mhmedical.com
+accesssurgery.mhmedical.com
 acc.sagepub.com
 ach.sagepub.com
 acn.oxfordjournals.org
@@ -30,6 +33,7 @@ ageing.oxfordjournals.org
 ahh.sagepub.com
 aip.org
 aja.asha.org
+aja.pubs.asha.org
 aja.sagepub.com
 ajcn.nutrition.org
 ajcp.ascpjournals.org
@@ -53,12 +57,14 @@ ajprenal.physiology.org
 ajrccm.atsjournals.org
 ajrcmb.atsjournals.org
 ajslp.asha.org
+ajslp.pubs.asha.org
 ajs.sagepub.com
 alcalc.oxfordjournals.org
 alh.sagepub.com
 allenpress.com
 alt.sagepub.com
 ang.sagepub.com
+ani.sagepub.com
 anj.sagepub.com
 anm.sagepub.com
 annals.org
@@ -75,6 +81,7 @@ apj.sagepub.com
 apm.sagepub.com
 ap.psychiatryonline.org
 apr.sagepub.com
+apt.rcpsych.org
 apy.sagepub.com
 archderm.jamanetwork.com
 archfaci.jamanetwork.com
@@ -152,6 +159,7 @@ cardiovascres.oxfordjournals.org
 care.diabetesjournals.org
 car.sagepub.com
 caseconnector.jbjs.org
+catalog.hathitrust.org
 cat.sagepub.com
 cbi.sagepub.com
 cbr.sagepub.com
@@ -174,6 +182,7 @@ cen.acs.org
 cep.sagepub.com
 cercor.oxfordjournals.org
 cer.sagepub.com
+cgd.aacrjournals.org
 cgj.sagepub.com
 chc.sagepub.com
 chd.sagepub.com
@@ -432,6 +441,7 @@ icvts.oxfordjournals.org
 idv.sagepub.com
 ieee.org
 ieeexplore.ieee.org
+iem.sagepub.com
 ier.sagepub.com
 ifl.sagepub.com
 ihr.sagepub.com
@@ -596,6 +606,7 @@ jmh.sagepub.com
 jmicro.oxfordjournals.org
 jmi.sagepub.com
 jmk.sagepub.com
+jmmcr.sgmjournals.org
 jmm.sagepub.com
 jmm.sgmjournals.org
 jmo.sagepub.com
@@ -663,6 +674,7 @@ jshd.asha.org
 jsi.sagepub.com
 jslhr.asha.org
 jslhr.highwire.org
+jslhr.pubs.asha.org
 jsm.sagepub.com
 jsn.sagepub.com
 jsp.sagepub.com
@@ -700,6 +712,7 @@ link.springer-ny.com
 lis.sagepub.com
 lrt.sagepub.com
 lshss.asha.org
+lshss.pubs.asha.org
 lsj.sagepub.com
 ltj.sagepub.com
 ltr.sagepub.com
@@ -735,6 +748,7 @@ mmcts.oxfordjournals.org
 mmd.sagepub.com
 mmr.sagepub.com
 mms.sagepub.com
+mmy.oxfordjournals.org
 moh.sagepub.com
 molehr.oxfordjournals.org
 molpharm.aspetjournals.org
@@ -776,10 +790,13 @@ occmed.oxfordjournals.org
 oem.bmj.com
 ohr.oxfordjournals.org
 ojps.aip.org
+ojs.sagepub.com
+ommbid.mhmedical.com
 onlinelibrary.wiley.com
 online.liebertpub.com
 online.sagepub.com
 online.statref.com
+openheart.bmj.com
 openurl.ebscohost.com
 opp.sagepub.com
 opr.sagepub.com
@@ -794,6 +811,7 @@ oxfordmedicine.com
 pas.sagepub.com
 pats.atsjournals.org
 pbi.sagepub.com
+pb.rcpsych.org
 pch.sagepub.com
 pcp.oxfordjournals.org
 pdiconnect.com
@@ -846,6 +864,7 @@ prb.sagepub.com
 prd.aps.org
 pre.aps.org
 precedings.nature.com
+press.endocrine.org
 preventionportal.aacrjournals.org
 prf.sagepub.com
 pri.sagepub.com
@@ -956,6 +975,7 @@ sgr.sagepub.com
 shm.oxfordjournals.org
 shm.sagepub.com
 shortreports.rsmjournals.com
+shr.sagepub.com
 sih.sagepub.com
 sim.sagepub.com
 sir.sagepub.com
@@ -1074,6 +1094,7 @@ wcx.sagepub.com
 web.ebscohost.com
 wes.sagepub.com
 wih.sagepub.com
+wiley.com
 wjn.sagepub.com
 wmr.sagepub.com
 wom.sagepub.com
@@ -1100,6 +1121,7 @@ www.annfammed.org
 www.annualreviews.org
 www.aps.org
 www.arl.org
+www.atsjournals.org
 www.biochemj.org
 www.biochemsoctrans.org
 www.biolcell.org

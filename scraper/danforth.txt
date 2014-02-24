@@ -1,6 +1,8 @@
+aaiddjournals.org
 accessible.com
 acsinfo.acs.org
 acta.chadwyck.com
+aeaweb.org
 agu.org
 aimsciences.org
 ajnr.org
@@ -51,6 +53,8 @@ ebooks.spiedigitallibrary.org
 ecsdl.org
 eeb.chadwyck.com
 ejournals.duncker-humblot.de
+emboj.embopress.org
+embor.embopress.org
 eng.oversea.cnki.net
 en.sif.it
 epubs.siam.org
@@ -69,6 +73,7 @@ intlpress.com
 iv.iiarjournals.org
 jaapl.org
 jbsponline.com
+jlb.oxfordjournals.org
 journals.ama.org
 journals.humankinetics.com
 journals.impan.gov.pl
@@ -203,6 +208,7 @@ www.research-design.co.uk
 www.scientific.net
 www.sif.it
 www.uwpress.org
+www.victorianpopularculture.amdigital.co.uk
 www.v-r.de
 www.worldscientific.com
 www.wustl.eblib.com
