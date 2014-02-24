@@ -50,7 +50,6 @@ function detectNetworkState() {
                     setTimeout(function(){ detectNetworkState(); }, 15000);
                 }
                 console.info('Detection event: onNetwork: ' + onNetwork + ', networkTag: ' + resp.networkTag);
-                // TODO: Better way to detect network state changes? Is there an API for this?
                 clearTimeout(refreshTimeoutHandle);
                 refreshTimeoutHandle = setTimeout(function(){ detectNetworkState(); }, refreshTimeoutMilliseconds);
             } else {
@@ -159,7 +158,7 @@ function checkNavObject(frameId, tabId, url) {
             checkURLforRedirection(tabId, parsedURL);
         }
     }
-};
+}
 
 chrome.webNavigation.onBeforeNavigate.addListener(function(navObject) {
     checkNavObject(navObject.frameId, navObject.tabId, navObject.url); } );
