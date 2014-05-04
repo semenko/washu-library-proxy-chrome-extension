@@ -2,6 +2,7 @@ aaiddjournals.org
 accessible.com
 acsinfo.acs.org
 acta.chadwyck.com
+actapress.com
 aeaweb.org
 agu.org
 aimsciences.org
@@ -25,10 +26,12 @@ aspb.org
 bibliographies.brillonline.com
 biomedicaloptics.spiedigitallibrary.org
 bsc.chadwyck.com
+california.universitypressscholarship.com
 carbo.chemnetbase.com
 ccd.chemnetbase.com
 cepr.org
 cgp.iiarjournals.org
+chicago.universitypressscholarship.com
 ciaonet.org
 clt.brepolis.net
 cms.math.ca
@@ -38,6 +41,7 @@ collections.chadwyck.com
 congressional.proquest.com
 cwld.alexanderstreet.com
 dbpia.co.kr
+db.saur.de
 dccc.chemnetbase.com
 dfc.chemnetbase.com
 dioc.chemnetbase.com
@@ -51,6 +55,7 @@ dod.chemnetbase.com
 ebooks.abc-clio.com
 ebooks.spiedigitallibrary.org
 ecsdl.org
+edinburgh.universitypressscholarship.com
 eeb.chadwyck.com
 ejournals.duncker-humblot.de
 emboj.embopress.org
@@ -69,11 +74,11 @@ global.factiva.com
 histories.cambridge.org
 humanitiesebook.org
 hw.oeaw.ac.at
+ingentaconnect.com
 intlpress.com
 iv.iiarjournals.org
 jaapl.org
 jbsponline.com
-jlb.oxfordjournals.org
 journals.ama.org
 journals.humankinetics.com
 journals.impan.gov.pl
@@ -87,13 +92,16 @@ library.cqpress.com
 library.pressdisplay.com
 library.seg.org
 lion.chadwyck.com
+literature.proquest.com
 luther.chadwyck.com
 mathscipub.org
 mcd.sagepub.com
 minsocam.org
+mitpress.universitypressscholarship.com
 nationaljournal.com
 nowpublishers.com
 oed.com
+oxfordreference.com
 parlipapers.chadwyck.co.uk
 pld.chadwyck.com
 pnas.org
@@ -105,15 +113,13 @@ products.asminternational.org
 projecteuclid.org
 prola.aps.org
 proquest.com
-proquestcombo.safaribooksonline.com
 proquest.safaribooksonline.com
 publichealthreports.org
+publishing.aip.org
 pubsonline.informs.org
 referenceworks.brillonline.com
-reviews.spiedigitallibrary.org
 rotunda.upress.virginia.edu
 seab.envmed.rochester.edu
-search.marquiswhoswho.com
 search.proquest.com
 smf.emath.fr
 solomon.aadr.alexanderstreet.com
@@ -149,6 +155,7 @@ www.ceeol.com
 www.cepr.org
 www.chemnetbase.com
 www.ciaonet.org
+www.cjcmh.com
 www.classiques-garnier.com
 www.cms.math.ca
 www.dbpia.co.kr
@@ -168,6 +175,7 @@ www.humankinetics.com
 www.indiaraj.amdigital.co.uk
 www.intlpress.com
 www.intphycsoc.org
+www.itergateway.org
 www.knovel.com
 www.lexisnexis.com
 www.libraweb.net
@@ -179,7 +187,6 @@ www.mathscipub.org
 www.minsocam.org
 www.mlajournals.org
 www.mrs.org
-www.mycologia.org
 www.nber.org
 www.ncte.org
 www.necplus.eu
