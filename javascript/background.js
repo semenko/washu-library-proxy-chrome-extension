@@ -172,14 +172,15 @@ chrome.webNavigation.onTabReplaced.addListener(function(navObject) {
 
 // Alert users if they're trying to unnecessarily proxify things.
 function showUserHint(warning) {
-    var notice = webkitNotifications.createNotification(
-        '../images/wucrest48.png',
-        '',
-        warning);
-    notice.addEventListener('click', function() {notice.close();}); // Hide on click
-    notice.show();
-    // Auto-hide after five secs
-    setTimeout(function(){ notice.close(); }, 5000);
+    chrome.notifications.create(
+        'note',
+        {   type: 'basic',
+            iconUrl: '../images/schollidesign48.png',
+            title: 'Unnecessary Click',
+            message: warning
+        },
+        function(noteId) { setTimeout(function(){ chrome.notifications.clear(noteId, function() {}) }, 8000); }
+    );
 }
 
 // Listen to clicking on our button.
