@@ -33,10 +33,10 @@ NOTE: This extension requires either a WUSTL Key or a Becker Proxy account.
 **Nick Semenkovich**
 
 + https://github.com/semenko/
-+ http://web.mit.edu/semenko/
++ https://nick.semenkovich.com/
 
 ## License
-Copyright 2011-2012, Nick Semenkovich <semenko@alum.mit.edu>
+Copyright 2011-2014, Nick Semenkovich <semenko@alum.mit.edu>
 
 Released under the MIT License. See LICENSE for details.
 
