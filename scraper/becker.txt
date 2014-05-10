@@ -96,7 +96,6 @@ stemcellres.com
 studiesinmycology.org
 the-aps.org
 thejns.org
-thelancet.com
 tumorionline.it
 ualberta.ca
 uptodate.com
@@ -211,7 +210,6 @@ www.skintherapyletter.com
 www.smw.ch
 www.studiesinmycology.org
 www.tcrt.org
-www.thelancet.com
 www.thieme.de
 www.tinnitusjournal.com
 www.tumorionline.it
