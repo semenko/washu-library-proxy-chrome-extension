@@ -144,7 +144,6 @@ function checkNavObject(frameId, tabId, url) {
         if (optEnableBecker && parsedURL.host == "www.ncbi.nlm.nih.gov") {
             // Redirect PubMed journals to add ?holding flag.
             // This is useful whether we are on or off network.
-            // TODO: Redirect for PMC articles, too?
             if (!rewrotePubMedThisSession) {
                 if (parsedURL.relative == "/pubmed/" || parsedURL.relative == "/pubmed"
                     || parsedURL.relative == "/pmc/" || parsedURL.relative.match(/^\/pubmed\/\d{6,}$/)) {
