@@ -151,7 +151,7 @@ function checkNavObject(frameId, tabId, url) {
                     // Redirect with no proxy url, but an appendString
                     doRedirectToProxy(tabId, parsedURL, "", "?holding=wustlmlib");
                     rewrotePubMedThisSession = true;
-                    setTimeout(function(){ rewrotePubMedThisSession = false; }, 10800000);
+                    setTimeout(function(){ rewrotePubMedThisSession = false; }, 7200000); // Re-do this every 2 hours.
                 }
             }
         }  else if (!onNetwork) {
