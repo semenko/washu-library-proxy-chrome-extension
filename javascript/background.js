@@ -33,8 +33,8 @@ function detectNetworkState() {
                     beckerProxyURL = '.beckerproxy.wustl.edu';
                     networkTag = resp.networkTag;
                 } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH" || resp.networkTag == "BJC") {
-                    onNetwork = true; // TODO: Switch to false after excluding the short list of open journals at Becker.
-                    localStorage.onNetwork = true;
+                    onNetwork = false; // I think most of these networks have ~zero journals available.
+                    localStorage.onNetwork = false;
                     beckerProxyURL = '.beckerproxy.wucon.wustl.edu';
                     networkTag = resp.networkTag;
                 } else if (resp.networkTag == "OFF") {
