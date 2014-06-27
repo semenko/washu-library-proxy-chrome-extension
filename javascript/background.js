@@ -35,7 +35,7 @@ function detectNetworkState() {
                 } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH" || resp.networkTag == "BJC") {
                     onNetwork = true; // TODO: Switch to false after excluding the short list of open journals at Becker.
                     localStorage.onNetwork = true;
-                    beckerProxyURL = '.beckerproxy2a.wucon.wustl.edu';
+                    beckerProxyURL = '.beckerproxy.wucon.wustl.edu';
                     networkTag = resp.networkTag;
                 } else if (resp.networkTag == "OFF") {
                     onNetwork = false;
