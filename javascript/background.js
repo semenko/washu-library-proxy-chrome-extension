@@ -191,7 +191,8 @@ chrome.browserAction.onClicked.addListener(function (tab) {
     // We check for HTTP/HTTPS only (no chrome://), and that "proxy.wustl.edu" isn't at the end of the
     // string, otherwise we're probably already at [becker|lib]proxy.wustl.edu.
     if (parsedURL.protocol == 'http' || parsedURL.protocol == 'https') {
-        if (parsedURL.host.substring(parsedURL.host.length - 15) != 'proxy.wustl.edu') {
+        var host_ending = parsedURL.host.substring(parsedURL.host.length - 15);
+        if (host_ending != 'proxy.wustl.edu' && host_ending != 'wucon.wustl.edu') {
             if (hint_urls.hasOwnProperty(parsedURL.host)) {
                 // Warn users if they're doing something unnecessary.
                 // In this case, do NOT redirect these URLs.
