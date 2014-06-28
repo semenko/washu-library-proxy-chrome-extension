@@ -10,6 +10,8 @@
 import time
 import urllib
 
+raw_input("Press Enter to continue...")
+
 fintersect = open('intersect.txt', 'w')
 fbecker = open('becker.txt', 'w')
 fdanforth = open('danforth.txt', 'w')
