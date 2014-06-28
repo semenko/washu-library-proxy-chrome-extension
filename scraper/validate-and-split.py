@@ -31,7 +31,7 @@ for line in open('all-journals.txt', 'r'):
             failed = False
         except IOError:
             print("Failure! %s" % line)
-            time.sleep(1)
+            time.sleep(0.1)
         
     if (b.getcode() != 200 or b.geturl() != "https://login.beckerproxy.wustl.edu/login?url=http://" + line + "/"):
         becker = False
@@ -44,7 +44,7 @@ for line in open('all-journals.txt', 'r'):
             failed = False
         except IOError:
             print("Failure! %s" % line)
-            time.sleep(1)
+            time.sleep(0.1)
 
     if (d.getcode() != 200 or d.geturl() != "https://login.libproxy.wustl.edu/login?url=http://" + line + "/"):
         danforth = False
@@ -59,4 +59,4 @@ for line in open('all-journals.txt', 'r'):
     else:
         print "Error: No access to %s" % line
 
-    time.sleep(0.1)
+    time.sleep(0.05)
