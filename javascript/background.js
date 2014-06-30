@@ -80,9 +80,28 @@ chrome.extension.onRequest.addListener(
     });
 
 
+// According to Becker, these sites do NOT require a proxy for these networks
+var bjcAndSlchWhitelist = {'accessmedicine.com':1,'online.statref.com':1,'uptodate.com':1,'www.accessmedicine.com':1,'www.uptodate.com':1};
+var slchOnlyWhitelist = {'sciencedirect.com':1,'www.sciencedirect.com':1,'mdconsult.com':1,'www.mdconsult.com':1,'aci.schattauer.de':1,
+    'aapgrandrounds.aappublications.org':1,'aapnews.aappublications.org':1,'hosppeds.aappublications.org':1,'neoreviews.aappublications.org':1,
+    'pediatrics.aappublications.org':1,'pedsinreview.aappublications.org':1}
+
 // The user wants auto-redirection and is off-network,
 // so we perform URL parsing and (maybe) redirection
 function checkURLforRedirection(tabId, parsedURL) {
+    // First, get out of here if a network has special "whitelisted" journals
+    if (networkTag == "BJC" || networkTag == "BJH" || networkTag == "SLCH") {
+        if (bjcAndSlchWhitelist.hasOwnProperty(parsedURL.host)) {
+            return false;
+        }
+        if (networkTag == "SLCH") {
+            if (slchOnlyWhitelist.hasOwnProperty(parsedURL.host)) {
+                return false;
+            }
+        }
+    }
+
+    // See if a journal is in the "intersect" list (available at Becker & Danforth)
     if (intersect_journals.hasOwnProperty(parsedURL.host)) {
         if (optPreferDanforth || (optEnableDanforth && !optEnableBecker)) {
             doRedirectToProxy(tabId, parsedURL, danforthProxyURL);
