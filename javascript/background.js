@@ -34,8 +34,9 @@ function detectNetworkState() {
                     networkTag = resp.networkTag;
                 } else if (resp.networkTag == "SLCH" || resp.networkTag == "BJH" || resp.networkTag == "BJC") {
                     onNetwork = false; // I think most of these networks have ~zero journals available.
+                    // TODO: Whitelist the few sites that are OK, like UpToDate.
                     localStorage.onNetwork = false;
-                    beckerProxyURL = '.beckerproxy.wucon.wustl.edu';
+                    beckerProxyURL = '.beckerproxy.wustl.edu';
                     networkTag = resp.networkTag;
                 } else if (resp.networkTag == "OFF") {
                     onNetwork = false;
@@ -190,8 +191,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
     // We check for HTTP/HTTPS only (no chrome://), and that "proxy.wustl.edu" isn't at the end of the
     // string, otherwise we're probably already at [becker|lib]proxy.wustl.edu.
     if (parsedURL.protocol == 'http' || parsedURL.protocol == 'https') {
-        var host_ending = parsedURL.host.substring(parsedURL.host.length - 15);
-        if (host_ending != 'proxy.wustl.edu' && host_ending != 'wucon.wustl.edu') {
+        if (parsedURL.host.substring(parsedURL.host.length - 15) != 'proxy.wustl.edu') {
             if (hint_urls.hasOwnProperty(parsedURL.host)) {
                 // Warn users if they're doing something unnecessary.
                 // In this case, do NOT redirect these URLs.
