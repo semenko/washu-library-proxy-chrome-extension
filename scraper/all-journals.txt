@@ -183,7 +183,9 @@ aricjournal.com
 ar.iiarjournals.org
 arj.sagepub.com
 arl.org
+armand-colin.com
 arp.sagepub.com
+arr.sagepub.com
 ar-sr.rsmjournals.com
 artfl-project.uchicago.edu
 arthritis-research.com
@@ -200,6 +202,7 @@ asmedigitalcollection.asme.org
 asm.sagepub.com
 asmscience.org
 asnneuro.org
+asn.sagepub.com
 asp6new.alexanderstreet.com
 aspb.org
 asq.sagepub.com
@@ -264,6 +267,7 @@ bjp.sagepub.com
 bjr.boneandjoint.org.uk
 bjr.sagepub.com
 bloodjournal.hematologylibrary.org
+bloodjournal.org
 bmb.oxfordjournals.org
 bmj.com
 bmjopen.bmj.com
@@ -333,6 +337,7 @@ cde.sagepub.com
 cdp.sagepub.com
 cdq.sagepub.com
 cdy.sagepub.com
+ceaccp.oxfordjournals.org
 cebp.aacrjournals.org
 ced.sagepub.com
 ceeol.com
@@ -344,6 +349,7 @@ cel.sagepub.com
 cen.acs.org
 cep.sagepub.com
 cercor.oxfordjournals.org
+cerebellumandataxias.com
 cer.sagepub.com
 cgd.aacrjournals.org
 cgj.sagepub.com
@@ -397,6 +403,7 @@ clinicalmolecularallergy.com
 clinicalpharmacology-ip.com
 clinicalproteomicsjournal.com
 clinicalsarcomaresearch.com
+clinmed.rcpjournal.org
 clinmedres.org
 clinsci.org
 clockss.org
@@ -460,6 +467,7 @@ ctx.sagepub.com
 cus.sagepub.com
 cutis.com
 cvd.rsmjournals.com
+cvd.sagepub.com
 cvi.asm.org
 cwld.alexanderstreet.com
 cysonline.org
@@ -520,6 +528,7 @@ ebooks.spiedigitallibrary.org
 ebooks.thieme.com
 ebx.sagepub.com
 ec.asm.org
+echorespract.com
 ecl.sagepub.com
 ecmjournal.org
 ecosal.org
@@ -699,6 +708,7 @@ gut.bmj.com
 gutpathogens.com
 guttmacher.org
 gynecendoscopy.org
+habelt.de
 haematologica.org
 harmreductionjournal.com
 hbcpnetbase.com
@@ -735,6 +745,7 @@ histmed.org
 hjb.sagepub.com
 hjmph.org
 hkmj.org
+hme.sagepub.com
 hmg.oxfordjournals.org
 hol.sagepub.com
 home.heinonline.org
@@ -742,6 +753,7 @@ horizonpress.com
 hormones.gr
 hosppeds.aappublications.org
 hpc.sagepub.com
+hpo.sagepub.com
 hpp.sagepub.com
 hpq.sagepub.com
 hpy.sagepub.com
@@ -750,6 +762,7 @@ hrd.sagepub.com
 hsa.sagepub.com
 hsb.sagepub.com
 hsforum.com
+hsw.oxfordjournals.org
 hsx.sagepub.com
 http
 humanitiesebook.org
@@ -1088,6 +1101,7 @@ jms.rsmjournals.com
 jmss.mui.ac.ir
 jmt.oxfordjournals.org
 jmt.sagepub.com
+jmvm.oxfordjournals.org
 jnanobiotechnology.com
 jnatpharm.org
 jnccn.org
@@ -1118,6 +1132,7 @@ joe.sagepub.com
 jofs.in
 joi.sagepub.com
 jomfp.in
+jomip.org
 jom.sagepub.com
 joomr.org
 jop.ascopubs.org
@@ -1183,6 +1198,7 @@ jptcp.com
 jpubhealth.oxfordjournals.org
 jra.sagepub.com
 jrc.sagepub.com
+jre.sagepub.com
 jrheum.org
 jri.sagepub.com
 jrm.sagepub.com
@@ -1240,6 +1256,7 @@ lan.sagepub.com
 lap.sagepub.com
 laryngologyandvoice.org
 las.sagepub.com
+latindex.unam.mx
 lch.sagepub.com
 ldq.sagepub.com
 ldx.sagepub.com
@@ -1439,6 +1456,7 @@ orm.sagepub.com
 oss.sagepub.com
 oto.sagepub.com
 ovarianresearch.com
+ovid.com
 ovidsp.ovid.com
 ovidsp.tx.ovid.com
 o-wm.com
@@ -1644,6 +1662,7 @@ rstl.royalsocietypublishing.org
 rsw.sagepub.com
 rsx.sagepub.com
 ruralneuropractice.com
+sabouraudia.oxfordjournals.org
 sac.sagepub.com
 sad.sagepub.com
 sae.sagepub.com
@@ -1853,6 +1872,7 @@ urologyannals.com
 usj.sagepub.com
 uspnf.com
 uwpress.org
+vascular-access.info
 vascularcell.com
 vas.sagepub.com
 vaw.sagepub.com
@@ -1959,6 +1979,7 @@ www.archivesofpathology.org
 www.archpublichealth.com
 www.aricjournal.com
 www.arl.org
+www.armand-colin.com
 www.arts-search.com
 www.ascpjournal.org
 www.asianjns.org
@@ -2002,6 +2023,7 @@ www.birpublications.org
 www.bjj.boneandjoint.org.uk
 www.bjjprocs.boneandjoint.org.uk
 www.bjr.boneandjoint.org.uk
+www.bloodjournal.org
 www.bmj.com
 www.bone-abstracts.org
 www.bpded.com
@@ -2027,6 +2049,7 @@ www.cellandbioscience.com
 www.celldiv.com
 www.cellmolbiol.com
 www.cellregenerationjournal.com
+www.cerebellumandataxias.com
 www.chausa.org
 www.chemnetbase.com
 www.chiromt.com
@@ -2046,6 +2069,7 @@ www.clinicalmolecularallergy.com
 www.clinicalpharmacology-ip.com
 www.clinicalproteomicsjournal.com
 www.clinicalsarcomaresearch.com
+www.clinmed.rcpjournal.org
 www.clinmedres.org
 www.clinsci.org
 www.cma.ca
@@ -2074,6 +2098,7 @@ www.diagnosticpathology.org
 www.dictionaryofeconomics.com
 www.dmsjournal.com
 www.drawittoknowit.com
+www.echorespract.com
 www.ecmjournal.org
 www.ectrx.org
 www.ecv.de
@@ -2133,6 +2158,7 @@ www.gsejournal.org
 www.gutpathogens.com
 www.guttmacher.org
 www.gynecendoscopy.org
+www.habelt.de
 www.haematologica.org
 www.harmreductionjournal.com
 www.hccpjournal.com
@@ -2313,6 +2339,7 @@ www.joacp.org
 www.joas.in
 www.jofs.in
 www.jomfp.in
+www.jomip.org
 www.joomr.org
 www.joplink.net
 www.joponline.org
@@ -2361,6 +2388,7 @@ www.knovel.com
 www.labanimal.com
 www.landesbioscience.com
 www.laryngologyandvoice.org
+www.latindex.unam.mx
 www.lexisnexis.com
 www.libraweb.net
 www.liebertonline.com
@@ -2451,6 +2479,7 @@ www.ophthalmology.theclinics.com
 www.opticsinfobase.org
 www.oralhistory.org
 www.ovarianresearch.com
+www.ovid.com
 www.o-wm.com
 www.oxfordartonline.com
 www.oxfordhandbooks.com
@@ -2571,6 +2600,7 @@ www.uptodate.com
 www.urologyannals.com
 www.uspnf.com
 www.uwpress.org
+www.vascular-access.info
 www.vascularcell.com
 www.victorianpopularculture.amdigital.co.uk
 www.virologyj.com

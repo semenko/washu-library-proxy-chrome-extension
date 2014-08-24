@@ -31,6 +31,7 @@ california.universitypressscholarship.com
 cancerimmunolres.aacrjournals.org
 caonline.amcancersoc.org
 catalog.hathitrust.org
+ceaccp.oxfordjournals.org
 cgp.iiarjournals.org
 chicago.universitypressscholarship.com
 ciaonet.org
@@ -67,17 +68,20 @@ gft.sagepub.com
 ghj.sagepub.com
 global.factiva.com
 highwire.stanford.edu
+hsw.oxfordjournals.org
 humanitiesebook.org
 hw.oeaw.ac.at
 ieee.org
 infoweb.newsbank.com
 inthealth.oxfordjournals.org
 intlpress.com
+iop.org
 jbsponline.com
 jhps.oxfordjournals.org
 jlb.oxfordjournals.org
 jmmcr.sgmjournals.org
 jmt.oxfordjournals.org
+jmvm.oxfordjournals.org
 journals.ama.org
 journals.asm.org
 journals.humankinetics.com
@@ -100,6 +104,7 @@ minsocam.org
 mitpress.universitypressscholarship.com
 mmy.oxfordjournals.org
 nationaljournal.com
+necplus.eu
 nop.oxfordjournals.org
 nowpublishers.com
 oclc.org
@@ -134,6 +139,7 @@ royalsocietypublishing.org
 rpd.oxfordjournals.org
 rspl.royalsocietypublishing.org
 rstl.royalsocietypublishing.org
+sabouraudia.oxfordjournals.org
 scitation.aip.org
 search.proquest.com
 sex.sagepub.com
@@ -149,7 +155,6 @@ springerlink3.metapress.com
 trstmh.oxfordjournals.org
 universitypublishingonline.org
 web.ebscohost.com
-wiley.com
 www.18thcjournals.amdigital.co.uk
 www.aaiddjournals.org
 www.accessible.com
@@ -166,6 +171,7 @@ www.anthrosource.net
 www.aps.org
 www.architectureweek.com
 www.archivesdirect.amdigital.co.uk
+www.armand-colin.com
 www.arts-search.com
 www.aspb.org
 www.basarchive.org
@@ -178,7 +184,6 @@ www.chemnetbase.com
 www.ciaonet.org
 www.cjcmh.com
 www.classiques-garnier.com
-www.clinicalethics.com
 www.cms.math.ca
 www.crcnetbase.com
 www.cshprotocols.org
@@ -187,7 +192,6 @@ www.dictionaryofeconomics.com
 www.emeraldinsight.com
 www.empire.amdigital.co.uk
 www.ems-ph.org
-www.endocrine-abstracts.org
 www.equinoxpub.com
 www.esajournals.org
 www.euppublishing.com
@@ -195,6 +199,7 @@ www.everydaylife.amdigital.co.uk
 www.faulkner.com
 www.gender.amdigital.co.uk
 www.geoscienceworld.org
+www.habelt.de
 www.humanitiesebook.org
 www.humankinetics.com
 www.ieee.org
@@ -223,6 +228,7 @@ www.oecd-ilibrary.org
 www.oldcitypublishing.com
 www.olmsonline.de
 www.opticsinfobase.org
+www.ovid.com
 www.oxfordartonline.com
 www.oxfordhandbooks.com
 www.oxfordislamicstudies.com
@@ -236,7 +242,6 @@ www.portlandpress.com
 www.press.uillinois.edu
 www.proquest.com
 www.ps.psychiatryonline.org
-www.psychiatryonline.org
 www.reference-global.com
 www.scientific.net
 www.uwpress.org

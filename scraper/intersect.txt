@@ -13,6 +13,7 @@ acb.sagepub.com
 accessmedicine.com
 accessmedicine.mhmedical.com
 accessphysiotherapy.mhmedical.com
+accesssurgery.com
 accesssurgery.mhmedical.com
 acc.sagepub.com
 ach.sagepub.com
@@ -92,9 +93,11 @@ ard.bmj.com
 ar.iiarjournals.org
 arj.sagepub.com
 arp.sagepub.com
+arr.sagepub.com
 asianannals.ctsnetjournals.org
 asj.sagepub.com
 asm.sagepub.com
+asn.sagepub.com
 asq.sagepub.com
 asr.sagepub.com
 atvb.ahajournals.org
@@ -122,6 +125,7 @@ bjp.rcpsych.org
 bjp.sagepub.com
 bjr.sagepub.com
 bloodjournal.hematologylibrary.org
+bloodjournal.org
 bmb.oxfordjournals.org
 bmj.com
 bmjopen.bmj.com
@@ -202,6 +206,7 @@ ckj.oxfordjournals.org
 cla.sagepub.com
 clincancerres.aacrjournals.org
 clinical.diabetesjournals.org
+clinicalethics.com
 clt.sagepub.com
 cmc.sagepub.com
 cmp.sagepub.com
@@ -240,6 +245,7 @@ ctj.sagepub.com
 ctr.sagepub.com
 ctx.sagepub.com
 cus.sagepub.com
+cvd.sagepub.com
 cvi.asm.org
 das.sagepub.com
 dbm.sagepub.com
@@ -394,11 +400,13 @@ hic.sagepub.com
 hij.sagepub.com
 hip.sagepub.com
 hjb.sagepub.com
+hme.sagepub.com
 hmg.oxfordjournals.org
 hol.sagepub.com
 home.heinonline.org
 hosppeds.aappublications.org
 hpc.sagepub.com
+hpo.sagepub.com
 hpp.sagepub.com
 hpq.sagepub.com
 hpy.sagepub.com
@@ -865,6 +873,7 @@ rc.rcjournal.com
 rd.springer.com
 rea.sagepub.com
 rel.sagepub.com
+reproduction-online.org
 rer.sagepub.com
 reviews.jbjs.org
 rev.sagepub.com
@@ -1037,6 +1046,7 @@ vmj.sagepub.com
 wcx.sagepub.com
 wes.sagepub.com
 wih.sagepub.com
+wiley.com
 wjn.sagepub.com
 wmr.sagepub.com
 wom.sagepub.com
@@ -1071,13 +1081,16 @@ www.biotechniques.com
 www.bjj.boneandjoint.org.uk
 www.bjjprocs.boneandjoint.org.uk
 www.bjr.boneandjoint.org.uk
+www.bloodjournal.org
 www.bmj.com
 www.clinchem.org
+www.clinicalethics.com
 www.clinicalpharmacology-ip.com
 www.clinsci.org
 www.cmaj.ca
 www.degruyter.com
 www.eje-online.org
+www.endocrine-abstracts.org
 www.fasebj.org
 www.futuremedicine.com
 www.genetics.org
@@ -1130,6 +1143,7 @@ www.peh-med.com
 www.pnas.org
 www.portico.org
 www.psychiatrist.com
+www.psychiatryonline.org
 www.publish.csiro.au
 www.r2library.com
 www.rcjournal.com
