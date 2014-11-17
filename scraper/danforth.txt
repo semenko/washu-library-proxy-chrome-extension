@@ -39,7 +39,6 @@ clt.brepolis.net
 cms.math.ca
 collections.chadwyck.com
 congressional.proquest.com
-crcnetbase.com
 cwld.alexanderstreet.com
 dbpia.co.kr
 db.saur.de
@@ -56,6 +55,8 @@ ecsdl.org
 edinburgh.universitypressscholarship.com
 eeb.chadwyck.com
 ejournals.duncker-humblot.de
+emboj.embopress.org
+embor.embopress.org
 eng.oversea.cnki.net
 en.sif.it
 epubs.siam.org
@@ -77,7 +78,6 @@ inthealth.oxfordjournals.org
 intlpress.com
 iop.org
 jbsponline.com
-jhps.oxfordjournals.org
 jlb.oxfordjournals.org
 jmmcr.sgmjournals.org
 jmt.oxfordjournals.org
@@ -104,12 +104,14 @@ minsocam.org
 mitpress.universitypressscholarship.com
 mmy.oxfordjournals.org
 nationaljournal.com
+nber.org
 necplus.eu
 nop.oxfordjournals.org
 nowpublishers.com
 oclc.org
 ojps.aip.org
 openurl.ebscohost.com
+oxfordhandbooks.com
 oxfordjournals.org
 oxfordmedicine.com
 parlipapers.chadwyck.co.uk
@@ -140,7 +142,6 @@ rpd.oxfordjournals.org
 rspl.royalsocietypublishing.org
 rstl.royalsocietypublishing.org
 sabouraudia.oxfordjournals.org
-scitation.aip.org
 search.proquest.com
 sex.sagepub.com
 smf.emath.fr
@@ -160,7 +161,6 @@ www.aaiddjournals.org
 www.accessible.com
 www.acm.org
 www.actapress.com
-www.advancesinpd.com
 www.aeaweb.org
 www.agu.org
 www.aip.org
@@ -185,7 +185,6 @@ www.ciaonet.org
 www.cjcmh.com
 www.classiques-garnier.com
 www.cms.math.ca
-www.crcnetbase.com
 www.cshprotocols.org
 www.dbpia.co.kr
 www.dictionaryofeconomics.com
@@ -213,7 +212,6 @@ www.labanimal.com
 www.lexisnexis.com
 www.libraweb.net
 www.llmcdigital.org
-www.maneyonline.com
 www.massobservation.amdigital.co.uk
 www.mathscipub.org
 www.minsocam.org
@@ -228,7 +226,6 @@ www.oecd-ilibrary.org
 www.oldcitypublishing.com
 www.olmsonline.de
 www.opticsinfobase.org
-www.ovid.com
 www.oxfordartonline.com
 www.oxfordhandbooks.com
 www.oxfordislamicstudies.com
@@ -242,7 +239,9 @@ www.portlandpress.com
 www.press.uillinois.edu
 www.proquest.com
 www.ps.psychiatryonline.org
+www.psychiatrist.com
 www.reference-global.com
+www.rsmjournals.com
 www.scientific.net
 www.uwpress.org
 www.victorianpopularculture.amdigital.co.uk

@@ -1,9 +1,7 @@
 aac.asm.org
-aacrmeetingabstracts.org
 aan.sagepub.com
 aapgrandrounds.aappublications.org
 aapnews.aappublications.org
-aapredbook.aappublications.org
 aas.sagepub.com
 abbs.oxfordjournals.org
 about.jstor.org
@@ -41,6 +39,7 @@ ajcp.ascpjournals.org
 ajc.sagepub.com
 aje.oxfordjournals.org
 aje.sagepub.com
+ajhpcontents.com
 ajh.sagepub.com
 ajl.sagepub.com
 ajm.sagepub.com
@@ -97,7 +96,6 @@ arr.sagepub.com
 asianannals.ctsnetjournals.org
 asj.sagepub.com
 asm.sagepub.com
-asn.sagepub.com
 asq.sagepub.com
 asr.sagepub.com
 atvb.ahajournals.org
@@ -124,7 +122,6 @@ bjo.bmj.com
 bjp.rcpsych.org
 bjp.sagepub.com
 bjr.sagepub.com
-bloodjournal.hematologylibrary.org
 bloodjournal.org
 bmb.oxfordjournals.org
 bmj.com
@@ -213,6 +210,7 @@ cmp.sagepub.com
 cmr.asm.org
 cmx.sagepub.com
 cnc.sagepub.com
+cno.sagepub.com
 cnr.sagepub.com
 cnu.sagepub.com
 coa.sagepub.com
@@ -228,6 +226,7 @@ cps.sagepub.com
 cpt.sagepub.com
 cpx.sagepub.com
 cqx.sagepub.com
+crcnetbase.com
 crc.sagepub.com
 crd.sagepub.com
 cre.sagepub.com
@@ -332,8 +331,6 @@ euc.sagepub.com
 eup.sagepub.com
 eurheartj.oxfordjournals.org
 eurheartjsupp.oxfordjournals.org
-eurjhf.oxfordjournals.org
-eurjhfsupp.oxfordjournals.org
 europace.oxfordjournals.org
 eurpub.oxfordjournals.org
 eur.sagepub.com
@@ -378,6 +375,7 @@ gmc.sagepub.com
 gmt.sagepub.com
 gom.sagepub.com
 gos.sagepub.com
+gph.sagepub.com
 gpi.sagepub.com
 gsp.sagepub.com
 gtd.sagepub.com
@@ -640,6 +638,7 @@ jpr.sagepub.com
 jpubhealth.oxfordjournals.org
 jra.sagepub.com
 jrc.sagepub.com
+jre.sagepub.com
 jri.sagepub.com
 jrm.sagepub.com
 jrn.sagepub.com
@@ -648,7 +647,6 @@ jrs.sagepub.com
 jsa.sagepub.com
 jsd.sagepub.com
 jse.sagepub.com
-jshd.asha.org
 jshd.pubs.asha.org
 jsi.sagepub.com
 jslhr.pubs.asha.org
@@ -846,7 +844,6 @@ psr.sagepub.com
 pss.sagepub.com
 psychiatrist.com
 psychiatryonline.org
-psychnews.psychiatryonline.org
 psychsocgerontology.oxfordjournals.org
 ptjournal.apta.org
 ptx.sagepub.com
@@ -864,6 +861,7 @@ qjmed.oxfordjournals.org
 qrj.sagepub.com
 qsw.sagepub.com
 qualitysafety.bmj.com
+r2library.com
 rac.sagepub.com
 raj.sagepub.com
 ras.sagepub.com
@@ -915,6 +913,7 @@ schizophreniabulletin.oxfordjournals.org
 sch.sagepub.com
 sciencedirect.com
 sciencemag.org
+scitation.aip.org
 scm.sagepub.com
 sco.sagepub.com
 scp.sagepub.com
@@ -928,7 +927,6 @@ sgo.sagepub.com
 sgr.sagepub.com
 shm.oxfordjournals.org
 shm.sagepub.com
-shortreports.rsmjournals.com
 shr.sagepub.com
 sig9perspectives.pubs.asha.org
 sih.sagepub.com
@@ -936,7 +934,6 @@ sim.sagepub.com
 sir.sagepub.com
 site.ebrary.com
 sjp.sagepub.com
-sjs.sagepub.com
 slg.sagepub.com
 slr.sagepub.com
 sls.sagepub.com
@@ -987,7 +984,6 @@ tap.sagepub.com
 tar.sagepub.com
 tas.sagepub.com
 tau.sagepub.com
-tav.sagepub.com
 taw.sagepub.com
 tcn.sagepub.com
 tcp.sagepub.com
@@ -1055,10 +1051,10 @@ wox.sagepub.com
 wpj.sagepub.com
 wustl.library.ingentaconnect.com
 www.aacp.com
-www.aacr.org
 www.aasmnet.org
 www.accessmedicine.com
 www.accesssurgery.com
+www.advancesinpd.com
 www.ajhpcontents.com
 www.ajnr.org
 www.ajronline.org
@@ -1067,11 +1063,9 @@ www.amamanualofstyle.com
 www.annclinlabsci.org
 www.annfammed.org
 www.annualreviews.org
-www.arl.org
 www.atsjournals.org
 www.biochemj.org
 www.biochemsoctrans.org
-www.biolcell.org
 www.biolreprod.org
 www.biomedcentral.com
 www.bioone.org
@@ -1088,6 +1082,7 @@ www.clinicalethics.com
 www.clinicalpharmacology-ip.com
 www.clinsci.org
 www.cmaj.ca
+www.crcnetbase.com
 www.degruyter.com
 www.eje-online.org
 www.endocrine-abstracts.org
@@ -1121,6 +1116,7 @@ www.jultrasoundmed.org
 www.karger.com
 www.landesbioscience.com
 www.liebertonline.com
+www.maneyonline.com
 www.mcponline.org
 www.mdconsult.com
 www.medicaljournals.se
@@ -1142,7 +1138,6 @@ www.pdiconnect.com
 www.peh-med.com
 www.pnas.org
 www.portico.org
-www.psychiatrist.com
 www.psychiatryonline.org
 www.publish.csiro.au
 www.r2library.com

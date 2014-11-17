@@ -1,18 +1,14 @@
 aacijournal.com
 aacp.com
-aacr.org
-aahm.press.jhu.edu
 aasmnet.org
 aci.schattauer.de
 acpjc.acponline.org
 advancesinpd.com
 aeronline.org
 afrjpaedsurg.org
-ahcpub.com
 aidscience.org
 aidsrestherapy.com
 aidsreviews.com
-ajhpcontents.com
 ajhp.org
 ajronline.org
 ajtmh.org
@@ -27,7 +23,6 @@ amsjournal.com
 ancientscienceoflife.org
 anmjournal.com
 annalsafrmed.org
-annals.com
 annals.edu.sg
 annals-general-psychiatry.com
 annals.in
@@ -42,8 +37,6 @@ apocp.org
 archivesofpathology.org
 archpublichealth.com
 aricjournal.com
-arl.org
-ar-sr.rsmjournals.com
 arthritis-research.com
 ascpjournal.org
 asianjns.org
@@ -58,7 +51,6 @@ behavioralandbrainfunctions.com
 biochemj.org
 biochemsoctrans.org
 biodatamining.org
-biolcell.org
 biolmoodanxietydisord.com
 biologicalproceduresonline.com
 biolreprod.org
@@ -105,12 +97,10 @@ cmj.hr
 cmj.org
 cmjournal.org
 conflictandhealth.com
-cpb.ouhsc.edu
 cpcjournal.org
 credoreference.com
 ctajournal.com
 cutis.com
-cvd.rsmjournals.com
 cytojournal.com
 degruyter.com
 dermatology.cdlib.org
@@ -150,7 +140,6 @@ futuremedicine.com
 future-science.com
 g3journal.org
 genetics.org
-genomeintegrity.com
 gigasciencejournal.com
 globalizationandhealth.com
 greenpharmacy.info
@@ -160,7 +149,6 @@ guttmacher.org
 gynecendoscopy.org
 haematologica.org
 harmreductionjournal.com
-hbcpnetbase.com
 hccpjournal.com
 head-face-med.com
 healio.com
@@ -180,8 +168,6 @@ human-resources-health.com
 humgenomics.com
 iasusa.org
 iavireport.org
-icddrb.org
-icmr.nic.in
 icr-heart.com
 idoj.in
 ijabmr.org
@@ -244,7 +230,6 @@ jampress.org
 jaoa.org
 japmaonline.org
 japtr.org
-jasbsci.com
 jbc.org
 jbioleng.org
 jbiomedsci.com
@@ -256,6 +241,7 @@ jclinbioinformatics.com
 jcmr-online.com
 jcnonweb.com
 jcvjs.com
+jcytol.org
 jdeonline.in
 jdmdonline.com
 jeccr.com
@@ -277,9 +263,7 @@ jmedicalcasereports.com
 jmidlifehealth.org
 jmolecularsignaling.com
 jmp.org.in
-jmss.mui.ac.ir
 jnanobiotechnology.com
-jnatpharm.org
 jnccn.org
 jneurodevdisorders.com
 jneuroengrehab.com
@@ -311,6 +295,7 @@ jrheum.org
 jsad.com
 jsnm.org
 jstage.jst.go.jp
+jstcr.org
 jultrasoundmed.org
 karger.com
 labanimal.com
@@ -322,6 +307,7 @@ lipidworld.com
 longevityandhealthspan.com
 lungindia.com
 malariajournal.com
+maneyonline.com
 mcmla.org
 mdconsult.com
 meajo.org
@@ -347,6 +333,7 @@ myilibrary.com
 nap.edu
 neuraldevelopment.com
 neurologyindia.com
+newslettersonline.com
 nigeriamedj.com
 njcponline.com
 njms.in
@@ -381,13 +368,11 @@ polymersdatabase.com
 pophealthmetrics.com
 proteomesci.com
 pssjournal.com
-psychiatryinvestigation.org
-psychnews.org
 publications.cpa-apc.org
 publish.csiro.au
-r2library.com
 rbej.com
 rcjournal.com
+redbook.solutions.aap.org
 reproductive-health-journal.com
 reproductivemedicine.com
 respiratory-research.com
@@ -436,7 +421,6 @@ transplantationresearch.com
 traumamanagement.org
 trialsjournal.com
 tropicalparasitology.org
-tumorionline.it
 ualberta.ca
 uptodate.com
 urologyannals.com
@@ -457,7 +441,6 @@ www.alphaomegaalpha.org
 www.amhsr.org
 www.amjorthopedics.com
 www.amsjournal.com
-www.annals.com
 www.annals-general-psychiatry.com
 www.annals.in
 www.annalsofian.org
@@ -468,6 +451,7 @@ www.archivesofpathology.org
 www.archpublichealth.com
 www.aricjournal.com
 www.ascpjournal.org
+www.asianjns.org
 www.asir-journal.com
 www.asnneuro.org
 www.audrehab.org
@@ -492,6 +476,7 @@ www.cellandbioscience.com
 www.celldiv.com
 www.cellmolbiol.com
 www.cellregenerationjournal.com
+www.chausa.org
 www.chiromt.com
 www.ciliajournal.com
 www.clinexprheumatol.org
@@ -536,7 +521,6 @@ www.fibrogenesis.com
 www.flavourjournal.com
 www.fluidsbarrierscns.com
 www.future-science.com
-www.genomeintegrity.com
 www.gigasciencejournal.com
 www.globalizationandhealth.com
 www.gsejournal.org
@@ -551,12 +535,13 @@ www.herpesviridae.org
 www.hh.um.es
 www.hip-int.com
 www.hkmj.org
+www.horizonpress.com
 www.hormones.gr
 www.hqlo.com
 www.human-resources-health.com
 www.humgenomics.com
 www.iasusa.org
-www.icmr.nic.in
+www.iavireport.org
 www.icr-heart.com
 www.idoj.in
 www.ijabmr.org
@@ -585,14 +570,17 @@ www.ijp-online.com
 www.ijponline.net
 www.ijps.org
 www.ijri.org
+www.ijstd.org
 www.ijtrichology.com
 www.ima.org.il
 www.immunityageing.com
+www.indianjgastro.com
 www.indianjmedsci.org
 www.indianjnephrol.org
 www.indianjpsychiatry.org
 www.indianjurol.com
 www.indianpediatrics.net
+www.industrialpsychiatry.org
 www.infectagentscancer.com
 www.intarchmed.com
 www.internationalbreastfeedingjournal.com
@@ -603,7 +591,6 @@ www.ismni.org
 www.jabfm.org
 www.jacmp.org
 www.jaim.in
-www.jasbsci.com
 www.jbioleng.org
 www.jbiomedsci.com
 www.jbiomedsem.com
@@ -611,16 +598,20 @@ www.jcasonline.com
 www.jclinbioinformatics.com
 www.jcnonweb.com
 www.jcvjs.com
+www.jcytol.org
 www.jdmdonline.com
 www.jeccr.com
 www.jevtonline.org
+www.jfcmonline.com
 www.jfootankleres.com
 www.jfponline.com
 www.jgld.ro
 www.jgme.org
 www.jhoonline.org
 www.jhrsonline.org
+www.jiaps.com
 www.jissn.com
+www.jlponline.org
 www.jmedicalcasereports.com
 www.jmolecularsignaling.com
 www.jnanobiotechnology.com
@@ -630,6 +621,7 @@ www.jneuroinflammation.com
 www.jnrbm.com
 www.jnsbm.org
 www.joacp.org
+www.jomfp.in
 www.joplink.net
 www.joponline.org
 www.josonline.org
@@ -639,6 +631,7 @@ www.journal-inflammation.com
 www.journalofmas.com
 www.journalofvision.org
 www.journalsleep.org
+www.jpathinformatics.org
 www.jpbsonline.org
 www.jpgmonline.com
 www.jpharmacol.com
@@ -647,6 +640,7 @@ www.jrheum.org
 www.lifescied.org
 www.lipidworld.com
 www.longevityandhealthspan.com
+www.lungindia.com
 www.malariajournal.com
 www.meajo.org
 www.medicalgasresearch.com
@@ -668,6 +662,7 @@ www.neuraldevelopment.com
 www.neurologyindia.com
 www.nigeriamedj.com
 www.njcponline.com
+www.njms.in
 www.noiseandhealth.org
 www.nutritionandmetabolism.com
 www.nutritionj.com
@@ -703,7 +698,6 @@ www.schattauer.de
 www.scirp.org
 www.scoliosisjournal.com
 www.scopus.com
-www.searo.who.int
 www.sjkdt.org
 www.sjtrem.com
 www.skeletalmusclejournal.com
@@ -726,8 +720,8 @@ www.transplantationresearch.com
 www.traumamanagement.org
 www.trialsjournal.com
 www.tropicalparasitology.org
-www.tumorionline.it
 www.uptodate.com
+www.urologyannals.com
 www.uspnf.com
 www.vascularcell.com
 www.virologyj.com
