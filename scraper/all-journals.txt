@@ -55,6 +55,8 @@ afrjpaedsurg.org
 afs.sagepub.com
 ageing.oxfordjournals.org
 agu.org
+ahcmedia.com
+ahd.sagepub.com
 ahh.sagepub.com
 aidscience.org
 aidsrestherapy.com
@@ -114,6 +116,7 @@ amsjournal.com
 ams.org
 ancientscienceoflife.org
 ang.sagepub.com
+animalsciencepublications.org
 ani.sagepub.com
 anj.sagepub.com
 anmjournal.com
@@ -128,6 +131,7 @@ annals.org
 annalspc.com
 annclinlabsci.org
 ann-clinmicrob.com
+annee-philologique.com
 annemergmed.com
 annfammed.org
 annhyg.oxfordjournals.org
@@ -194,9 +198,11 @@ asianjns.org
 asiapharmaceutics.info
 asir-journal.com
 asja.eg.net
+asj.oxfordjournals.org
 asj.sagepub.com
 aslo.org
 asmedigitalcollection.asme.org
+asmr.eg.net
 asm.sagepub.com
 asmscience.org
 asnneuro.org
@@ -259,12 +265,14 @@ bji.sagepub.com
 bjj.boneandjoint.org.uk
 bjjprocs.boneandjoint.org.uk
 bjo.bmj.com
+bjo.sagepub.com
 bjp.rcpsych.org
 bjp.sagepub.com
 bjr.boneandjoint.org.uk
 bjr.sagepub.com
 bloodjournal.org
 bmb.oxfordjournals.org
+bmbreports.org
 bmj.com
 bmjopen.bmj.com
 bmjopenrespres.bmj.com
@@ -378,6 +386,7 @@ cirrie.buffalo.edu
 cis.sagepub.com
 cjasn.asnjournals.org
 cjb.sagepub.com
+cjcjournal.com
 cjcmh.com
 cjem-online.ca
 cjhr.org
@@ -400,6 +409,7 @@ clinicalhypertension.com
 clinicalimagingscience.org
 clinicalkey.com
 clinicalmolecularallergy.com
+clinicalmovementdisorders.com
 clinicalpharmacology-ip.com
 clinicalproteomicsjournal.com
 clinicalsarcomaresearch.com
@@ -437,6 +447,7 @@ cpcjournal.org
 cpd.sagepub.com
 cpj.sagepub.com
 cp.neurology.org
+cpptjournal.org
 cpr.sagepub.com
 cps.sagepub.com
 cpt.sagepub.com
@@ -516,6 +527,7 @@ dvd.sagepub.com
 dvr.sagepub.com
 dx.doi.org
 eab.sagepub.com
+eandv.org
 eaq.sagepub.com
 eau.sagepub.com
 ebm.bmj.com
@@ -526,6 +538,7 @@ ebooks.spiedigitallibrary.org
 ebooks.thieme.com
 ebx.sagepub.com
 ec.asm.org
+ecco-jcc.oxfordjournals.org
 echorespract.com
 ecl.sagepub.com
 ecmjournal.org
@@ -546,6 +559,7 @@ eeg.sagepub.com
 eep.sagepub.com
 egyptretinaj.com
 ehjcimaging.oxfordjournals.org
+ehjcvp.oxfordjournals.org
 ehjournal.net
 ehoonline.org
 ehp.sagepub.com
@@ -565,9 +579,11 @@ ejmii.com
 ejo.eg.net
 ejournals.duncker-humblot.de
 ejournals.library.ualberta.ca
+ejs.eg.net
 ejt.sagepub.com
 ejw.sagepub.com
 e-kjs.org
+elibrary.chbeck.de
 elis.sk
 ema.sagepub.com
 embase.com
@@ -584,6 +600,8 @@ en.diagnosispro.com
 endocrine-abstracts.org
 endocrineconnections.com
 endo-society.org
+eneuro.org
+eneurosurgery.thieme.com
 eng.oversea.cnki.net
 eng.sagepub.com
 en.sif.it
@@ -629,6 +647,8 @@ euppublishing.com
 eup.sagepub.com
 eurheartj.oxfordjournals.org
 eurheartjsupp.oxfordjournals.org
+eurjhf.oxfordjournals.org
+eurjhfsupp.oxfordjournals.org
 eurjmedres.com
 eur-j-ophthalmol.com
 europace.oxfordjournals.org
@@ -652,6 +672,8 @@ faulkner.com
 fb.cuni.cz
 fbr.sagepub.com
 fcx.sagepub.com
+femsle.oxfordjournals.org
+femsre.oxfordjournals.org
 fg.bmj.com
 fibrogenesis.com
 find.galegroup.com
@@ -667,6 +689,7 @@ frc.sagepub.com
 fst.sagepub.com
 fth.sagepub.com
 fty.sagepub.com
+fungalbiolbiotech.com
 futuremedicine.com
 future-science.com
 g3journal.org
@@ -851,6 +874,7 @@ ijpm.info
 ijpmonline.org
 ijp-online.com
 ijponline.net
+ijp.sagepub.com
 ijpsonline.com
 ijps.org
 ijrh.org
@@ -891,6 +915,7 @@ infotrac.galegroup.com
 infoweb.newsbank.com
 ingentaconnect.com
 ini.sagepub.com
+in-silico-cell-and-tissue-science.com
 intarchmed.com
 internationalbreastfeedingjournal.com
 internationalshoulderjournal.org
@@ -905,6 +930,7 @@ investigativegenetics.com
 ioc.sagepub.com
 iop.org
 iopscience.iop.org
+iospress.metapress.com
 iovs.org
 ips.sagepub.com
 iqq.sagepub.com
@@ -947,6 +973,7 @@ jamaevidence.com
 jama.jamanetwork.com
 jamanetwork.com
 jamia.bmj.com
+jamia.oxfordjournals.org
 jampress.org
 jam.sagepub.com
 jaoa.org
@@ -999,6 +1026,7 @@ jcm.sagepub.com
 jcnonweb.com
 jcn.sagepub.com
 jco.ascopubs.org
+jcompassionatehc.com
 jcor.in
 jcp.bmj.com
 jcp.sagepub.com
@@ -1033,6 +1061,7 @@ jen.sagepub.com
 jep.sagepub.com
 jer.sagepub.com
 jes.sagepub.com
+jet.sagepub.com
 jevtonline.org
 jfcmonline.com
 jfe.sagepub.com
@@ -1090,6 +1119,7 @@ jlponline.org
 jlr.org
 jlr.sagepub.com
 jls.sagepub.com
+jmbe.bme.ncku.edu.tw
 jmb.sagepub.com
 jmcb.oxfordjournals.org
 jmc.sagepub.com
@@ -1099,6 +1129,7 @@ jmedicalcasereports.com
 jmedsoc.org
 jmedtropics.org
 jme.endocrinology-journals.org
+jme.oxfordjournals.org
 jme.sagepub.com
 jmg.bmj.com
 jmgims.co.in
@@ -1150,6 +1181,7 @@ jod.sagepub.com
 joe.endocrinology-journals.org
 joe.sagepub.com
 jofs.in
+joh.sagepub.com
 joi.sagepub.com
 jomfp.in
 jomip.org
@@ -1229,6 +1261,7 @@ jrp.sagepub.com
 jrs.sagepub.com
 jsad.com
 jsa.sagepub.com
+jscires.org
 jscisociety.com
 jsd.sagepub.com
 jse.sagepub.com
@@ -1333,10 +1366,12 @@ mcx.sagepub.com
 mdconsult.com
 mdm.sagepub.com
 meajo.org
+meded.lwwhealthlibrary.com
 medicalgasresearch.com
 medicaljournals.se
 medicine.mcgill.ca
 med.kobe-u.ac.jp
+medlaw.oxfordjournals.org
 mej.sagepub.com
 memo.cgu.edu.tw
 metapress.com
@@ -1354,7 +1389,9 @@ mitpressjournals.org
 mitpress.universitypressscholarship.com
 mjdrdypu.org
 mj.med.u-tokai.ac.jp
+mj-med-u-tokai.com
 mlajournals.org
+mlalrg.org
 mlanet.org
 mlcd.in
 mli.sagepub.com
@@ -1415,11 +1452,13 @@ ner.sagepub.com
 netlibrary.com
 neuraldevelopment.com
 neurologyindia.com
+neurology.mhmedical.com
 neurology.org
 neuro-oncology.oxfordjournals.org
 neuro.psychiatryonline.org
 newslettersonline.com
 nho.sagepub.com
+nictob.oxfordjournals.org
 nigeriamedj.com
 nigerianjsurg.com
 nigjcardiol.org
@@ -1444,6 +1483,7 @@ ntr.oxfordjournals.org
 nuclmed.web.auth.gr
 nutritionandmetabolism.com
 nutritionj.com
+nutritionreviews.oxfordjournals.org
 nvs.sagepub.com
 nyuhjdbulletin.org
 nzma.org.nz
@@ -1466,6 +1506,7 @@ oldcitypublishing.com
 olmsonline.de
 ommbid.com
 ommbid.mhmedical.com
+oncology.jamanetwork.com
 onlinejets.org
 onlinelibrary.wiley.com
 online.liebertpub.com
@@ -1481,8 +1522,10 @@ oralhistory.org
 org.sagepub.com
 orm.sagepub.com
 oss.sagepub.com
+otj.sagepub.com
 oto.sagepub.com
 ovarianresearch.com
+ovidmd.ovid.com
 ovidsp.ovid.com
 ovidsp.tx.ovid.com
 o-wm.com
@@ -1520,6 +1563,7 @@ peds.oxfordjournals.org
 peh-med.com
 pen.sagepub.com
 perioperativemedicinejournal.com
+perpetual3.elsevier.com.s3.amazonaws.com
 perspectivesinmedicine.cshlp.org
 pfr.sagepub.com
 pharmrev.aspetjournals.org
@@ -1579,6 +1623,7 @@ prd.aps.org
 pre.aps.org
 precedings.nature.com
 press.endocrine.org
+pressreader.com
 press.uillinois.edu
 preventionportal.aacrjournals.org
 prf.sagepub.com
@@ -1695,6 +1740,7 @@ sae.sagepub.com
 sageke.sciencemag.org
 sagepub.com
 sag.sagepub.com
+sajcc.org.za
 sar.sagepub.com
 sas.sagepub.com
 saudija.org
@@ -1744,6 +1790,7 @@ sjkdt.org
 sjopthal.net
 sjosm.org
 sjp.sagepub.com
+sjs.sagepub.com
 sjtrem.com
 sjweh.fi
 skeletalmusclejournal.com
@@ -1777,15 +1824,18 @@ sph.sagepub.com
 spi.sagepub.com
 spp.sagepub.com
 spq.sagepub.com
+springer.com
 springerlink3.metapress.com
 springerlink.com
 springerprotocols.com
 spr.sagepub.com
 sri.sagepub.com
+srpc.ca
 ssajm.org
 ssc.sagepub.com
 ssi.sagepub.com
 sss.sagepub.com
+standardsingenomics.com
 standardsingenomics.org
 std.sagepub.com
 stemcellres.com
@@ -1819,6 +1869,7 @@ tap.sagepub.com
 tar.sagepub.com
 tas.sagepub.com
 tau.sagepub.com
+tav.sagepub.com
 taw.sagepub.com
 tbiomed.com
 tcn.sagepub.com
@@ -1826,6 +1877,7 @@ tcp.sagepub.com
 tcr.sagepub.com
 tcrt.org
 tcs.sagepub.com
+tct.sagepub.com
 tde.sagepub.com
 tech.snmjournals.org
 tec.sagepub.com
@@ -1911,6 +1963,7 @@ vir.sgmjournals.org
 vis.sagepub.com
 vmj.sagepub.com
 v-r.de
+vr-elibrary.de
 wajradiology.org
 waojournal.org
 wcx.sagepub.com
@@ -1949,6 +2002,7 @@ www.aeaweb.org
 www.aeronline.org
 www.afrjpaedsurg.org
 www.agu.org
+www.ahcmedia.com
 www.aidsrestherapy.com
 www.aidsreviews.com
 www.aip.org
@@ -1974,6 +2028,7 @@ www.amjorthopedics.com
 www.amsjournal.com
 www.ams.org
 www.ancientscienceoflife.org
+www.animalsciencepublications.org
 www.anmjournal.com
 www.annalsafrmed.org
 www.annals-general-psychiatry.com
@@ -1982,6 +2037,7 @@ www.annalsofian.org
 www.annalspc.com
 www.annclinlabsci.org
 www.ann-clinmicrob.com
+www.annee-philologique.com
 www.annemergmed.com
 www.annfammed.org
 www.annualreviews.org
@@ -2009,6 +2065,7 @@ www.asianjns.org
 www.asiapharmaceutics.info
 www.asir-journal.com
 www.asja.eg.net
+www.asmr.eg.net
 www.asmscience.org
 www.asnneuro.org
 www.aspb.org
@@ -2047,6 +2104,7 @@ www.bjj.boneandjoint.org.uk
 www.bjjprocs.boneandjoint.org.uk
 www.bjr.boneandjoint.org.uk
 www.bloodjournal.org
+www.bmbreports.org
 www.bmj.com
 www.bone-abstracts.org
 www.bpded.com
@@ -2079,6 +2137,7 @@ www.chiromt.com
 www.ciaonet.org
 www.ciliajournal.com
 www.circumpolarhealthjournal.net
+www.cjcjournal.com
 www.cjcmh.com
 www.cjem-online.ca
 www.cjhr.org
@@ -2093,6 +2152,7 @@ www.clinicalhypertension.com
 www.clinicalimagingscience.org
 www.clinicalkey.com
 www.clinicalmolecularallergy.com
+www.clinicalmovementdisorders.com
 www.clinicalpharmacology-ip.com
 www.clinicalproteomicsjournal.com
 www.clinicalsarcomaresearch.com
@@ -2124,6 +2184,7 @@ www.diagnosticpathology.org
 www.dictionaryofeconomics.com
 www.dmsjournal.com
 www.drawittoknowit.com
+www.eandv.org
 www.echorespract.com
 www.ecmjournal.org
 www.ectrx.org
@@ -2141,6 +2202,7 @@ www.ejdv.eg.net
 www.eje-online.org
 www.ejmii.com
 www.ejo.eg.net
+www.ejs.eg.net
 www.elis.sk
 www.embase.com
 www.emeraldinsight.com
@@ -2176,6 +2238,7 @@ www.faulkner.com
 www.fibrogenesis.com
 www.flavourjournal.com
 www.fluidsbarrierscns.com
+www.fungalbiolbiotech.com
 www.futuremedicine.com
 www.future-science.com
 www.gastrojournal.org
@@ -2297,6 +2360,7 @@ www.infectagentscancer.com
 www.informahealthcarebooks.com
 www.info.sciencedirect.com
 www.ingentaconnect.com
+www.in-silico-cell-and-tissue-science.com
 www.intarchmed.com
 www.internationalbreastfeedingjournal.com
 www.internationalshoulderjournal.org
@@ -2335,7 +2399,9 @@ www.jci.org
 www.jcircadianrhythms.com
 www.jclinbioinformatics.com
 www.jclpca.org
+www.jcmr-online.com
 www.jcnonweb.com
+www.jcompassionatehc.com
 www.jcor.in
 www.jcvjs.com
 www.jcytol.org
@@ -2421,6 +2487,7 @@ www.jptcp.com
 www.jrheum.org
 www.jrpp.net
 www.jsad.com
+www.jscires.org
 www.jscisociety.com
 www.jsnm.org
 www.jstage.jst.go.jp
@@ -2469,7 +2536,9 @@ www.minervamedica.it
 www.minsocam.org
 www.mitpressjournals.org
 www.mjdrdypu.org
+www.mj-med-u-tokai.com
 www.mlajournals.org
+www.mlalrg.org
 www.mlanet.org
 www.mlcd.in
 www.mmrjournal.org
@@ -2567,6 +2636,7 @@ www.pophealthmetrics.com
 www.portico.org
 www.portlandpress.com
 www.practicalreviews.com
+www.pressreader.com
 www.press.uillinois.edu
 www.proquest.com
 www.proteomesci.com
@@ -2592,6 +2662,7 @@ www.rsc.org
 www.rsmjournals.com
 www.rsmpress.co.uk
 www.sagepub.com
+www.sajcc.org.za
 www.saudija.org
 www.saudijgastro.com
 www.saudijhealthsci.org
@@ -2617,9 +2688,12 @@ www.skintherapyletter.com
 www.slmms.org
 www.smjonline.org
 www.smw.ch
+www.springer.com
 www.springerlink.com
 www.springerprotocols.com
+www.srpc.ca
 www.ssajm.org
+www.standardsingenomics.com
 www.standardsingenomics.org
 www.studiesinmycology.org
 www.substanceabusepolicy.com
@@ -2663,6 +2737,7 @@ www.vascularcell.com
 www.victorianpopularculture.amdigital.co.uk
 www.virologyj.com
 www.v-r.de
+www.vr-elibrary.de
 www.wajradiology.org
 www.waojournal.org
 www.wiley.com

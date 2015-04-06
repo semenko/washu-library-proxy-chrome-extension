@@ -21,6 +21,7 @@ arc.aiaa.org
 artfl-project.uchicago.edu
 arts-search.com
 ascelibrary.org
+asj.oxfordjournals.org
 aslo.org
 asmedigitalcollection.asme.org
 asp6new.alexanderstreet.com
@@ -51,9 +52,11 @@ dukejournals.org
 ebooks.abc-clio.com
 ebooks.cambridge.org
 ebooks.spiedigitallibrary.org
+ecco-jcc.oxfordjournals.org
 ecsdl.org
 edinburgh.universitypressscholarship.com
 eeb.chadwyck.com
+ehjcvp.oxfordjournals.org
 ejournals.duncker-humblot.de
 emboj.embopress.org
 embor.embopress.org
@@ -61,6 +64,8 @@ eng.oversea.cnki.net
 en.sif.it
 epubs.siam.org
 esajournals.org
+femsle.oxfordjournals.org
+femsre.oxfordjournals.org
 gb.oversea.cnki.net
 genomea.asm.org
 geoscienceworld.org
@@ -77,8 +82,10 @@ infoweb.newsbank.com
 inthealth.oxfordjournals.org
 intlpress.com
 iop.org
+jamia.oxfordjournals.org
 jbsponline.com
 jlb.oxfordjournals.org
+jme.oxfordjournals.org
 jmmcr.sgmjournals.org
 jmt.oxfordjournals.org
 jmvm.oxfordjournals.org
@@ -100,16 +107,20 @@ literature.proquest.com
 luther.chadwyck.com
 mathscipub.org
 mcd.sagepub.com
+medlaw.oxfordjournals.org
 minsocam.org
 mitpress.universitypressscholarship.com
 mmy.oxfordjournals.org
 nationaljournal.com
 nber.org
 necplus.eu
+nictob.oxfordjournals.org
 nop.oxfordjournals.org
 nowpublishers.com
+nutritionreviews.oxfordjournals.org
 oclc.org
 ojps.aip.org
+oldcitypublishing.com
 openurl.ebscohost.com
 oxfordhandbooks.com
 oxfordjournals.org
@@ -134,7 +145,6 @@ psycnet.apa.org
 publish.aps.org
 publishing.aip.org
 pubsonline.informs.org
-qir.bmj.com
 referenceworks.brillonline.com
 rotunda.upress.virginia.edu
 royalsocietypublishing.org
@@ -152,6 +162,7 @@ solomon.bltc.alexanderstreet.com
 solomon.nadr.alexanderstreet.com
 solomon.nwld.alexanderstreet.com
 solomon.wodr.alexanderstreet.com
+springer.com
 springerlink3.metapress.com
 trstmh.oxfordjournals.org
 universitypublishingonline.org
@@ -167,6 +178,7 @@ www.aip.org
 www.amdigital.co.uk
 www.americanwest.amdigital.co.uk
 www.ams.org
+www.annee-philologique.com
 www.anthrosource.net
 www.aps.org
 www.architectureweek.com
@@ -202,13 +214,11 @@ www.habelt.de
 www.humanitiesebook.org
 www.humankinetics.com
 www.ieee.org
-www.ijdb.ehu.es
 www.indiaraj.amdigital.co.uk
 www.iop.org
 www.itergateway.org
 www.journals.asm.org
 www.knovel.com
-www.labanimal.com
 www.lexisnexis.com
 www.libraweb.net
 www.llmcdigital.org
@@ -216,6 +226,7 @@ www.massobservation.amdigital.co.uk
 www.mathscipub.org
 www.minsocam.org
 www.mlajournals.org
+www.mlalrg.org
 www.nber.org
 www.ncte.org
 www.necplus.eu
@@ -236,6 +247,7 @@ www.palgrave-journals.com
 www.pdcnet.org
 www.polymersdatabase.com
 www.portlandpress.com
+www.pressreader.com
 www.press.uillinois.edu
 www.proquest.com
 www.ps.psychiatryonline.org
@@ -243,6 +255,7 @@ www.psychiatrist.com
 www.reference-global.com
 www.rsmjournals.com
 www.scientific.net
+www.springer.com
 www.uwpress.org
 www.victorianpopularculture.amdigital.co.uk
 www.v-r.de

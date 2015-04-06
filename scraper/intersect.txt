@@ -31,6 +31,7 @@ aes.sagepub.com
 aff.sagepub.com
 afs.sagepub.com
 ageing.oxfordjournals.org
+ahd.sagepub.com
 ahh.sagepub.com
 aja.pubs.asha.org
 aja.sagepub.com
@@ -119,6 +120,7 @@ bja.oxfordjournals.org
 bji.sagepub.com
 bjj.boneandjoint.org.uk
 bjo.bmj.com
+bjo.sagepub.com
 bjp.rcpsych.org
 bjp.sagepub.com
 bjr.sagepub.com
@@ -331,6 +333,8 @@ euc.sagepub.com
 eup.sagepub.com
 eurheartj.oxfordjournals.org
 eurheartjsupp.oxfordjournals.org
+eurjhf.oxfordjournals.org
+eurjhfsupp.oxfordjournals.org
 europace.oxfordjournals.org
 eurpub.oxfordjournals.org
 eur.sagepub.com
@@ -437,6 +441,7 @@ ijg.sagepub.com
 ijl.sagepub.com
 ijm.sagepub.com
 ijo.sagepub.com
+ijp.sagepub.com
 ijr.sagepub.com
 ijs.sagepub.com
 ijs.sgmjournals.org
@@ -454,6 +459,7 @@ intqhc.oxfordjournals.org
 int.sagepub.com
 ioc.sagepub.com
 iopscience.iop.org
+iospress.metapress.com
 ips.sagepub.com
 iqq.sagepub.com
 ire.sagepub.com
@@ -485,6 +491,7 @@ jama.jamanetwork.com
 jamanetwork.com
 jamia.bmj.com
 jam.sagepub.com
+jaoa.org
 jap.physiology.org
 jap.sagepub.com
 jar.sagepub.com
@@ -610,6 +617,7 @@ joc.sagepub.com
 jod.sagepub.com
 joe.endocrinology-journals.org
 joe.sagepub.com
+joh.sagepub.com
 joi.sagepub.com
 jom.sagepub.com
 jop.ascopubs.org
@@ -745,6 +753,7 @@ nej.sagepub.com
 neonatalnetwork.metapress.com
 neoreviews.aappublications.org
 ner.sagepub.com
+neurology.mhmedical.com
 neurology.org
 neuro-oncology.oxfordjournals.org
 neuro.psychiatryonline.org
@@ -764,6 +773,7 @@ oem.bmj.com
 ohr.oxfordjournals.org
 ojs.sagepub.com
 ommbid.mhmedical.com
+oncology.jamanetwork.com
 onlinelibrary.wiley.com
 online.liebertpub.com
 online.sagepub.com
@@ -774,6 +784,7 @@ opr.sagepub.com
 org.sagepub.com
 orm.sagepub.com
 oss.sagepub.com
+otj.sagepub.com
 oto.sagepub.com
 ovidsp.ovid.com
 ovidsp.tx.ovid.com
@@ -856,6 +867,7 @@ pvs.sagepub.com
 pwm.sagepub.com
 pwq.sagepub.com
 qhr.sagepub.com
+qir.bmj.com
 qix.sagepub.com
 qjmed.oxfordjournals.org
 qrj.sagepub.com
@@ -934,6 +946,7 @@ sim.sagepub.com
 sir.sagepub.com
 site.ebrary.com
 sjp.sagepub.com
+sjs.sagepub.com
 slg.sagepub.com
 slr.sagepub.com
 sls.sagepub.com
@@ -984,11 +997,13 @@ tap.sagepub.com
 tar.sagepub.com
 tas.sagepub.com
 tau.sagepub.com
+tav.sagepub.com
 taw.sagepub.com
 tcn.sagepub.com
 tcp.sagepub.com
 tcr.sagepub.com
 tcs.sagepub.com
+tct.sagepub.com
 tde.sagepub.com
 tech.snmjournals.org
 tec.sagepub.com
@@ -1093,6 +1108,7 @@ www.guttmacher.org
 www.head-face-med.com
 www.healio.com
 www.heinonline.org
+www.ijdb.ehu.es
 www.implementationscience.com
 www.info.sciencedirect.com
 www.ingentaconnect.com
@@ -1114,6 +1130,7 @@ www.jstage.jst.go.jp
 www.jstor.org
 www.jultrasoundmed.org
 www.karger.com
+www.labanimal.com
 www.landesbioscience.com
 www.liebertonline.com
 www.maneyonline.com
