@@ -16,6 +16,17 @@ fintersect = open('intersect.txt', 'w')
 fbecker = open('becker.txt', 'w')
 fdanforth = open('danforth.txt', 'w')
 
+
+def valid_becker_domain_list(requested_domain):
+    """
+    Returns possibly valid URLs from the beckerproxy server.
+    """
+    valid_list = []
+    valid_list.append("https://login.beckerproxy.wustl.edu/login?url=http://" + line + "/")
+    valid_list.append("https://beckerproxy.wustl.edu/login?url=http://" + line + "/")
+    return valid_list
+
+
 for line in open('all-journals.txt', 'r'):
     line = line.rstrip()
     print line
@@ -33,7 +44,7 @@ for line in open('all-journals.txt', 'r'):
             print("Failure! %s" % line)
             time.sleep(0.1)
         
-    if (b.getcode() != 200 or b.geturl() != "https://login.beckerproxy.wustl.edu/login?url=http://" + line + "/"):
+    if (b.getcode() != 200 or b.geturl() not in valid_becker_domain_list(line)):
         becker = False
 
     # Check Danforth
