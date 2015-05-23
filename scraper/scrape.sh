@@ -32,6 +32,7 @@ grep -v "Open" becker-raw.html | grep -oE "U=http[^\"]+" | grep -oE "%3A%2F%2F.*
 
 curl "http://je5qh2yg7p.search.serialssolutions.com/" >> danforth-raw.html
 
+# Extract the URLs from Danforth
 grep -iv "open" danforth-raw.html | grep "libproxy" | grep -oE "U=http[^\"]+" | grep -oE "%3A%2F%2F.*" | grep -oE "^%3A%2F%2F[^%]+" | cut -b10- | uniq >> scraped-journals.txt
 grep -iv "open" danforth-raw.html | grep "libproxy" | grep -oE "url%3Dhttp[^\"]+" | grep -oE "%3A%2F%2F.*" | grep -oE "^%3A%2F%2F[^%]+" | cut -b10- | uniq >> scraped-journals.txt
 

@@ -18,6 +18,7 @@ apps.brepolis.net
 aps.org
 apt.rcpsych.org
 arc.aiaa.org
+archivists.metapress.com
 artfl-project.uchicago.edu
 arts-search.com
 ascelibrary.org
@@ -58,10 +59,12 @@ edinburgh.universitypressscholarship.com
 eeb.chadwyck.com
 ehjcvp.oxfordjournals.org
 ejournals.duncker-humblot.de
+elibrary.chbeck.de
 emboj.embopress.org
 embor.embopress.org
 eng.oversea.cnki.net
 en.sif.it
+epi.sagepub.com
 epubs.siam.org
 esajournals.org
 femsle.oxfordjournals.org
@@ -90,6 +93,7 @@ jmmcr.sgmjournals.org
 jmt.oxfordjournals.org
 jmvm.oxfordjournals.org
 journals.ama.org
+journals.aps.org
 journals.asm.org
 journals.humankinetics.com
 journals.impan.gov.pl
@@ -154,6 +158,7 @@ rstl.royalsocietypublishing.org
 sabouraudia.oxfordjournals.org
 search.proquest.com
 sex.sagepub.com
+sfaajournals.net
 smf.emath.fr
 solomon.aadr.alexanderstreet.com
 solomon.afso.alexanderstreet.com
@@ -175,6 +180,7 @@ www.actapress.com
 www.aeaweb.org
 www.agu.org
 www.aip.org
+www.akademiai.com
 www.amdigital.co.uk
 www.americanwest.amdigital.co.uk
 www.ams.org
@@ -259,4 +265,5 @@ www.springer.com
 www.uwpress.org
 www.victorianpopularculture.amdigital.co.uk
 www.v-r.de
+www.vr-elibrary.de
 zs.thulb.uni-jena.de

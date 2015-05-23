@@ -74,6 +74,7 @@ ant.sagepub.com
 aop.sagepub.com
 aor.sagepub.com
 apa.sagepub.com
+apc.sagepub.com
 aph.sagepub.com
 apj.sagepub.com
 apm.sagepub.com
@@ -155,6 +156,7 @@ cardiovascres.oxfordjournals.org
 care.diabetesjournals.org
 car.sagepub.com
 caseconnector.jbjs.org
+casereports.bmj.com
 cat.sagepub.com
 cbi.sagepub.com
 cbr.sagepub.com
@@ -256,6 +258,7 @@ dem.sagepub.com
 dev.biologists.org
 dfc.chemnetbase.com
 dhg.sagepub.com
+dhj.sagepub.com
 diabetes.diabetesjournals.org
 digital.library.pitt.edu
 dij.sagepub.com
@@ -374,6 +377,7 @@ genome.cshlp.org
 genomemedicine.com
 geronj.oxfordjournals.org
 gerontologist.oxfordjournals.org
+ggm.sagepub.com
 glycob.oxfordjournals.org
 gmc.sagepub.com
 gmt.sagepub.com
@@ -454,6 +458,7 @@ info.sciencedirect.com
 infotrac.galegroup.com
 ingentaconnect.com
 ini.sagepub.com
+inq.sagepub.com
 intimm.oxfordjournals.org
 intqhc.oxfordjournals.org
 int.sagepub.com
@@ -546,6 +551,7 @@ jen.sagepub.com
 jep.sagepub.com
 jer.sagepub.com
 jes.sagepub.com
+jet.sagepub.com
 jfe.sagepub.com
 jfh.sagepub.com
 jfi.sagepub.com
@@ -652,6 +658,7 @@ jrm.sagepub.com
 jrn.sagepub.com
 jrp.sagepub.com
 jrs.sagepub.com
+jrt.sagepub.com
 jsa.sagepub.com
 jsd.sagepub.com
 jse.sagepub.com
@@ -767,6 +774,7 @@ nsq.sagepub.com
 ntr.oxfordjournals.org
 nvs.sagepub.com
 oae.sagepub.com
+obgyn.mhmedical.com
 occmed.oxfordjournals.org
 oed.com
 oem.bmj.com
@@ -822,6 +830,7 @@ pim.sagepub.com
 pin.sagepub.com
 pio.sagepub.com
 pip.sagepub.com
+plr.sagepub.com
 plt.sagepub.com
 pmj.bmj.com
 pmj.sagepub.com
