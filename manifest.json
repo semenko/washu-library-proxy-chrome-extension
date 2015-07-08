@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Auto Library Proxy Access for WashU",
-    "version": "2015.5.23",
+    "version": "2015.7.8",
     "author": "Nick Semenkovich",
     "description": "Automatically load journal websites using Becker and Libproxy. By Nick Semenkovich <semenko@alum.mit.edu>",
     "background": {

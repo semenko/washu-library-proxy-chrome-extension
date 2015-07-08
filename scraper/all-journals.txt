@@ -276,6 +276,7 @@ bjp.rcpsych.org
 bjp.sagepub.com
 bjr.boneandjoint.org.uk
 bjr.sagepub.com
+blackhistorybulletin.com
 bloodjournal.org
 bmb.oxfordjournals.org
 bmbreports.org
@@ -293,6 +294,7 @@ bpded.com
 bpsmedicine.com
 brain.oxfordjournals.org
 breast-cancer-research.com
+brepolsonline.net
 brn.sagepub.com
 bsc.chadwyck.com
 bsd-journal.com
@@ -1331,6 +1333,7 @@ lap.sagepub.com
 laryngologyandvoice.org
 las.sagepub.com
 latindex.unam.mx
+latinnews.com
 lch.sagepub.com
 ldq.sagepub.com
 ldx.sagepub.com
@@ -1446,6 +1449,7 @@ msmonographs.org
 mss.sagepub.com
 msx.sagepub.com
 mtq.sagepub.com
+multi-science.atypon.com
 muse.jhu.edu
 mwc.sagepub.com
 myilibrary.com
@@ -1532,6 +1536,7 @@ oncology.jamanetwork.com
 onlinejets.org
 onlinelibrary.wiley.com
 online.liebertpub.com
+online.liverpooluniversitypress.co.uk
 online.sagepub.com
 online.statref.com
 openheart.bmj.com
@@ -1830,6 +1835,7 @@ slg.sagepub.com
 slmms.org
 slr.sagepub.com
 sls.sagepub.com
+smf4.emath.fr
 smf.emath.fr
 smh.sagepub.com
 smjonline.org
@@ -1970,6 +1976,7 @@ tva.sagepub.com
 tvn.sagepub.com
 ualberta.ca
 uar.sagepub.com
+uclajournals.org
 uex.sagepub.com
 uix.sagepub.com
 unboundmedicine.com
@@ -1979,6 +1986,7 @@ uptodate.com
 urologyannals.com
 usj.sagepub.com
 uspnf.com
+utpjournals.press
 uwpress.org
 vascular-access.info
 vascularcell.com
@@ -2143,6 +2151,7 @@ www.bone-abstracts.org
 www.books.aisc.ucla.edu
 www.bpded.com
 www.bpsmedicine.com
+www.brepolsonline.net
 www.bsd-journal.com
 www.burnstrauma.com
 www.cabells.com
@@ -2542,6 +2551,7 @@ www.labanimal.com
 www.landesbioscience.com
 www.laryngologyandvoice.org
 www.latindex.unam.mx
+www.latinnews.com
 www.lexisnexis.com
 www.libraweb.net
 www.liebertonline.com
@@ -2772,6 +2782,7 @@ www.unboundmedicine.com
 www.uptodate.com
 www.urologyannals.com
 www.uspnf.com
+www.utpjournals.press
 www.uwpress.org
 www.vascular-access.info
 www.vascularcell.com
